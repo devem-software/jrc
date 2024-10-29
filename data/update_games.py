@@ -1,8 +1,11 @@
 import json
 import re
+import os
 from googleapiclient.discovery import build
 from datetime import datetime
 
+YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY")
+YOUTUBE_CHANNEL_ID = os.getenv("YOUTUBE_CHANNEL_ID")
 
 def format_duration(iso_duration):
     pattern = re.compile(r"PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?")
@@ -128,12 +131,12 @@ def add_games(filename="partidos"):
             data["games"].append(new_video)
 
     return data
-    
-api_key = "AIzaSyAb7pzBaJbrdmdGXeCTauI_fNA4bcMlh8M"
-channel_id = "UCgZ5IJNoVYleiAa4NT_F2qQ"
 
 filename ="partidos"
-videos = get_youtube_videos(api_key, channel_id)
+videos = get_youtube_videos(
+  YOUTUBE_API_KEY, 
+  YOUTUBE_CHANNEL_ID
+  )
 
 save_videos_to_json(videos, f"{filename}_new" )
 add_games(filename)
