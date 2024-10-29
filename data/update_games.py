@@ -4,8 +4,8 @@ import os
 from googleapiclient.discovery import build
 from datetime import datetime
 
-YOUTUBE_API_KEY = os.environ["YOUTUBE_API_KEY"]
-YOUTUBE_CHANNEL_ID = os.environ["YOUTUBE_CHANNEL_ID"]
+YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY")
+YOUTUBE_CHANNEL_ID = os.getenv("YOUTUBE_CHANNEL_ID")
 
 def format_duration(iso_duration):
     pattern = re.compile(r"PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?")
