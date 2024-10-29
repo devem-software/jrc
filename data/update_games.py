@@ -60,13 +60,13 @@ def get_youtube_videos(api_key, channel_id):
     return videos
 
 def save_videos_to_json(videos, filename="partidos"):
-    with open(f"{filename}.json", "w") as json_file:
+    with open(f"./{filename}.json", "w") as json_file:
         json.dump(videos, json_file, indent=4)
 
 def add_games(filename="partidos"):
-    with open(f"{filename}.json", "r", encoding="utf8") as file:
+    with open(f"./{filename}.json", "r", encoding="utf8") as file:
         data = json.load(file)
-    with open(f"{filename}_new.json", "r", encoding="utf8") as new_file:
+    with open(f"./{filename}_new.json", "r", encoding="utf8") as new_file:
         new_data = json.load(new_file)
 
     existing_video_ids = {video["videoId"] for video in data["games"]}
