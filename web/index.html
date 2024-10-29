@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Videos - JRC</title>
+    <link rel="stylesheet" href="./styles/style.css">
+</head>
+
+<body>
+    <div id="app" class="app">
+        <div class="app__filters">
+            <div class="app__filters_controls"></div>
+            <div class="app__filters_results"></div>
+        </div>
+        <div class="app__video">
+            <div class="app__video_player">
+                <iframe id="videoIframe" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div class="app__video_events">
+                <div class="app__video_controls game"></div>
+                <div class="app__video_controls lineout"></div>
+                <div class="app__video_controls scrum"></div>
+                <div class="app__video_controls ruck"></div>
+                <div class="app__video_controls score"></div>
+                <div class="app__video_controls fouls"></div>
+            </div>
+        </div>
+    </div>
+    <script src="./scripts/new_app.js" type="module"></script>
+</body>
+
+</html>
