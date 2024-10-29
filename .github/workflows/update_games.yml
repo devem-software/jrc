@@ -5,6 +5,10 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+env:
+  YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+  YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }}
+
 jobs:
   update-partidos:
     runs-on: ubuntu-latest
@@ -20,10 +24,7 @@ jobs:
     - name: Install Dependencies
       run: pip install requests google-api-python-client
 
-    - name: Run Update Script
-      env:
-        YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }}
+    - name: Run Update Script  
       run: python data/update_games.py
 
     - name: Commit and Push Changes
