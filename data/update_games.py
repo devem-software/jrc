@@ -130,7 +130,7 @@ def add_games(filename="partidos"):
             data["games"].append(new_video)
 
     with open(f"data/{filename}.json", "w") as file:
-    json.dump(data, file, indent=4)
+      json.dump(data, file, indent=4)
 
     return data
 
