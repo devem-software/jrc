@@ -22,8 +22,8 @@ jobs:
 
     - name: Run Update Script
       env:
-        YOUTUBE_API_KEY: {{ secrets.YAK }}
-        YOUTUBE_CHANNEL_ID: {{ secrets.YCI }}
+        YOUTUBE_API_KEY: {{ secrets.YOUTUBE_API_KEY }}
+        YOUTUBE_CHANNEL_ID: {{ secrets.YOUTUBE_CHANNEL_ID }}
       run: python data/update_games.py
 
     - name: Commit and Push Changes
