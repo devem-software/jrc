@@ -1,27 +1,67 @@
 import json
 import re
+from googleapiclient.discovery import build
 from datetime import datetime
 
 
 def format_duration(iso_duration):
-    # Expresión regular para capturar horas, minutos y segundos
     pattern = re.compile(r"PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?")
     match = pattern.match(iso_duration)
+    hours = match.group(1) if match.group(1) else "00"
+    minutes = match.group(2) if match.group(2) else "00"
+    seconds = match.group(3) if match.group(3) else "00"
 
-    hours = match.group(1) if match.group(1) else "00"  # type: ignore
-    minutes = match.group(2) if match.group(2) else "00"  # type: ignore
-    seconds = match.group(3) if match.group(3) else "00"  # type: ignore
-
-    # Asegurar formato de dos dígitos
     hours = hours.zfill(2)
     minutes = minutes.zfill(2)
     seconds = seconds.zfill(2)
 
-    # Retornar la duración en el formato "HH:MM:SS"
     return f"{hours}:{minutes}:{seconds}"
 
 
-def add_games(filename):
+def get_youtube_videos(api_key, channel_id):
+    youtube = build("youtube", "v3", developerKey=api_key)
+
+    videos = []
+    next_page_token = None
+
+    while True:
+        request = youtube.search().list(
+            part="snippet",
+            channelId=channel_id,
+            maxResults=1200,
+            pageToken=next_page_token,
+            type="video",
+        )
+        response = request.execute()
+
+        video_ids = [item["id"]["videoId"] for item in response["items"]]
+        video_details = (
+            youtube.videos()
+            .list(part="contentDetails", id=",".join(video_ids))
+            .execute()
+        )
+
+        for item, details in zip(response["items"], video_details["items"]):
+            print(item, details)
+            video_data = {
+                "videoId": item["id"]["videoId"],
+                "title": item["snippet"]["title"],
+                "publishedAt": item["snippet"]["publishedAt"],
+                "duration": details["contentDetails"]["duration"],
+            }
+            videos.append(video_data)
+
+        next_page_token = response.get("nextPageToken")
+        if not next_page_token:
+            break
+
+    return videos
+
+def save_videos_to_json(videos, filename="partidos"):
+    with open(f"{filename}.json", "w") as json_file:
+        json.dump(videos, json_file, indent=4)
+
+def add_games(filename="partidos"):
     with open(f"{filename}.json", "r", encoding="utf8") as file:
         data = json.load(file)
     with open(f"{filename}_new.json", "r", encoding="utf8") as new_file:
@@ -81,23 +121,19 @@ def add_games(filename):
                 ],
             }
             data["info"]["period"] = [
-                max(int(video["year"]) for video in games),
-                min(int(video["year"]) for video in games),
+                max(int(video["year"]) for video in data["games"]),
+                min(int(video["year"]) for video in data["games"]),
             ]
             data["info"]["last_update"] = str(last_video_update)
             data["games"].append(new_video)
 
-    # with open(f"{filename}.json", "w") as file:
-    # json.dump(data, file, indent=4)
-
     return data
+    
+api_key = "AIzaSyAb7pzBaJbrdmdGXeCTauI_fNA4bcMlh8M"
+channel_id = "UCgZ5IJNoVYleiAa4NT_F2qQ"
 
+filename ="partidos"
+videos = get_youtube_videos(api_key, channel_id)
 
-games = add_games("partidos")["games"]
-
-print(
-    [
-        max(int(video["year"]) for video in games),
-        min(int(video["year"]) for video in games),
-    ]
-)
+save_videos_to_json(videos, f"{filename}_new" )
+add_games(filename)
