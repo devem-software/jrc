@@ -18,7 +18,7 @@ jobs:
         python-version: "3.x"
 
     - name: Install Dependencies
-      run: pip install requests os json
+      run: pip install requests
 
     - name: Run Update Script
       env:
