@@ -45,7 +45,6 @@ def get_youtube_videos(api_key, channel_id):
         )
 
         for item, details in zip(response["items"], video_details["items"]):
-            print(item, details)
             video_data = {
                 "videoId": item["id"]["videoId"],
                 "title": item["snippet"]["title"],
