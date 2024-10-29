@@ -56,10 +56,6 @@ def get_youtube_videos(api_key, channel_id):
 
     return videos
 
-
-import json
-
-
 def save_videos_to_json(videos, filename="partidos_new.json"):
     with open(filename, "w") as json_file:
         json.dump(videos, json_file, indent=4)
