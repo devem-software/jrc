@@ -23,7 +23,7 @@ jobs:
     - name: Run Update Script
       env:
         ENV: ${{ secrets.env }}
-      run: python data/update_partidos.py
+      run: python data/update_gamed.py
 
     - name: Commit and Push Changes
       run: |
