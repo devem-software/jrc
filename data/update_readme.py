@@ -3,7 +3,7 @@ from datetime import datetime
 
 def generate_readme(filename="partidos"):
     # Cargar los datos de los partidos desde el archivo JSON
-    with open(f"{filename}.json", "r", encoding="utf8") as file:
+    with open(f"data/{filename}.json", "r", encoding="utf8") as file:
         data = json.load(file)
 
     # Obtener información para el README
