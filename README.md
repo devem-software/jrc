@@ -6,7 +6,7 @@
 2024-10-29 22:00:42
 
 ### Partidos totales jugados
-701
+723
 
 ### Torneos totales jugados
 5
