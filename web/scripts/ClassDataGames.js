@@ -12,10 +12,10 @@ export default class ClassDataGames {
        
     }
     async load_data() {
-        const stored_data = localStorage.getItem(this.local_storage_key)
-        if (stored_data !== undefined || stored_data !== null) {
-            this.data = JSON.parse(stored_data)
-        } else {
+  //       const stored_data = localStorage.getItem(this.local_storage_key)
+//         if (stored_data !== undefined || stored_data !== null) {
+//             this.data = JSON.parse(stored_data)
+//         } else {
             try {
                console.log(this.path)
                 const response = await fetch(this.path)
@@ -31,7 +31,7 @@ export default class ClassDataGames {
             } catch (error) {
                 console.error(error)
             }
-        }
+       // }
     }
     async get_data() {
         return await this.data
