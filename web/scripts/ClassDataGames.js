@@ -22,7 +22,7 @@ export default class ClassDataGames {
                 console.log(response)
                 if (!response.ok)
                     throw new Error(`Error al cargar el archivo desde ${path}`)
-                this.data = await response.json
+                this.data = await response.json()
                 console.log(this.data)
                 localStorage.setItem(
                     this.local_storage_key,
