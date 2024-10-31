@@ -13,7 +13,7 @@ export default class ClassDataGames {
     }
     async load_data() {
         const stored_data = localStorage.getItem(this.local_storage_key)
-        if (stored_data !== undefined) {
+        if (stored_data !== undefined || stored_data !== null) {
             this.data = JSON.parse(stored_data)
  console.log(this.path)
         } else {
