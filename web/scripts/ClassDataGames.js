@@ -9,6 +9,7 @@ export default class ClassDataGames {
     }
     set_path(path) {
         this.path =  path
+        console.log(this.path)
     }
     async load_data() {
         const stored_data = localStorage.getItem(this.local_storage_key)
