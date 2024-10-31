@@ -15,11 +15,11 @@ export default class ClassDataGames {
         const stored_data = localStorage.getItem(this.local_storage_key)
         if (stored_data !== undefined || stored_data !== null) {
             this.data = JSON.parse(stored_data)
- console.log(this.path)
         } else {
             try {
                console.log(this.path)
                 const response = await fetch(this.path)
+                console.log(response)
                 if (!response.ok)
                     throw new Error(`Error al cargar el archivo desde ${path}`)
                 this.data = await response.json
