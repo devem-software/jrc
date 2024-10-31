@@ -9,7 +9,7 @@ export default class ClassDataGames {
     }
     set_path(path) {
         this.path =  path
-        console.log(this.path)
+       
     }
     async load_data() {
         const stored_data = localStorage.getItem(this.local_storage_key)
@@ -17,6 +17,7 @@ export default class ClassDataGames {
             this.data = JSON.parse(stored_data)
         } else {
             try {
+               console.log(this.path)
                 const response = await fetch(this.path)
                 if (!response.ok)
                     throw new Error(`Error al cargar el archivo desde ${path}`)
