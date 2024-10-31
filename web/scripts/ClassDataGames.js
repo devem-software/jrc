@@ -20,6 +20,7 @@ export default class ClassDataGames {
                 if (!response.ok)
                     throw new Error(`Error al cargar el archivo desde ${path}`)
                 this.data = await response.json
+                console.log(this.data)
                 localStorage.setItem(
                     this.local_storage_key,
                     JSON.stringify(this.data)
