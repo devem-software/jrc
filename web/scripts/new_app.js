@@ -4,7 +4,7 @@ import ClassRender from './ClassRender.js'
 const dg = new ClassDataGames()
 const render = new ClassRender()
 
-dg.set_path('../data/partidos.json')
+// dg.set_path('../data/partidos.json')
 dg.set_path("https://raw.githubusercontent.com/devem-software/jrc/refs/heads/main/data/partidos.json")
 await dg.load_data()
 
