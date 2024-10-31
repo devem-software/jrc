@@ -7,8 +7,8 @@ export default class ClassDataGames {
         this.compiled // Se almacena toda la información organizada para ser usada en la web
         this.local_storage_key = 'games'
     }
-    async set_path(path) {
-        this.path = await path
+    set_path(path) {
+        this.path =  path
     }
     async load_data() {
         const stored_data = localStorage.getItem(this.local_storage_key)
