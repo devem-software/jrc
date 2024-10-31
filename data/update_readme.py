@@ -1,6 +1,7 @@
 import json
 from datetime import datetime
 
+
 def generate_readme(filename="partidos"):
     # Cargar los datos de los partidos desde el archivo JSON
     with open(f"data/{filename}.json", "r", encoding="utf8") as file:
@@ -17,16 +18,18 @@ def generate_readme(filename="partidos"):
     for game in data["games"]:
         tournament = game["tournament"]
         if tournament:
-            games_per_tournament[tournament] = games_per_tournament.get(tournament, 0) + 1
+            games_per_tournament[tournament] = (
+                games_per_tournament.get(tournament, 0) + 1
+            )
 
     # Listar equipos masculinos y femeninos
     male_teams = set()
     female_teams = set()
     for game in data["games"]:
         # Aquí asumimos que las categorías "masculino" y "femenino" están en `game["category"]`
-        if game["category"] == "masculino":
+        if game["category"] == "MASCULINO":
             male_teams.update(game["teams"])
-        elif game["category"] == "femenino":
+        elif game["category"] == "FEMENINO":
             female_teams.update(game["teams"])
 
     # Formato para el archivo README.md
@@ -52,11 +55,11 @@ def generate_readme(filename="partidos"):
 
 ### Cantidad y lista de equipos masculinos
 {len(male_teams)} equipos:
-{', '.join(sorted(male_teams))}
+{'\n - '.join(sorted(male_teams))}
 
 ### Cantidad y lista de equipos femeninos
 {len(female_teams)} equipos:
-{', '.join(sorted(female_teams))}
+{'\n - '.join(sorted(female_teams))}
 """
 
     # Guardar la información en README.md

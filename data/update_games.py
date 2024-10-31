@@ -1,11 +1,15 @@
 import json
 import re
 import os
+from dotenv import load_dotenv
 from googleapiclient.discovery import build
-from datetime import datetime
+from datetime import datetime, timezone
+
+load_dotenv()
 
 YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY")
 YOUTUBE_CHANNEL_ID = os.getenv("YOUTUBE_CHANNEL_ID")
+
 
 def format_duration(iso_duration):
     pattern = re.compile(r"PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?")
@@ -59,9 +63,11 @@ def get_youtube_videos(api_key, channel_id):
 
     return videos
 
+
 def save_videos_to_json(videos, filename="partidos"):
     with open(f"data/{filename}.json", "w") as json_file:
         json.dump(videos, json_file, indent=4)
+
 
 def add_games(filename="partidos"):
     with open(f"data/{filename}.json", "r", encoding="utf8") as file:
@@ -82,6 +88,7 @@ def add_games(filename="partidos"):
                 "videoId": video["videoId"],
                 "title": video["title"],
                 "publishedAt": video["publishedAt"],
+                "addedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
                 "duration": format_duration(video["duration"]),
                 "year": video["publishedAt"].split("-")[0],
                 "teams": ["A", "B"],
@@ -130,15 +137,13 @@ def add_games(filename="partidos"):
             data["games"].append(new_video)
 
     with open(f"data/{filename}.json", "w") as file:
-      json.dump(data, file, indent=4)
+        json.dump(data, file, indent=4)
 
     return data
 
-filename ="partidos"
-videos = get_youtube_videos(
-  YOUTUBE_API_KEY, 
-  YOUTUBE_CHANNEL_ID
-  )
 
-save_videos_to_json(videos, f"{filename}_new" )
+filename = "partidos"
+videos = get_youtube_videos(YOUTUBE_API_KEY, YOUTUBE_CHANNEL_ID)
+
+save_videos_to_json(videos, f"{filename}_new")
 add_games(filename)

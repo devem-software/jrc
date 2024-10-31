@@ -1,19 +1,13 @@
-# from email import header
-# import requests
-
-# CHANNEL_ID = "UCgZ5IJNoVYleiAa4NT_F2qQ"
-# API_KEY = "AIzaSyAb7pzBaJbrdmdGXeCTauI_fNA4bcMlh8M"
-# CHANNEL_URL = f"https://youtube.com/channel/{CHANNEL_ID}"
-# VIDEOS_FEED = f"https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL_ID}"
-
-# req = requests.get(VIDEOS_FEED, headers={"User-Agent": "Chrome/100.0.0"})
-
-# data = req.content
-
-# print(data)
 import json
-import pandas as pd
+from multiprocessing.reduction import duplicate
+import os
+from dotenv import load_dotenv
 from googleapiclient.discovery import build
+
+load_dotenv()
+
+api_key = os.getenv("YOUTUBE_API_KEY")
+channel_id = os.getenv("YOUTUBE_CHANNEL_ID")
 
 
 def get_youtube_videos(api_key, channel_id):
@@ -56,16 +50,27 @@ def get_youtube_videos(api_key, channel_id):
 
     return videos
 
+
 def save_videos_to_json(videos, filename="partidos_new.json"):
     with open(filename, "w") as json_file:
         json.dump(videos, json_file, indent=4)
 
 
-# Uso
-api_key = "AIzaSyAb7pzBaJbrdmdGXeCTauI_fNA4bcMlh8M"
-channel_id = "UCgZ5IJNoVYleiAa4NT_F2qQ"
-videos = get_youtube_videos(api_key, channel_id)
+# videos = get_youtube_videos(api_key, channel_id)
 
-print(len(videos))
+# print(len(videos))
 
-save_videos_to_json(videos)
+# save_videos_to_json(videos)
+
+from collections import Counter
+
+with open("data/partidos.json", "r", encoding="utf_8") as file:
+    data = json.load(file)
+
+ids = [item["videoId"] for item in data["games"]]
+idsCount = Counter(ids)
+
+duplicates = [id for id, count in idsCount.items() if count > 1]
+
+print(duplicates)
+print(len(data["games"]))
