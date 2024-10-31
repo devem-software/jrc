@@ -10,7 +10,6 @@ await dg.load_data()
 
 // const data = await dg.get_data()
 const games = dg.get_games()
-console.log(games)
 const tournaments = dg.get_tournaments()
 const years = dg.get_years()
 const categories = dg.get_categories()
@@ -18,7 +17,7 @@ const modalities = dg.get_modalities()
 const teams = dg.get_teams()
 const femaleteams = dg.get_teams('F')
 const maleteams = dg.get_teams('M')
-
+console.log(dg)
 const filters = document.querySelector('.app__filters_controls')
 
 const add_filter = (data, data_optional, label_text, id, styles) => {
