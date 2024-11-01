@@ -2,99 +2,97 @@
 
 ## Base de datos de los partidos subidos a YouTube por la liga de rugby de Bogotá
 
-### Última actualización
+### 2024-10-29 22:00:42 Fue la última actualización: 
 
-2024-10-29 22:00:42
+### 716 Partidos han sido jugados desde 2013: 
 
-### Partidos totales jugados
+### 5 Torneos se han jugados desde 2013
 
-716
+ - FESTIVAL DE VERANO
+ - LIGA DE RUGBY DE BOGOTA
+ - INTERNACIONAL DE SEVENS - BOGOTA
+ - INTERLIGAS
+ - SUPER 20
 
-### Torneos totales jugados
+### Partidos por torneo desde 2013 hasta el 2024
+|Torneo|Partidos|
+|:--|--:|
+|LIGA DE RUGBY DE BOGOTA| 489|
+|INTERLIGAS| 29|
+|SUPER 20| 9|
+|FESTIVAL DE VERANO| 5|
+|INTERNACIONAL DE SEVENS - BOGOTA| 1|
 
-5
+### 41 Equipos masculinos han participado desde 2013
 
-### Partidos por torneo
+ - OLD MARKHAMIANS
+ - ANTIOQUIA
+ - ZEPPELIN
+ - CANCERBEROS
+ - CESAR
+ - AZULES CANCERBEROS
+ - TOLIMA
+ - ANIMALS
+ - BARBARIANS
+ - GATOS
+ - JAGUARES
+ - LSR
+ - AZULES
+ - CARNEROS
+ - FUNZA
+ - VALLE
+ - IND SALAMANDRAS
+ - LRC
+ - GARROTE
+ - INDUSTRIALES
+ - MANOBA
+ - ALIANZA
+ - LYCANS
+ - ARRIEROS
+ - DUENDES
+ - FEI REDENTOR
+ - MAGDALENA
+ - LIONS
+ - LA PAZ
+ - COSTA RICA
+ - META
+ - MINOTAUROS
+ - RISARALDA
+ - COYOTES
+ - SALAMANDRAS
+ - CARBONEROS
+ - COBRAS
+ - BOGOTA
+ - FENIX
+ - TOROS
+ - VIKINGGOS
 
-- LIGA DE RUGBY DE BOGOTA: 489 partidos
-- INTERLIGAS: 29 partidos
-- SUPER 20: 9 partidos
-- FESTIVAL DE VERANO: 5 partidos
-- INTERNACIONAL DE SEVENS - BOGOTA: 1 partidos
+### 26 Equipos femeninos han participado desde 2013
 
-### Cantidad y lista de equipos masculinos
-
-41 equipos:
-
-- ALIANZA
-- ANIMALS
-- ANTIOQUIA
-- ARRIEROS
-- AZULES
-- AZULES CANCERBEROS
-- BARBARIANS
-- BOGOTA
-- CANCERBEROS
-- CARBONEROS
-- CARNEROS
-- CESAR
-- COBRAS
-- COSTA RICA
-- COYOTES
-- DUENDES
-- FEI REDENTOR
-- FENIX
-- FUNZA
-- GARROTE
-- GATOS
-- IND SALAMANDRAS
-- INDUSTRIALES
-- JAGUARES
-- LA PAZ
-- LIONS
-- LRC
-- LSR
-- LYCANS
-- MAGDALENA
-- MANOBA
-- META
-- MINOTAUROS
-- OLD MARKHAMIANS
-- RISARALDA
-- SALAMANDRAS
-- TOLIMA
-- TOROS
-- VALLE
-- VIKINGGOS
-- ZEPPELIN
-
-### Cantidad y lista de equipos femeninos
-
-26 equipos:
-
-- ALBORADA
-- ALIANZA
-- ALIANZA CACHACAS
-- ANIMALS
-- ANTIOQUIA
-- BARBARIANS
-- BOGOTA
-- CACHACAS
-- CANCERBEROS
-- CANCERBEROS OCELOTES
-- CARNEROS
-- CESAR
-- CIUDAD BOLIVAR
-- COYOTES
-- JAGUARES
-- LECHUZAS
-- LRB
-- LRG
-- MINOTAUROS
-- RISARALDA
-- TARGARYEN
-- TOLIMA
-- UIS
-- VALLE
-- ZEPPELIN
-- ZEPPELIN ROSAS
+ - ANTIOQUIA
+ - ZEPPELIN
+ - CANCERBEROS
+ - CESAR
+ - TOLIMA
+ - ANIMALS
+ - BARBARIANS
+ - UIS
+ - JAGUARES
+ - CARNEROS
+ - VALLE
+ - LECHUZAS
+ - LRB
+ - LRG
+ - ZEPPELIN ROSAS
+ - ALIANZA
+ - ALIANZA CACHACAS
+ - CIUDAD BOLIVAR
+ - CANCERBEROS OCELOTES
+ - ALBORADA
+ - RISARALDA
+ - MINOTAUROS
+ - COYOTES
+ - CACHACAS
+ - BOGOTA
+ - TARGARYEN
+    

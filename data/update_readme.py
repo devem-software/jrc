@@ -9,6 +9,8 @@ def generate_readme(filename="partidos"):
 
     # Obtener información para el README
     last_update = data["info"]["last_update"]
+    start = data["info"]["period"][1]
+    end = data["info"]["period"][0]
     total_games = len(data["games"])
     torneos = set(game["tournament"] for game in data["games"] if game["tournament"])
     total_tournaments = len(torneos)
@@ -37,29 +39,40 @@ def generate_readme(filename="partidos"):
 
 ## Base de datos de los partidos subidos a YouTube por la liga de rugby de Bogotá
 
-### Última actualización
-{last_update}
+### {last_update} Fue la última actualización: 
 
-### Partidos totales jugados
-{total_games}
+### {total_games} Partidos han sido jugados desde {start}: 
 
-### Torneos totales jugados
-{total_tournaments}
-
-### Partidos por torneo
+### {total_tournaments} Torneos se han jugados desde {start}
 """
-    for tournament, count in games_per_tournament.items():
-        readme_content += f"- {tournament}: {count} partidos\n"
+    for torneo in torneos:
+        readme_content += "\n - " + torneo
 
     readme_content += f"""
 
-### Cantidad y lista de equipos masculinos
-{len(male_teams)} equipos:
-{'\n - '.join(sorted(male_teams))}
+### Partidos por torneo desde {start} hasta el {end}
+"""
+    table = "|Torneo|Partidos|"
+    table += "\n|:--|--:|"
+    for tournament, count in games_per_tournament.items():
+        table += f"\n|{tournament}| {count}|"
+    readme_content += table
+    readme_content += f"""
 
-### Cantidad y lista de equipos femeninos
-{len(female_teams)} equipos:
-{'\n - '.join(sorted(female_teams))}
+### {len(male_teams)} Equipos masculinos han participado desde {start}
+"""
+    for team in male_teams:
+        readme_content += "\n - " + team
+
+    readme_content += f"""
+
+### {len(female_teams)} Equipos femeninos han participado desde {start}
+"""
+    for team in female_teams:
+        readme_content += "\n - " + team
+
+    readme_content += f"""
+    
 """
 
     # Guardar la información en README.md
