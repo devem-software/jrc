@@ -2,6 +2,22 @@ import json
 from datetime import datetime
 
 
+def generate_table(array, columns, header):
+    tabla_md = ""
+    filas = [array[i : i + columns] for i in range(0, len(array), columns)]
+
+    # Encabezados de las columnas
+    encabezados = "| " + " | ".join([header] * columns) + " |"
+    separador = "|" + "----|" * columns
+    tabla_md += encabezados + "\n" + separador + "\n"
+
+    # Añadir las filas
+    for fila in filas:
+        tabla_md += "| " + " | ".join(f"{elem}" for elem in fila) + " |\n"
+
+    return tabla_md
+
+
 def generate_readme(filename="partidos"):
     # Cargar los datos de los partidos desde el archivo JSON
     with open(f"data/{filename}.json", "r", encoding="utf8") as file:
@@ -35,22 +51,20 @@ def generate_readme(filename="partidos"):
             female_teams.update(game["teams"])
 
     # Formato para el archivo README.md
-    readme_content = f"""# Partidos Liga de Rugby de Bogotá
+    readme_content = f"""
+# 🏉 LIGA DE RUGBY DE BOGOTÁ <BR/>🏃‍➡️ PARTIDOS JUGADOS
 
-## Base de datos de los partidos subidos a YouTube por la liga de rugby de Bogotá
+### 🗃️ Base de datos de los partidos subidos a YouTube <br/> por la liga de rugby de Bogotá desde {start}
 
-### {last_update} Fue la última actualización: 
+## ⏱️Ultima actualización
 
-### {total_games} Partidos han sido jugados desde {start}: 
+### 🗓️ {last_update} 
 
-### {total_tournaments} Torneos se han jugados desde {start}
-"""
-    for torneo in torneos:
-        readme_content += "\n - " + torneo
+### 💪{total_games} Partidos han sido jugados
 
-    readme_content += f"""
+---
 
-### Partidos por torneo desde {start} hasta el {end}
+## Partidos por torneo desde {start} hasta el {end}
 """
     table = "|Torneo|Partidos|"
     table += "\n|:--|--:|"
@@ -59,20 +73,41 @@ def generate_readme(filename="partidos"):
     readme_content += table
     readme_content += f"""
 
+---
+
+## 👩‍🧑🏽‍👧🏻 Equipos participantes en los torneos
+
 ### {len(male_teams)} Equipos masculinos han participado desde {start}
+
+<details>
+<summary>🙎‍♂️ Click para ver los equipos masculinos</summary>
+<br/>
+
 """
-    for team in male_teams:
-        readme_content += "\n - " + team
+    readme_content += generate_table(list(male_teams), 3, "")
 
     readme_content += f"""
+
+</details>
 
 ### {len(female_teams)} Equipos femeninos han participado desde {start}
+
+<details>
+<summary>🙎‍♀️ Click para ver los equipos femeninos</summary>
+<br/>
+
 """
-    for team in female_teams:
-        readme_content += "\n - " + team
+    readme_content += generate_table(list(female_teams), 3, "")
 
     readme_content += f"""
-    
+
+</details>
+<br/>
+<br/>
+
+---
+
+# 🐆 JAGUARES EN LA LIGA
 """
 
     # Guardar la información en README.md

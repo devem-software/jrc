@@ -1,20 +1,17 @@
-# Partidos Liga de Rugby de Bogotá
 
-## Base de datos de los partidos subidos a YouTube por la liga de rugby de Bogotá
+# 🏉 LIGA DE RUGBY DE BOGOTÁ <BR/>🏃‍➡️ PARTIDOS JUGADOS
 
-### 2024-10-29 22:00:42 Fue la última actualización: 
+### 🗃️ Base de datos de los partidos subidos a YouTube <br/> por la liga de rugby de Bogotá desde 2013
 
-### 716 Partidos han sido jugados desde 2013: 
+## ⏱️Ultima actualización
 
-### 5 Torneos se han jugados desde 2013
+### 🗓️ 2024-10-29 22:00:42 
 
- - FESTIVAL DE VERANO
- - LIGA DE RUGBY DE BOGOTA
- - INTERNACIONAL DE SEVENS - BOGOTA
- - INTERLIGAS
- - SUPER 20
+### 💪716 Partidos han sido jugados
 
-### Partidos por torneo desde 2013 hasta el 2024
+---
+
+## Partidos por torneo desde 2013 hasta el 2024
 |Torneo|Partidos|
 |:--|--:|
 |LIGA DE RUGBY DE BOGOTA| 489|
@@ -23,76 +20,59 @@
 |FESTIVAL DE VERANO| 5|
 |INTERNACIONAL DE SEVENS - BOGOTA| 1|
 
+---
+
+## 👩‍🧑🏽‍👧🏻 Equipos participantes en los torneos
+
 ### 41 Equipos masculinos han participado desde 2013
 
- - OLD MARKHAMIANS
- - ANTIOQUIA
- - ZEPPELIN
- - CANCERBEROS
- - CESAR
- - AZULES CANCERBEROS
- - TOLIMA
- - ANIMALS
- - BARBARIANS
- - GATOS
- - JAGUARES
- - LSR
- - AZULES
- - CARNEROS
- - FUNZA
- - VALLE
- - IND SALAMANDRAS
- - LRC
- - GARROTE
- - INDUSTRIALES
- - MANOBA
- - ALIANZA
- - LYCANS
- - ARRIEROS
- - DUENDES
- - FEI REDENTOR
- - MAGDALENA
- - LIONS
- - LA PAZ
- - COSTA RICA
- - META
- - MINOTAUROS
- - RISARALDA
- - COYOTES
- - SALAMANDRAS
- - CARBONEROS
- - COBRAS
- - BOGOTA
- - FENIX
- - TOROS
- - VIKINGGOS
+<details>
+<summary>🙎‍♂️ Click para ver los equipos masculinos</summary>
+<br/>
+
+|  |  |  |
+|----|----|----|
+| JAGUARES | FUNZA | INDUSTRIALES |
+| COYOTES | MANOBA | CESAR |
+| TOROS | LRC | COBRAS |
+| MAGDALENA | META | DUENDES |
+| AZULES CANCERBEROS | VIKINGGOS | ARRIEROS |
+| LA PAZ | VALLE | TOLIMA |
+| LYCANS | GARROTE | COSTA RICA |
+| IND SALAMANDRAS | AZULES | BARBARIANS |
+| ANTIOQUIA | FENIX | GATOS |
+| CANCERBEROS | ZEPPELIN | ANIMALS |
+| LSR | LIONS | MINOTAUROS |
+| ALIANZA | BOGOTA | CARNEROS |
+| RISARALDA | SALAMANDRAS | CARBONEROS |
+| FEI REDENTOR | OLD MARKHAMIANS |
+
+
+</details>
 
 ### 26 Equipos femeninos han participado desde 2013
 
- - ANTIOQUIA
- - ZEPPELIN
- - CANCERBEROS
- - CESAR
- - TOLIMA
- - ANIMALS
- - BARBARIANS
- - UIS
- - JAGUARES
- - CARNEROS
- - VALLE
- - LECHUZAS
- - LRB
- - LRG
- - ZEPPELIN ROSAS
- - ALIANZA
- - ALIANZA CACHACAS
- - CIUDAD BOLIVAR
- - CANCERBEROS OCELOTES
- - ALBORADA
- - RISARALDA
- - MINOTAUROS
- - COYOTES
- - CACHACAS
- - BOGOTA
- - TARGARYEN
-    
+<details>
+<summary>🙎‍♀️ Click para ver los equipos femeninos</summary>
+<br/>
+
+|  |  |  |
+|----|----|----|
+| JAGUARES | ALBORADA | COYOTES |
+| CESAR | UIS | VALLE |
+| LRG | TOLIMA | LRB |
+| CACHACAS | BARBARIANS | ANTIOQUIA |
+| ALIANZA CACHACAS | CANCERBEROS | ZEPPELIN |
+| TARGARYEN | LECHUZAS | ANIMALS |
+| MINOTAUROS | ALIANZA | BOGOTA |
+| CARNEROS | ZEPPELIN ROSAS | RISARALDA |
+| CIUDAD BOLIVAR | CANCERBEROS OCELOTES |
+
+
+</details>
+<br/>
+<br/>
+
+---
+
+# 🐆 JAGUARES EN LA LIGA
