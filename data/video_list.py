@@ -50,8 +50,7 @@ def add_fields(filename):
 
         for video in data:
             video["year"] = ""
-            video["teams"] = ["A", "B"]
-            video["score"] = [0, 0]  # Marcador vacío por defecto
+            video["teams"] = ["LOCAL", "VISITANTE"]
             video["tournament"] = ""
             video["category"] = ""
             video["modality"] = ""
@@ -225,11 +224,10 @@ def data_filter(file, item_find, reg, item_update, data_update):
         json.dump(games, f, indent=4)
 
 
-view = "modality"
-reg = ["Fem 7s "]
-update = "7"
+view = "category"
+reg: list[str] = ["12's Masculino"]
+update = "M"
 
 # print(pd.DataFrame(view_item("partidos.json", view)).to_string())
-
-data_filter("partidos.json", "title", reg, view, update)
-print(pd.DataFrame(view_filter("partidos.json", view, ""))["videoId"].to_string())
+data_filter("data/partidos.json", "title", reg, view, update)
+print(pd.DataFrame(view_filter("data/partidos.json", view, ""))["videoId"].to_string())

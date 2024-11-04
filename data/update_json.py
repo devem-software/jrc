@@ -42,8 +42,7 @@ def add_games(filename):
                 "publishedAt": video["publishedAt"],
                 "duration": format_duration(video["duration"]),
                 "year": video["publishedAt"].split("-")[0],
-                "teams": ["A", "B"],
-                "score": [0, 0],
+                "teams": ["LOCAL", "VISITANTE"],
                 "tournament": "",
                 "category": "",
                 "modality": "",
@@ -91,13 +90,3 @@ def add_games(filename):
     # json.dump(data, file, indent=4)
 
     return data
-
-
-games = add_games("partidos")["games"]
-
-print(
-    [
-        max(int(video["year"]) for video in games),
-        min(int(video["year"]) for video in games),
-    ]
-)

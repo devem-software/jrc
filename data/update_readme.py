@@ -2,6 +2,28 @@ import json
 from datetime import datetime
 
 
+# def filter(data, key, value):
+#     data["games"] = [game for game in data["games"] if value == game[key]]
+#     return data
+
+
+def filter(data, key, value):
+    data["games"] = [
+        game
+        for game in data["games"]
+        if (
+            game[key] == value.upper()
+            if key != "teams"
+            else value.upper() in game["teams"]
+        )
+    ]
+    return data
+
+
+def get_uniques(data, key):
+    return list(set(game[key] for game in data["games"]))
+
+
 def generate_table(array, columns, header):
     tabla_md = ""
     filas = [array[i : i + columns] for i in range(0, len(array), columns)]
@@ -45,10 +67,16 @@ def generate_readme(filename="partidos"):
     female_teams = set()
     for game in data["games"]:
         # Aquí asumimos que las categorías "masculino" y "femenino" están en `game["category"]`
-        if game["category"] == "MASCULINO":
+        if game["category"] == "M":
             male_teams.update(game["teams"])
-        elif game["category"] == "FEMENINO":
+        elif game["category"] == "F":
             female_teams.update(game["teams"])
+
+    TEAM = "JAGUARES"
+
+    jaguares_games = filter(data, "teams", TEAM)
+    jaguares_tournaments = get_uniques(jaguares_games, "tournament")
+    print(jaguares_tournaments)
 
     # Formato para el archivo README.md
     readme_content = f"""
@@ -109,6 +137,9 @@ def generate_readme(filename="partidos"):
 
 # 🐆 JAGUARES EN LA LIGA
 """
+    # readme_content += json.dumps(filter(data, "teams", "jaguares")["games"], indent=4)
+
+    # readme_content += ", ".join(get_uniques(data, "year"))
 
     # Guardar la información en README.md
     with open("README.md", "w", encoding="utf8") as readme_file:

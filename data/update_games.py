@@ -91,8 +91,7 @@ def add_games(filename="partidos"):
                 "addedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
                 "duration": format_duration(video["duration"]),
                 "year": video["publishedAt"].split("-")[0],
-                "teams": ["A", "B"],
-                "score": [0, 0],
+                "teams": ["LOCAL", "VISITANTE"],
                 "tournament": "",
                 "category": "",
                 "modality": "",
@@ -129,12 +128,13 @@ def add_games(filename="partidos"):
                     },
                 ],
             }
+            data["games"].append(new_video)
             data["info"]["period"] = [
                 max(int(video["year"]) for video in data["games"]),
                 min(int(video["year"]) for video in data["games"]),
             ]
             data["info"]["last_update"] = str(last_video_update)
-            data["games"].append(new_video)
+            data["info"]["games"] = len(data["games"])
 
     with open(f"data/{filename}.json", "w") as file:
         json.dump(data, file, indent=4)
@@ -142,8 +142,22 @@ def add_games(filename="partidos"):
     return data
 
 
+def clean_by_id(data, videoIds):
+    # Filtra la lista excluyendo los videos que tengan un videoId en la lista video_ids
+    data["games"] = [
+        video for video in data.get("games", []) if video["videoId"] not in videoIds
+    ]
+    return data
+
+
 filename = "partidos"
+sponsors = ["bC7Uz3Q9tLU", "hvuvPyqCZzo", "naGkWvia1Fo", "5No1xzb6MMk", "8b05Yvz7Sr4"]
+
 videos = get_youtube_videos(YOUTUBE_API_KEY, YOUTUBE_CHANNEL_ID)
 
-save_videos_to_json(videos, f"{filename}_new")
+
+save_videos_to_json(
+    clean_by_id(videos, sponsors),
+    f"{filename}_new",
+)
 add_games(filename)

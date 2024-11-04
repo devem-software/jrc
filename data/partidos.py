@@ -30,7 +30,6 @@ for idx, video in enumerate(partidos, start=1):
         "date": video["publishedAt"],
         "dur": video["duration"],
         "teams": equipos,
-        "score": [],  # Campo vacío para el marcador
     }
 
     print(partido["teams"])
