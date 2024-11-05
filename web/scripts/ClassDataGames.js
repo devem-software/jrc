@@ -25,8 +25,8 @@ export default class ClassDataGames {
                 this.data = await response.json()
                 this.compiled = {
                   games: await this.data.games,
-                  // teams: await this.info.teams,
-//                   tournaments: await this.info.tournaments
+                 // teams: await this.info.teams,
+                  tournaments: await this.info.tournaments
                 }
                 
                 localStorage.setItem(
