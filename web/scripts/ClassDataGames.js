@@ -24,9 +24,9 @@ export default class ClassDataGames {
                     throw new Error(`Error al cargar el archivo desde ${path}`)
                 this.data = await response.json()
                 this.compiled = {
-                  games: this.data.games,
-                  teams: this.info.teams,
-                  tournaments: this.info.tournaments
+                  games: await this.data.games,
+                  teams: await this.info.teams,
+                  tournaments: await this.info.tournaments
                 }
                 
                 localStorage.setItem(
