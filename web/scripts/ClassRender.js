@@ -22,8 +22,8 @@ export default class ClassRender {
         const add_options = data => {
             data.sort().forEach(opt => {
                 const option = document.createElement('option')
-                option.value = opt.toLowerCase()
-                option.text = opt.toUpperCase()
+                option.value = opt.toString().toLowerCase()
+                option.text = opt.toString().toUpperCase()
                 select.append(option)
             })
         }
