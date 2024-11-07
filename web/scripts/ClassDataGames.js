@@ -28,8 +28,8 @@ export default class ClassDataGames {
                 categories: this.data.info.categories,
                 years: this.data.info.years,
                 modalities: this.data.info.modalities,
-                femaleteams : this.get_teams("F"),
-                maleteams : this.get_teams("M")
+                femaleteams: this.get_teams("F"),
+                maleteams: this.get_teams("M")
             };
 
             localStorage.setItem(
@@ -82,7 +82,7 @@ export default class ClassDataGames {
             category,
             data.length === 0 ? this.data["games"] : data
         );
-        console.log(category, data,result)
+        console.log(category, data, result);
         return result;
     }
 
