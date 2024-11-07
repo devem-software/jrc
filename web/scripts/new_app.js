@@ -6,7 +6,7 @@ const render = new ClassRender()
 
 // dg.set_path('../data/partidos.json')
 await dg.set_path(
-    'https://raw.githubusercontent.com/devem-software/jrc/refs/heads/main/data/partidos.json'
+    'https://raw.githubusercontent.com/devem-software/jrc/refs/heads/main/data/optimized_partidos.json'
 )
 await dg.load_data()
 
@@ -26,7 +26,7 @@ const filters = document.querySelector('.app__filters_controls')
 const add_filter = (data, data_optional, label_text, id, styles) => {
     filters.append(
         render.selector({
-            data,
+            (Object.keys(data),
             data_optional,
             label_text,
             id,
