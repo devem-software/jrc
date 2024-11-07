@@ -67,6 +67,7 @@ export default class ClassDataGames {
         let teams = new Set();
         const filter =
             item === "ALL" ? data : data.filter(c => c["category"] === item);
+        console.log(item, filter)
         filter.forEach(t => t.teams.forEach(e => teams.add(e)));
         return [...teams];
     }
@@ -82,7 +83,6 @@ export default class ClassDataGames {
             category,
             data.length === 0 ? this.data["games"] : data
         );
-        console.log(category, data, result);
         return result;
     }
 
