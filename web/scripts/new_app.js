@@ -13,6 +13,7 @@ await dg.load_data();
 // const data = await dg.get_data()
 const games = dg.get_games();
 const tournaments = dg.get_tournaments();
+tournamen = dg.compiled.info.tournaments
 const years = dg.get_years();
 const categories = dg.get_categories();
 const modalities = dg.get_modalities();
