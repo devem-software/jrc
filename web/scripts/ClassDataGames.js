@@ -27,7 +27,9 @@ export default class ClassDataGames {
                   "games":this.data.games,
                   "teams":this.data.info.teams,
                   "tournaments":this.data.info.tournaments,
-                  "categories":this.data.info.categories
+                  "categories":this.data.info.categories,
+                  "years":this.data.info.years,
+                  "modalities":this.data.info.modalities
                 }
                 
                 localStorage.setItem(
