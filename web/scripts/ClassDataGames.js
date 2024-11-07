@@ -28,8 +28,8 @@ export default class ClassDataGames {
                 categories: this.data.info.categories,
                 years: this.data.info.years,
                 modalities: this.data.info.modalities,
-                femaleteams: this.get_teams("F"),
-                maleteams: this.get_teams("M")
+                femaleteams: await this.get_teams("F"),
+                maleteams: await this.get_teams("M")
             };
 
             localStorage.setItem(
