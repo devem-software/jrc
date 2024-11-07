@@ -22,7 +22,6 @@ const maleteams = dg.get_teams("M");
 const filters = document.querySelector(".app__filters_controls");
 
 const add_filter = (data, data_optional, label_text, id, styles) => {
-    console.log(data);
     data = Object.keys(data);
     filters.append(
         render.selector({
