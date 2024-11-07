@@ -19,8 +19,6 @@ const modalities = data.modalities
 const teams = data.teams
 const femaleteams = dg.get_teams("F");
 const maleteams = dg.get_teams("M");
-console.log("f",femaleteams);
-
 const filters = document.querySelector(".app__filters_controls");
 
 const add_filter = (data, data_optional, label_text, id, styles) => {
