@@ -10,13 +10,13 @@ await dg.set_path(
 );
 await dg.load_data();
 
-// const data = await dg.get_data()
-const games = dg.get_games();
-const tournaments = dg.get_tournaments();
-const years = dg.get_years();
-const categories = dg.get_categories();
-const modalities = dg.get_modalities();
-const teams = dg.get_teams();
+const data = await dg.get_compiled_data()
+const games = data.games
+const tournaments = data.tournaments
+const years = data.years
+const categories = data.categories
+const modalities = data.modalities
+const teams = data.teams
 const femaleteams = dg.get_teams("F");
 const maleteams = dg.get_teams("M");
 console.log(dg);
