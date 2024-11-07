@@ -10,19 +10,19 @@ await dg.set_path(
 );
 await dg.load_data();
 
-const data = await dg.get_compiled_data()
-const games = data.games
-const tournaments = data.tournaments
-const years = data.years
-const categories = data.categories
-const modalities = data.modalities
-const teams = data.teams
+const data = await dg.get_compiled_data();
+const games = data.games;
+const tournaments = data.tournaments;
+const years = data.years;
+const categories = data.categories;
+const modalities = data.modalities;
+const teams = data.teams;
 const femaleteams = dg.get_teams("F");
 const maleteams = dg.get_teams("M");
 const filters = document.querySelector(".app__filters_controls");
 
 const add_filter = (data, data_optional, label_text, id, styles) => {
-  console.log(data)
+    console.log(data);
     data = Object.keys(data);
     filters.append(
         render.selector({
