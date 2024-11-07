@@ -74,9 +74,9 @@ export default class ClassDataGames {
     get_teams(item = '', data = []) {
         const category =
             item.toUpperCase() === 'M'
-                ? 'MASCULINO'
+                ? 'M'
                 : item.toUpperCase() === 'F'
-                ? 'FEMENINO'
+                ? 'F'
                 : 'ALL'
         const result = this.get_array_item(
             category,
