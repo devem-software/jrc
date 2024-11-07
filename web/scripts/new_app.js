@@ -26,7 +26,7 @@ const filters = document.querySelector('.app__filters_controls')
 const add_filter = (data, data_optional, label_text, id, styles) => {
     filters.append(
         render.selector({
-            (Object.keys(data),
+            Object.keys(data),
             data_optional,
             label_text,
             id,
