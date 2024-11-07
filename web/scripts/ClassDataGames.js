@@ -27,6 +27,7 @@ export default class ClassDataGames {
                   "games":this.data.games,
                   "teams":this.data.info.teams,
                   "tournaments":this.data.info.tournaments,
+                  "categories":this.data.info.categories
                 }
                 
                 localStorage.setItem(
@@ -40,6 +41,9 @@ export default class ClassDataGames {
     }
     async get_data() {
         return await this.data
+    }
+    async get_compiled_data(){
+      return await this.compiled
     }
 
     get_games(data = []) {
