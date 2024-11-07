@@ -82,6 +82,7 @@ export default class ClassDataGames {
             category,
             data.length === 0 ? this.data["games"] : data
         );
+        console.log(category, data,result)
         return result;
     }
 
