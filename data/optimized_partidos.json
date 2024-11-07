@@ -2,12 +2,12 @@
  "info": {
   "author": "Edwin Marroquin",
   "email": "devem.software@gmail.com",
-  "games": 721,
+  "games": 727,
   "period": [
    2024,
    2013
   ],
-  "last_update": "2024-10-29 22:00:42",
+  "last_update": "2024-11-06 18:06:59",
   "years": {
    "2013": 1,
    "2015": 2,
@@ -76,31 +76,33 @@
    "LA PAZ": 35,
    "LECHUZAS": 36,
    "LIONS": 37,
-   "LRB": 38,
-   "LRC": 39,
-   "LRG": 40,
-   "LSR": 41,
-   "LYCANS": 42,
-   "MAGDALENA": 43,
-   "MANOBA": 44,
-   "META": 45,
-   "MINOTAUROS": 46,
-   "NATIVOS": 47,
-   "NORTE DE SANTANDER": 48,
-   "OLD MARKHAMIANS": 49,
-   "RISARALDA": 50,
-   "ROSAS": 51,
-   "SALAMANDRAS": 52,
-   "SANTANDER": 53,
-   "SULTANES": 54,
-   "TARGARYEN": 55,
-   "TOLIMA": 56,
-   "TOROS": 57,
-   "UIS": 58,
-   "VALLE": 59,
-   "VIKINGGOS": 60,
-   "ZEPPELIN": 61,
-   "ZEPPELIN ROSAS": 62
+   "LOCAL": 38,
+   "LRB": 39,
+   "LRC": 40,
+   "LRG": 41,
+   "LSR": 42,
+   "LYCANS": 43,
+   "MAGDALENA": 44,
+   "MANOBA": 45,
+   "META": 46,
+   "MINOTAUROS": 47,
+   "NATIVOS": 48,
+   "NORTE DE SANTANDER": 49,
+   "OLD MARKHAMIANS": 50,
+   "RISARALDA": 51,
+   "ROSAS": 52,
+   "SALAMANDRAS": 53,
+   "SANTANDER": 54,
+   "SULTANES": 55,
+   "TARGARYEN": 56,
+   "TOLIMA": 57,
+   "TOROS": 58,
+   "UIS": 59,
+   "VALLE": 60,
+   "VIKINGGOS": 61,
+   "VISITANTE": 62,
+   "ZEPPELIN": 63,
+   "ZEPPELIN ROSAS": 64
   }
  },
  "games": [
@@ -165,8 +167,8 @@
    "duration": 1058,
    "year": 11,
    "teams": [
-    50,
-    59
+    51,
+    60
    ],
    "tournament": 2,
    "category": 1,
@@ -218,7 +220,7 @@
    "duration": 972,
    "year": 6,
    "teams": [
-    46,
+    47,
     12
    ],
    "tournament": 4,
@@ -325,7 +327,7 @@
    "year": 11,
    "teams": [
     13,
-    56
+    57
    ],
    "tournament": 2,
    "category": 2,
@@ -431,7 +433,7 @@
    "year": 10,
    "teams": [
     12,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -536,8 +538,8 @@
    "duration": 993,
    "year": 11,
    "teams": [
-    59,
-    45
+    60,
+    46
    ],
    "tournament": 2,
    "category": 2,
@@ -590,7 +592,7 @@
    "year": 11,
    "teams": [
     7,
-    59
+    60
    ],
    "tournament": 2,
    "category": 1,
@@ -643,7 +645,7 @@
    "year": 11,
    "teams": [
     19,
-    59
+    60
    ],
    "tournament": 2,
    "category": 2,
@@ -748,7 +750,7 @@
    "duration": 981,
    "year": 11,
    "teams": [
-    50,
+    51,
     19
    ],
    "tournament": 2,
@@ -854,8 +856,8 @@
    "duration": 5739,
    "year": 5,
    "teams": [
-    61,
-    42
+    63,
+    43
    ],
    "tournament": 5,
    "category": 2,
@@ -907,7 +909,7 @@
    "duration": 4993,
    "year": 6,
    "teams": [
-    46,
+    47,
     32
    ],
    "tournament": 4,
@@ -1173,7 +1175,7 @@
    "year": 5,
    "teams": [
     33,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -1278,7 +1280,7 @@
    "duration": 5428,
    "year": 9,
    "teams": [
-    46,
+    47,
     12
    ],
    "tournament": 4,
@@ -1438,7 +1440,7 @@
    "year": 10,
    "teams": [
     18,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -1491,7 +1493,7 @@
    "year": 7,
    "teams": [
     2,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -1543,8 +1545,8 @@
    "duration": 851,
    "year": 2,
    "teams": [
-    41,
-    39
+    42,
+    40
    ],
    "tournament": 2,
    "category": 2,
@@ -1596,8 +1598,8 @@
    "duration": 1184,
    "year": 6,
    "teams": [
-    61,
-    46
+    63,
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -1649,7 +1651,7 @@
    "duration": 4874,
    "year": 6,
    "teams": [
-    46,
+    47,
     32
    ],
    "tournament": 4,
@@ -1808,8 +1810,8 @@
    "duration": 1131,
    "year": 2,
    "teams": [
-    38,
-    40
+    39,
+    41
    ],
    "tournament": 2,
    "category": 1,
@@ -1862,7 +1864,7 @@
    "year": 6,
    "teams": [
     18,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -2020,8 +2022,8 @@
    "duration": 980,
    "year": 11,
    "teams": [
-    56,
-    59
+    57,
+    60
    ],
    "tournament": 2,
    "category": 2,
@@ -2073,7 +2075,7 @@
    "duration": 2827,
    "year": 8,
    "teams": [
-    46,
+    47,
     24
    ],
    "tournament": 4,
@@ -2127,7 +2129,7 @@
    "year": 10,
    "teams": [
     2,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -2180,7 +2182,7 @@
    "year": 4,
    "teams": [
     12,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -2338,7 +2340,7 @@
    "duration": 860,
    "year": 8,
    "teams": [
-    46,
+    47,
     2
    ],
    "tournament": 4,
@@ -2444,7 +2446,7 @@
    "duration": 2951,
    "year": 10,
    "teams": [
-    46,
+    47,
     33
    ],
    "tournament": 4,
@@ -2603,7 +2605,7 @@
    "duration": 1019,
    "year": 11,
    "teams": [
-    56,
+    57,
     19
    ],
    "tournament": 2,
@@ -2763,7 +2765,7 @@
    "year": 6,
    "teams": [
     2,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -2816,7 +2818,7 @@
    "year": 9,
    "teams": [
     18,
-    42
+    43
    ],
    "tournament": 4,
    "category": 2,
@@ -2868,8 +2870,8 @@
    "duration": 5316,
    "year": 9,
    "teams": [
-    46,
-    42
+    47,
+    43
    ],
    "tournament": 4,
    "category": 2,
@@ -3028,7 +3030,7 @@
    "year": 3,
    "teams": [
     24,
-    52
+    53
    ],
    "tournament": 1,
    "category": 2,
@@ -3133,7 +3135,7 @@
    "duration": 5354,
    "year": 6,
    "teams": [
-    42,
+    43,
     22
    ],
    "tournament": 5,
@@ -3399,7 +3401,7 @@
    "year": 2,
    "teams": [
     18,
-    49
+    50
    ],
    "tournament": 3,
    "category": 2,
@@ -3451,7 +3453,7 @@
    "duration": 5077,
    "year": 9,
    "teams": [
-    42,
+    43,
     33
    ],
    "tournament": 4,
@@ -3504,7 +3506,7 @@
    "duration": 1240,
    "year": 8,
    "teams": [
-    46,
+    47,
     33
    ],
    "tournament": 4,
@@ -3557,7 +3559,7 @@
    "duration": 1547,
    "year": 4,
    "teams": [
-    46,
+    47,
     18
    ],
    "tournament": 4,
@@ -3664,7 +3666,7 @@
    "year": 9,
    "teams": [
     24,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -3929,7 +3931,7 @@
    "year": 9,
    "teams": [
     24,
-    42
+    43
    ],
    "tournament": 4,
    "category": 2,
@@ -4194,7 +4196,7 @@
    "year": 3,
    "teams": [
     33,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -4247,7 +4249,7 @@
    "year": 3,
    "teams": [
     24,
-    55
+    56
    ],
    "tournament": 1,
    "category": 1,
@@ -4458,8 +4460,8 @@
    "duration": 3982,
    "year": 6,
    "teams": [
-    42,
-    46
+    43,
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -4511,7 +4513,7 @@
    "duration": 880,
    "year": 6,
    "teams": [
-    61,
+    63,
     33
    ],
    "tournament": 4,
@@ -4565,7 +4567,7 @@
    "year": 5,
    "teams": [
     12,
-    61
+    63
    ],
    "tournament": 4,
    "category": 1,
@@ -4724,7 +4726,7 @@
    "year": 10,
    "teams": [
     33,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -4776,7 +4778,7 @@
    "duration": 2785,
    "year": 9,
    "teams": [
-    46,
+    47,
     1
    ],
    "tournament": 4,
@@ -4829,8 +4831,8 @@
    "duration": 5609,
    "year": 9,
    "teams": [
-    42,
-    61
+    43,
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -5042,7 +5044,7 @@
    "year": 6,
    "teams": [
     24,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -5094,7 +5096,7 @@
    "duration": 4893,
    "year": 9,
    "teams": [
-    46,
+    47,
     10
    ],
    "tournament": 4,
@@ -5147,7 +5149,7 @@
    "duration": 4859,
    "year": 6,
    "teams": [
-    60,
+    61,
     18
    ],
    "tournament": 4,
@@ -5201,7 +5203,7 @@
    "year": 8,
    "teams": [
     12,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -5306,7 +5308,7 @@
    "duration": 4802,
    "year": 6,
    "teams": [
-    42,
+    43,
     12
    ],
    "tournament": 4,
@@ -5625,7 +5627,7 @@
    "year": 8,
    "teams": [
     12,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -5837,7 +5839,7 @@
    "year": 6,
    "teams": [
     12,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -5889,7 +5891,7 @@
    "duration": 4834,
    "year": 8,
    "teams": [
-    46,
+    47,
     12
    ],
    "tournament": 4,
@@ -5995,8 +5997,8 @@
    "duration": 4917,
    "year": 6,
    "teams": [
-    46,
-    61
+    47,
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -6049,7 +6051,7 @@
    "year": 8,
    "teams": [
     29,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -6102,7 +6104,7 @@
    "year": 8,
    "teams": [
     2,
-    52
+    53
    ],
    "tournament": 4,
    "category": 2,
@@ -6208,7 +6210,7 @@
    "year": 9,
    "teams": [
     10,
-    42
+    43
    ],
    "tournament": 4,
    "category": 2,
@@ -6367,7 +6369,7 @@
    "year": 10,
    "teams": [
     24,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -6420,7 +6422,7 @@
    "year": 5,
    "teams": [
     18,
-    42
+    43
    ],
    "tournament": 5,
    "category": 2,
@@ -6472,7 +6474,7 @@
    "duration": 1008,
    "year": 6,
    "teams": [
-    46,
+    47,
     33
    ],
    "tournament": 4,
@@ -6631,8 +6633,8 @@
    "duration": 5000,
    "year": 10,
    "teams": [
-    52,
-    61
+    53,
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -6684,7 +6686,7 @@
    "duration": 872,
    "year": 5,
    "teams": [
-    46,
+    47,
     15
    ],
    "tournament": 4,
@@ -6790,7 +6792,7 @@
    "duration": 993,
    "year": 5,
    "teams": [
-    61,
+    63,
     33
    ],
    "tournament": 4,
@@ -6950,7 +6952,7 @@
    "year": 8,
    "teams": [
     24,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -7056,7 +7058,7 @@
    "year": 9,
    "teams": [
     2,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -7215,7 +7217,7 @@
    "year": 10,
    "teams": [
     2,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -7321,7 +7323,7 @@
    "year": 4,
    "teams": [
     33,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -7374,7 +7376,7 @@
    "year": 3,
    "teams": [
     14,
-    58
+    59
    ],
    "tournament": 1,
    "category": 1,
@@ -7426,7 +7428,7 @@
    "duration": 4755,
    "year": 4,
    "teams": [
-    42,
+    43,
     18
    ],
    "tournament": 4,
@@ -7586,7 +7588,7 @@
    "year": 3,
    "teams": [
     33,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -7691,7 +7693,7 @@
    "duration": 5258,
    "year": 6,
    "teams": [
-    52,
+    53,
     18
    ],
    "tournament": 4,
@@ -7797,7 +7799,7 @@
    "duration": 1378,
    "year": 3,
    "teams": [
-    46,
+    47,
     12
    ],
    "tournament": 4,
@@ -8063,7 +8065,7 @@
    "year": 8,
    "teams": [
     6,
-    52
+    53
    ],
    "tournament": 4,
    "category": 2,
@@ -8116,7 +8118,7 @@
    "year": 3,
    "teams": [
     15,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -8169,7 +8171,7 @@
    "year": 4,
    "teams": [
     18,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -8433,7 +8435,7 @@
    "duration": 5176,
    "year": 8,
    "teams": [
-    52,
+    53,
     10
    ],
    "tournament": 4,
@@ -8699,7 +8701,7 @@
    "year": 6,
    "teams": [
     24,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -8804,7 +8806,7 @@
    "duration": 2378,
    "year": 10,
    "teams": [
-    46,
+    47,
     24
    ],
    "tournament": 4,
@@ -9069,7 +9071,7 @@
    "duration": 1191,
    "year": 8,
    "teams": [
-    46,
+    47,
     24
    ],
    "tournament": 4,
@@ -9281,8 +9283,8 @@
    "duration": 3612,
    "year": 10,
    "teams": [
-    52,
-    46
+    53,
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -9546,7 +9548,7 @@
    "duration": 1018,
    "year": 6,
    "teams": [
-    61,
+    63,
     18
    ],
    "tournament": 4,
@@ -9600,7 +9602,7 @@
    "year": 8,
    "teams": [
     18,
-    52
+    53
    ],
    "tournament": 4,
    "category": 2,
@@ -9653,7 +9655,7 @@
    "year": 6,
    "teams": [
     24,
-    52
+    53
    ],
    "tournament": 4,
    "category": 2,
@@ -9917,7 +9919,7 @@
    "duration": 4833,
    "year": 6,
    "teams": [
-    46,
+    47,
     33
    ],
    "tournament": 4,
@@ -9970,7 +9972,7 @@
    "duration": 5062,
    "year": 5,
    "teams": [
-    46,
+    47,
     33
    ],
    "tournament": 4,
@@ -10182,8 +10184,8 @@
    "duration": 4552,
    "year": 10,
    "teams": [
-    46,
-    61
+    47,
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -10235,7 +10237,7 @@
    "duration": 5345,
    "year": 4,
    "teams": [
-    42,
+    43,
     24
    ],
    "tournament": 4,
@@ -10288,7 +10290,7 @@
    "duration": 1237,
    "year": 2,
    "teams": [
-    46,
+    47,
     18
    ],
    "tournament": 4,
@@ -10819,7 +10821,7 @@
    "year": 10,
    "teams": [
     33,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -11030,7 +11032,7 @@
    "duration": 5226,
    "year": 9,
    "teams": [
-    42,
+    43,
     12
    ],
    "tournament": 4,
@@ -11243,7 +11245,7 @@
    "year": 9,
    "teams": [
     18,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -11455,7 +11457,7 @@
    "year": 8,
    "teams": [
     24,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -11507,7 +11509,7 @@
    "duration": 4960,
    "year": 4,
    "teams": [
-    61,
+    63,
     15
    ],
    "tournament": 4,
@@ -11561,7 +11563,7 @@
    "year": 8,
    "teams": [
     14,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -11773,7 +11775,7 @@
    "year": 5,
    "teams": [
     24,
-    61
+    63
    ],
    "tournament": 4,
    "category": 1,
@@ -11984,8 +11986,8 @@
    "duration": 5271,
    "year": 9,
    "teams": [
-    46,
-    61
+    47,
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -12037,7 +12039,7 @@
    "duration": 945,
    "year": 2,
    "teams": [
-    62,
+    64,
     5
    ],
    "tournament": 4,
@@ -12090,7 +12092,7 @@
    "duration": 4639,
    "year": 8,
    "teams": [
-    52,
+    53,
     29
    ],
    "tournament": 4,
@@ -12409,7 +12411,7 @@
    "year": 6,
    "teams": [
     2,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -12567,8 +12569,8 @@
    "duration": 880,
    "year": 3,
    "teams": [
-    52,
-    57
+    53,
+    58
    ],
    "tournament": 1,
    "category": 2,
@@ -12673,7 +12675,7 @@
    "duration": 5107,
    "year": 3,
    "teams": [
-    52,
+    53,
     24
    ],
    "tournament": 4,
@@ -12780,7 +12782,7 @@
    "year": 9,
    "teams": [
     10,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -12832,7 +12834,7 @@
    "duration": 5116,
    "year": 8,
    "teams": [
-    46,
+    47,
     2
    ],
    "tournament": 4,
@@ -13045,7 +13047,7 @@
    "year": 6,
    "teams": [
     18,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -13097,8 +13099,8 @@
    "duration": 4635,
    "year": 4,
    "teams": [
-    46,
-    42
+    47,
+    43
    ],
    "tournament": 4,
    "category": 2,
@@ -13256,7 +13258,7 @@
    "duration": 5262,
    "year": 8,
    "teams": [
-    52,
+    53,
     24
    ],
    "tournament": 4,
@@ -13522,7 +13524,7 @@
    "year": 9,
    "teams": [
     33,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -13786,7 +13788,7 @@
    "duration": 3431,
    "year": 10,
    "teams": [
-    46,
+    47,
     14
    ],
    "tournament": 4,
@@ -13840,7 +13842,7 @@
    "year": 7,
    "teams": [
     18,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -13946,7 +13948,7 @@
    "year": 11,
    "teams": [
     24,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -14211,7 +14213,7 @@
    "year": 11,
    "teams": [
     7,
-    50
+    51
    ],
    "tournament": 2,
    "category": 1,
@@ -14264,7 +14266,7 @@
    "year": 11,
    "teams": [
     18,
-    52
+    53
    ],
    "tournament": 4,
    "category": 2,
@@ -14370,7 +14372,7 @@
    "year": 11,
    "teams": [
     12,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -14476,7 +14478,7 @@
    "year": 11,
    "teams": [
     24,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -14528,8 +14530,8 @@
    "duration": 5394,
    "year": 7,
    "teams": [
-    61,
-    46
+    63,
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -14581,7 +14583,7 @@
    "duration": 4665,
    "year": 4,
    "teams": [
-    46,
+    47,
     24
    ],
    "tournament": 4,
@@ -14635,7 +14637,7 @@
    "year": 7,
    "teams": [
     24,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -14741,7 +14743,7 @@
    "year": 6,
    "teams": [
     33,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -14847,7 +14849,7 @@
    "year": 10,
    "teams": [
     12,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -14899,7 +14901,7 @@
    "duration": 3452,
    "year": 10,
    "teams": [
-    46,
+    47,
     14
    ],
    "tournament": 4,
@@ -15006,7 +15008,7 @@
    "year": 8,
    "teams": [
     6,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -15059,7 +15061,7 @@
    "year": 10,
    "teams": [
     18,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -15112,7 +15114,7 @@
    "year": 10,
    "teams": [
     24,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -15217,7 +15219,7 @@
    "duration": 4910,
    "year": 9,
    "teams": [
-    46,
+    47,
     14
    ],
    "tournament": 4,
@@ -15323,7 +15325,7 @@
    "duration": 2722,
    "year": 9,
    "teams": [
-    46,
+    47,
     2
    ],
    "tournament": 4,
@@ -15376,7 +15378,7 @@
    "duration": 5074,
    "year": 10,
    "teams": [
-    46,
+    47,
     33
    ],
    "tournament": 4,
@@ -15429,7 +15431,7 @@
    "duration": 4977,
    "year": 9,
    "teams": [
-    42,
+    43,
     2
    ],
    "tournament": 4,
@@ -15482,7 +15484,7 @@
    "duration": 5466,
    "year": 8,
    "teams": [
-    46,
+    47,
     33
    ],
    "tournament": 4,
@@ -15747,7 +15749,7 @@
    "duration": 4727,
    "year": 6,
    "teams": [
-    42,
+    43,
     6
    ],
    "tournament": 4,
@@ -15800,7 +15802,7 @@
    "duration": 4541,
    "year": 6,
    "teams": [
-    46,
+    47,
     15
    ],
    "tournament": 4,
@@ -15854,7 +15856,7 @@
    "year": 8,
    "teams": [
     18,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -15906,7 +15908,7 @@
    "duration": 5541,
    "year": 10,
    "teams": [
-    46,
+    47,
     12
    ],
    "tournament": 4,
@@ -15959,7 +15961,7 @@
    "duration": 5268,
    "year": 9,
    "teams": [
-    46,
+    47,
     33
    ],
    "tournament": 4,
@@ -16066,7 +16068,7 @@
    "year": 10,
    "teams": [
     2,
-    52
+    53
    ],
    "tournament": 4,
    "category": 2,
@@ -16119,7 +16121,7 @@
    "year": 10,
    "teams": [
     24,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -16224,7 +16226,7 @@
    "duration": 4922,
    "year": 9,
    "teams": [
-    46,
+    47,
     24
    ],
    "tournament": 4,
@@ -16278,7 +16280,7 @@
    "year": 6,
    "teams": [
     33,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -16331,7 +16333,7 @@
    "year": 6,
    "teams": [
     2,
-    52
+    53
    ],
    "tournament": 4,
    "category": 2,
@@ -16437,7 +16439,7 @@
    "year": 9,
    "teams": [
     29,
-    42
+    43
    ],
    "tournament": 4,
    "category": 2,
@@ -16490,7 +16492,7 @@
    "year": 11,
    "teams": [
     7,
-    50
+    51
    ],
    "tournament": 2,
    "category": 2,
@@ -16595,7 +16597,7 @@
    "duration": 1066,
    "year": 11,
    "teams": [
-    56,
+    57,
     7
    ],
    "tournament": 2,
@@ -16807,7 +16809,7 @@
    "duration": 5223,
    "year": 9,
    "teams": [
-    46,
+    47,
     12
    ],
    "tournament": 4,
@@ -16860,7 +16862,7 @@
    "duration": 3362,
    "year": 11,
    "teams": [
-    46,
+    47,
     33
    ],
    "tournament": 4,
@@ -16967,7 +16969,7 @@
    "year": 9,
    "teams": [
     29,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -17020,7 +17022,7 @@
    "year": 10,
    "teams": [
     18,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -17285,7 +17287,7 @@
    "year": 10,
    "teams": [
     33,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -17444,7 +17446,7 @@
    "year": 10,
    "teams": [
     18,
-    52
+    53
    ],
    "tournament": 4,
    "category": 2,
@@ -17496,7 +17498,7 @@
    "duration": 3149,
    "year": 10,
    "teams": [
-    46,
+    47,
     14
    ],
    "tournament": 4,
@@ -17709,7 +17711,7 @@
    "year": 9,
    "teams": [
     12,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -17762,7 +17764,7 @@
    "year": 10,
    "teams": [
     18,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -17814,7 +17816,7 @@
    "duration": 3543,
    "year": 10,
    "teams": [
-    46,
+    47,
     2
    ],
    "tournament": 4,
@@ -17973,7 +17975,7 @@
    "duration": 738,
    "year": 11,
    "teams": [
-    43,
+    44,
     7
    ],
    "tournament": 2,
@@ -18185,7 +18187,7 @@
    "duration": 1129,
    "year": 11,
    "teams": [
-    50,
+    51,
     13
    ],
    "tournament": 2,
@@ -18239,7 +18241,7 @@
    "year": 10,
    "teams": [
     18,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -18450,7 +18452,7 @@
    "duration": 5223,
    "year": 10,
    "teams": [
-    46,
+    47,
     12
    ],
    "tournament": 4,
@@ -18875,7 +18877,7 @@
    "year": 10,
    "teams": [
     2,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -18928,7 +18930,7 @@
    "year": 10,
    "teams": [
     24,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -19351,7 +19353,7 @@
    "duration": 3420,
    "year": 10,
    "teams": [
-    46,
+    47,
     33
    ],
    "tournament": 4,
@@ -19405,7 +19407,7 @@
    "year": 10,
    "teams": [
     2,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -19511,7 +19513,7 @@
    "year": 10,
    "teams": [
     18,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -19563,8 +19565,8 @@
    "duration": 1034,
    "year": 11,
    "teams": [
-    43,
-    45
+    44,
+    46
    ],
    "tournament": 2,
    "category": 2,
@@ -19616,7 +19618,7 @@
    "duration": 5059,
    "year": 11,
    "teams": [
-    52,
+    53,
     18
    ],
    "tournament": 4,
@@ -19722,8 +19724,8 @@
    "duration": 1068,
    "year": 11,
    "teams": [
-    43,
-    56
+    44,
+    57
    ],
    "tournament": 2,
    "category": 2,
@@ -19828,7 +19830,7 @@
    "duration": 1081,
    "year": 11,
    "teams": [
-    59,
+    60,
     19
    ],
    "tournament": 2,
@@ -19881,8 +19883,8 @@
    "duration": 960,
    "year": 11,
    "teams": [
-    45,
-    56
+    46,
+    57
    ],
    "tournament": 2,
    "category": 2,
@@ -20041,7 +20043,7 @@
    "year": 11,
    "teams": [
     33,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -20147,7 +20149,7 @@
    "year": 11,
    "teams": [
     24,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -20200,7 +20202,7 @@
    "year": 11,
    "teams": [
     2,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -20253,7 +20255,7 @@
    "year": 11,
    "teams": [
     14,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -20412,7 +20414,7 @@
    "year": 11,
    "teams": [
     18,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -20624,7 +20626,7 @@
    "year": 11,
    "teams": [
     33,
-    44
+    45
    ],
    "tournament": 4,
    "category": 2,
@@ -20782,7 +20784,7 @@
    "duration": 5163,
    "year": 11,
    "teams": [
-    61,
+    63,
     33
    ],
    "tournament": 4,
@@ -20836,7 +20838,7 @@
    "year": 11,
    "teams": [
     13,
-    43
+    44
    ],
    "tournament": 2,
    "category": 2,
@@ -20889,7 +20891,7 @@
    "year": 10,
    "teams": [
     24,
-    52
+    53
    ],
    "tournament": 4,
    "category": 2,
@@ -20995,7 +20997,7 @@
    "year": 11,
    "teams": [
     33,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -21260,7 +21262,7 @@
    "year": 11,
    "teams": [
     18,
-    44
+    45
    ],
    "tournament": 4,
    "category": 2,
@@ -21472,7 +21474,7 @@
    "year": 11,
    "teams": [
     24,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -21525,7 +21527,7 @@
    "year": 11,
    "teams": [
     33,
-    44
+    45
    ],
    "tournament": 4,
    "category": 2,
@@ -21578,7 +21580,7 @@
    "year": 11,
    "teams": [
     12,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -21630,7 +21632,7 @@
    "duration": 3802,
    "year": 11,
    "teams": [
-    46,
+    47,
     14
    ],
    "tournament": 4,
@@ -21736,7 +21738,7 @@
    "duration": 3333,
    "year": 11,
    "teams": [
-    46,
+    47,
     18
    ],
    "tournament": 4,
@@ -21789,7 +21791,7 @@
    "duration": 5174,
    "year": 10,
    "teams": [
-    61,
+    63,
     2
    ],
    "tournament": 4,
@@ -21842,7 +21844,7 @@
    "duration": 3556,
    "year": 11,
    "teams": [
-    46,
+    47,
     33
    ],
    "tournament": 4,
@@ -21895,8 +21897,8 @@
    "duration": 3199,
    "year": 11,
    "teams": [
-    46,
-    44
+    47,
+    45
    ],
    "tournament": 4,
    "category": 2,
@@ -22107,7 +22109,7 @@
    "duration": 5057,
    "year": 11,
    "teams": [
-    46,
+    47,
     18
    ],
    "tournament": 4,
@@ -22161,7 +22163,7 @@
    "year": 11,
    "teams": [
     18,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -22266,7 +22268,7 @@
    "duration": 3457,
    "year": 11,
    "teams": [
-    46,
+    47,
     24
    ],
    "tournament": 4,
@@ -22425,7 +22427,7 @@
    "duration": 5246,
    "year": 10,
    "teams": [
-    46,
+    47,
     12
    ],
    "tournament": 4,
@@ -22532,7 +22534,7 @@
    "year": 11,
    "teams": [
     2,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -22584,7 +22586,7 @@
    "duration": 3321,
    "year": 11,
    "teams": [
-    44,
+    45,
     33
    ],
    "tournament": 4,
@@ -22743,8 +22745,8 @@
    "duration": 4891,
    "year": 11,
    "teams": [
-    61,
-    46
+    63,
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -22796,7 +22798,7 @@
    "duration": 5274,
    "year": 11,
    "teams": [
-    52,
+    53,
     12
    ],
    "tournament": 4,
@@ -22850,7 +22852,7 @@
    "year": 10,
    "teams": [
     33,
-    52
+    53
    ],
    "tournament": 4,
    "category": 2,
@@ -22902,7 +22904,7 @@
    "duration": 4475,
    "year": 11,
    "teams": [
-    46,
+    47,
     33
    ],
    "tournament": 4,
@@ -22956,7 +22958,7 @@
    "year": 11,
    "teams": [
     33,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -23115,7 +23117,7 @@
    "year": 11,
    "teams": [
     12,
-    44
+    45
    ],
    "tournament": 4,
    "category": 2,
@@ -23274,7 +23276,7 @@
    "year": 11,
    "teams": [
     2,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -23380,7 +23382,7 @@
    "year": 11,
    "teams": [
     12,
-    44
+    45
    ],
    "tournament": 4,
    "category": 2,
@@ -23486,7 +23488,7 @@
    "year": 10,
    "teams": [
     2,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -23644,7 +23646,7 @@
    "duration": 5219,
    "year": 11,
    "teams": [
-    46,
+    47,
     2
    ],
    "tournament": 4,
@@ -23750,7 +23752,7 @@
    "duration": 927,
    "year": 11,
    "teams": [
-    59,
+    60,
     13
    ],
    "tournament": 2,
@@ -23856,7 +23858,7 @@
    "duration": 3999,
    "year": 11,
    "teams": [
-    46,
+    47,
     18
    ],
    "tournament": 4,
@@ -23910,7 +23912,7 @@
    "year": 11,
    "teams": [
     33,
-    52
+    53
    ],
    "tournament": 4,
    "category": 2,
@@ -23962,7 +23964,7 @@
    "duration": 5051,
    "year": 11,
    "teams": [
-    52,
+    53,
     24
    ],
    "tournament": 4,
@@ -24069,7 +24071,7 @@
    "year": 11,
    "teams": [
     33,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -24227,7 +24229,7 @@
    "duration": 5230,
    "year": 11,
    "teams": [
-    61,
+    63,
     12
    ],
    "tournament": 4,
@@ -24280,7 +24282,7 @@
    "duration": 1125,
    "year": 11,
    "teams": [
-    45,
+    46,
     19
    ],
    "tournament": 2,
@@ -24440,7 +24442,7 @@
    "year": 11,
    "teams": [
     12,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -24492,8 +24494,8 @@
    "duration": 3412,
    "year": 11,
    "teams": [
-    44,
-    46
+    45,
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -24545,8 +24547,8 @@
    "duration": 4850,
    "year": 11,
    "teams": [
-    61,
-    46
+    63,
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -24651,7 +24653,7 @@
    "duration": 4883,
    "year": 11,
    "teams": [
-    52,
+    53,
     33
    ],
    "tournament": 4,
@@ -24705,7 +24707,7 @@
    "year": 11,
    "teams": [
     12,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -24810,8 +24812,8 @@
    "duration": 5082,
    "year": 11,
    "teams": [
-    52,
-    61
+    53,
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -24863,7 +24865,7 @@
    "duration": 1118,
    "year": 11,
    "teams": [
-    50,
+    51,
     13
    ],
    "tournament": 2,
@@ -24917,7 +24919,7 @@
    "year": 11,
    "teams": [
     18,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -24969,7 +24971,7 @@
    "duration": 4597,
    "year": 11,
    "teams": [
-    52,
+    53,
     2
    ],
    "tournament": 4,
@@ -25023,7 +25025,7 @@
    "year": 10,
    "teams": [
     18,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -25129,7 +25131,7 @@
    "year": 11,
    "teams": [
     18,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -25181,7 +25183,7 @@
    "duration": 3369,
    "year": 11,
    "teams": [
-    44,
+    45,
     33
    ],
    "tournament": 4,
@@ -25234,8 +25236,8 @@
    "duration": 955,
    "year": 11,
    "teams": [
-    50,
-    56
+    51,
+    57
    ],
    "tournament": 2,
    "category": 2,
@@ -25340,7 +25342,7 @@
    "duration": 4108,
    "year": 11,
    "teams": [
-    46,
+    47,
     12
    ],
    "tournament": 4,
@@ -25446,8 +25448,8 @@
    "duration": 892,
    "year": 11,
    "teams": [
-    50,
-    43
+    51,
+    44
    ],
    "tournament": 2,
    "category": 2,
@@ -25552,7 +25554,7 @@
    "duration": 4040,
    "year": 11,
    "teams": [
-    46,
+    47,
     18
    ],
    "tournament": 4,
@@ -25711,7 +25713,7 @@
    "duration": 3462,
    "year": 11,
    "teams": [
-    44,
+    45,
     18
    ],
    "tournament": 4,
@@ -25765,7 +25767,7 @@
    "year": 11,
    "teams": [
     33,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -25817,7 +25819,7 @@
    "duration": 3289,
    "year": 11,
    "teams": [
-    46,
+    47,
     12
    ],
    "tournament": 4,
@@ -25870,7 +25872,7 @@
    "duration": 3335,
    "year": 11,
    "teams": [
-    46,
+    47,
     18
    ],
    "tournament": 4,
@@ -25924,7 +25926,7 @@
    "year": 11,
    "teams": [
     24,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -25976,8 +25978,8 @@
    "duration": 5135,
    "year": 11,
    "teams": [
-    52,
-    46
+    53,
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -26030,7 +26032,7 @@
    "year": 11,
    "teams": [
     12,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -26135,7 +26137,7 @@
    "duration": 5657,
    "year": 10,
    "teams": [
-    46,
+    47,
     18
    ],
    "tournament": 4,
@@ -26188,7 +26190,7 @@
    "duration": 5078,
    "year": 10,
    "teams": [
-    52,
+    53,
     12
    ],
    "tournament": 4,
@@ -26242,7 +26244,7 @@
    "year": 11,
    "teams": [
     12,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -26294,7 +26296,7 @@
    "duration": 1244,
    "year": 11,
    "teams": [
-    59,
+    60,
     13
    ],
    "tournament": 2,
@@ -26347,8 +26349,8 @@
    "duration": 6098,
    "year": 11,
    "teams": [
-    52,
-    61
+    53,
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -26559,7 +26561,7 @@
    "duration": 5627,
    "year": 11,
    "teams": [
-    46,
+    47,
     18
    ],
    "tournament": 4,
@@ -26665,8 +26667,8 @@
    "duration": 5183,
    "year": 11,
    "teams": [
-    52,
-    61
+    53,
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -26771,7 +26773,7 @@
    "duration": 796,
    "year": 5,
    "teams": [
-    46,
+    47,
     12
    ],
    "tournament": 4,
@@ -26877,7 +26879,7 @@
    "duration": 5048,
    "year": 9,
    "teams": [
-    42,
+    43,
     18
    ],
    "tournament": 4,
@@ -27036,7 +27038,7 @@
    "duration": 4079,
    "year": 11,
    "teams": [
-    44,
+    45,
     18
    ],
    "tournament": 4,
@@ -27195,7 +27197,7 @@
    "duration": 3772,
    "year": 11,
    "teams": [
-    46,
+    47,
     2
    ],
    "tournament": 4,
@@ -27301,7 +27303,7 @@
    "duration": 3556,
    "year": 11,
    "teams": [
-    46,
+    47,
     12
    ],
    "tournament": 4,
@@ -27408,7 +27410,7 @@
    "year": 3,
    "teams": [
     15,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -27566,7 +27568,7 @@
    "duration": 4776,
    "year": 11,
    "teams": [
-    61,
+    63,
     33
    ],
    "tournament": 4,
@@ -27619,7 +27621,7 @@
    "duration": 5104,
    "year": 11,
    "teams": [
-    52,
+    53,
     12
    ],
    "tournament": 4,
@@ -27778,8 +27780,8 @@
    "duration": 1028,
    "year": 11,
    "teams": [
-    59,
-    56
+    60,
+    57
    ],
    "tournament": 4,
    "category": 1,
@@ -27884,7 +27886,7 @@
    "duration": 5228,
    "year": 11,
    "teams": [
-    46,
+    47,
     2
    ],
    "tournament": 4,
@@ -28256,7 +28258,7 @@
    "year": 11,
    "teams": [
     2,
-    52
+    53
    ],
    "tournament": 4,
    "category": 2,
@@ -28309,7 +28311,7 @@
    "year": 11,
    "teams": [
     33,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -28362,7 +28364,7 @@
    "year": 6,
    "teams": [
     2,
-    61
+    63
    ],
    "tournament": 4,
    "category": 1,
@@ -28575,7 +28577,7 @@
    "year": 3,
    "teams": [
     13,
-    48
+    49
    ],
    "tournament": 2,
    "category": 2,
@@ -28681,7 +28683,7 @@
    "year": 8,
    "teams": [
     2,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -28733,7 +28735,7 @@
    "duration": 1219,
    "year": 4,
    "teams": [
-    46,
+    47,
     24
    ],
    "tournament": 4,
@@ -28840,7 +28842,7 @@
    "year": 6,
    "teams": [
     2,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -29052,7 +29054,7 @@
    "duration": 1042,
    "year": 4,
    "teams": [
-    46,
+    47,
     12
    ],
    "tournament": 4,
@@ -29105,7 +29107,7 @@
    "duration": 1045,
    "year": 5,
    "teams": [
-    46,
+    47,
     12
    ],
    "tournament": 4,
@@ -29264,7 +29266,7 @@
    "duration": 3062,
    "year": 6,
    "teams": [
-    46,
+    47,
     18
    ],
    "tournament": 4,
@@ -29423,7 +29425,7 @@
    "duration": 934,
    "year": 6,
    "teams": [
-    61,
+    63,
     33
    ],
    "tournament": 4,
@@ -29582,7 +29584,7 @@
    "duration": 1031,
    "year": 3,
    "teams": [
-    46,
+    47,
     35
    ],
    "tournament": 4,
@@ -29735,14 +29737,14 @@
   },
   {
    "videoId": "0dQPoOsGYdA",
-   "title": "INTERLIGAS JUNIO 3 2017 - BOGOTÁ MASC  VS  SANTANDER MASC",
+   "title": "INTERLIGAS JUNIO 3 2017 - BOGOTA MASC  VS  SANTANDER MASC",
    "publishedAt": 1496647485,
    "addedAt": 1730343440,
    "duration": 5387,
    "year": 4,
    "teams": [
     13,
-    53
+    54
    ],
    "tournament": 2,
    "category": 2,
@@ -29849,7 +29851,7 @@
    "year": 8,
    "teams": [
     10,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -29901,8 +29903,8 @@
    "duration": 4619,
    "year": 6,
    "teams": [
-    42,
-    46
+    43,
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -30060,7 +30062,7 @@
    "duration": 4967,
    "year": 6,
    "teams": [
-    42,
+    43,
     32
    ],
    "tournament": 4,
@@ -30167,7 +30169,7 @@
    "year": 6,
    "teams": [
     14,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -30219,8 +30221,8 @@
    "duration": 5059,
    "year": 6,
    "teams": [
-    46,
-    61
+    47,
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -30272,7 +30274,7 @@
    "duration": 4736,
    "year": 4,
    "teams": [
-    46,
+    47,
     18
    ],
    "tournament": 4,
@@ -30537,7 +30539,7 @@
    "duration": 1009,
    "year": 2,
    "teams": [
-    49,
+    50,
     12
    ],
    "tournament": 3,
@@ -30590,7 +30592,7 @@
    "duration": 5189,
    "year": 4,
    "teams": [
-    42,
+    43,
     15
    ],
    "tournament": 4,
@@ -30697,7 +30699,7 @@
    "year": 6,
    "teams": [
     18,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -30962,7 +30964,7 @@
    "duration": 1029,
    "year": 4,
    "teams": [
-    46,
+    47,
     18
    ],
    "tournament": 4,
@@ -31016,7 +31018,7 @@
    "year": 3,
    "teams": [
     24,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -31121,8 +31123,8 @@
    "duration": 5361,
    "year": 9,
    "teams": [
-    46,
-    42
+    47,
+    43
    ],
    "tournament": 4,
    "category": 2,
@@ -31175,7 +31177,7 @@
    "year": 6,
    "teams": [
     12,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -31228,7 +31230,7 @@
    "year": 11,
    "teams": [
     12,
-    44
+    45
    ],
    "tournament": 4,
    "category": 2,
@@ -31599,8 +31601,8 @@
    "duration": 5089,
    "year": 6,
    "teams": [
-    52,
-    46
+    53,
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -31758,7 +31760,7 @@
    "duration": 4496,
    "year": 6,
    "teams": [
-    52,
+    53,
     15
    ],
    "tournament": 4,
@@ -31811,7 +31813,7 @@
    "duration": 4674,
    "year": 6,
    "teams": [
-    42,
+    43,
     2
    ],
    "tournament": 4,
@@ -31865,7 +31867,7 @@
    "year": 4,
    "teams": [
     33,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -31917,7 +31919,7 @@
    "duration": 4939,
    "year": 4,
    "teams": [
-    61,
+    63,
     18
    ],
    "tournament": 4,
@@ -32023,7 +32025,7 @@
    "duration": 946,
    "year": 6,
    "teams": [
-    46,
+    47,
     33
    ],
    "tournament": 4,
@@ -32130,7 +32132,7 @@
    "year": 2,
    "teams": [
     24,
-    51
+    52
    ],
    "tournament": 4,
    "category": 1,
@@ -32235,8 +32237,8 @@
    "duration": 5553,
    "year": 5,
    "teams": [
-    42,
-    47
+    43,
+    48
    ],
    "tournament": 5,
    "category": 2,
@@ -32289,7 +32291,7 @@
    "year": 2,
    "teams": [
     14,
-    61
+    63
    ],
    "tournament": 4,
    "category": 1,
@@ -32342,7 +32344,7 @@
    "year": 7,
    "teams": [
     14,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -32449,7 +32451,7 @@
    "year": 3,
    "teams": [
     18,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -32501,7 +32503,7 @@
    "duration": 4955,
    "year": 3,
    "teams": [
-    52,
+    53,
     18
    ],
    "tournament": 4,
@@ -32555,7 +32557,7 @@
    "year": 2,
    "teams": [
     10,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -32608,7 +32610,7 @@
    "year": 6,
    "teams": [
     12,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -32767,7 +32769,7 @@
    "year": 6,
    "teams": [
     33,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -32873,7 +32875,7 @@
    "year": 6,
    "teams": [
     2,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -32926,7 +32928,7 @@
    "year": 4,
    "teams": [
     18,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -33085,7 +33087,7 @@
    "year": 6,
    "teams": [
     18,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -33137,7 +33139,7 @@
    "duration": 5164,
    "year": 9,
    "teams": [
-    46,
+    47,
     12
    ],
    "tournament": 4,
@@ -33191,7 +33193,7 @@
    "year": 5,
    "teams": [
     24,
-    61
+    63
    ],
    "tournament": 4,
    "category": 1,
@@ -33296,8 +33298,8 @@
    "duration": 4956,
    "year": 5,
    "teams": [
-    46,
-    42
+    47,
+    43
    ],
    "tournament": 5,
    "category": 2,
@@ -33669,7 +33671,7 @@
    "year": 5,
    "teams": [
     32,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -33933,7 +33935,7 @@
    "duration": 957,
    "year": 3,
    "teams": [
-    46,
+    47,
     15
    ],
    "tournament": 1,
@@ -34039,7 +34041,7 @@
    "duration": 946,
    "year": 6,
    "teams": [
-    46,
+    47,
     12
    ],
    "tournament": 4,
@@ -34411,7 +34413,7 @@
    "year": 5,
    "teams": [
     18,
-    54
+    55
    ],
    "tournament": 5,
    "category": 2,
@@ -34463,7 +34465,7 @@
    "duration": 4230,
    "year": 2,
    "teams": [
-    61,
+    63,
     24
    ],
    "tournament": 4,
@@ -34516,7 +34518,7 @@
    "duration": 5090,
    "year": 11,
    "teams": [
-    52,
+    53,
     24
    ],
    "tournament": 4,
@@ -34729,7 +34731,7 @@
    "duration": 1123,
    "year": 8,
    "teams": [
-    46,
+    47,
     14
    ],
    "tournament": 4,
@@ -34942,7 +34944,7 @@
    "year": 11,
    "teams": [
     12,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -34995,7 +34997,7 @@
    "year": 6,
    "teams": [
     33,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -35206,7 +35208,7 @@
    "duration": 4120,
    "year": 11,
    "teams": [
-    61,
+    63,
     18
    ],
    "tournament": 4,
@@ -35313,7 +35315,7 @@
    "year": 5,
    "teams": [
     12,
-    42
+    43
    ],
    "tournament": 5,
    "category": 2,
@@ -35419,7 +35421,7 @@
    "year": 9,
    "teams": [
     33,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -35525,7 +35527,7 @@
    "year": 6,
    "teams": [
     18,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -35577,7 +35579,7 @@
    "duration": 5222,
    "year": 6,
    "teams": [
-    46,
+    47,
     17
    ],
    "tournament": 5,
@@ -35791,7 +35793,7 @@
    "year": 6,
    "teams": [
     18,
-    46
+    47
    ],
    "tournament": 5,
    "category": 2,
@@ -35844,7 +35846,7 @@
    "year": 4,
    "teams": [
     33,
-    42
+    43
    ],
    "tournament": 4,
    "category": 2,
@@ -35896,7 +35898,7 @@
    "duration": 4560,
    "year": 6,
    "teams": [
-    42,
+    43,
     18
    ],
    "tournament": 4,
@@ -35950,7 +35952,7 @@
    "year": 2,
    "teams": [
     12,
-    46
+    47
    ],
    "tournament": 4,
    "category": 2,
@@ -36002,7 +36004,7 @@
    "duration": 5621,
    "year": 4,
    "teams": [
-    52,
+    53,
     15
    ],
    "tournament": 4,
@@ -36162,7 +36164,7 @@
    "duration": 5251,
    "year": 4,
    "teams": [
-    61,
+    63,
     24
    ],
    "tournament": 4,
@@ -36215,7 +36217,7 @@
    "duration": 5230,
    "year": 5,
    "teams": [
-    46,
+    47,
     33
    ],
    "tournament": 4,
@@ -36268,7 +36270,7 @@
    "duration": 5063,
    "year": 6,
    "teams": [
-    46,
+    47,
     27
    ],
    "tournament": 5,
@@ -36321,7 +36323,7 @@
    "duration": 4573,
    "year": 10,
    "teams": [
-    52,
+    53,
     12
    ],
    "tournament": 4,
@@ -36586,7 +36588,7 @@
    "duration": 4925,
    "year": 11,
    "teams": [
-    46,
+    47,
     33
    ],
    "tournament": 4,
@@ -36639,7 +36641,7 @@
    "duration": 1370,
    "year": 4,
    "teams": [
-    46,
+    47,
     2
    ],
    "tournament": 4,
@@ -36746,7 +36748,7 @@
    "year": 3,
    "teams": [
     2,
-    58
+    59
    ],
    "tournament": 1,
    "category": 2,
@@ -36852,7 +36854,7 @@
    "year": 6,
    "teams": [
     18,
-    42
+    43
    ],
    "tournament": 5,
    "category": 2,
@@ -36957,7 +36959,7 @@
    "duration": 5260,
    "year": 6,
    "teams": [
-    46,
+    47,
     12
    ],
    "tournament": 4,
@@ -37010,7 +37012,7 @@
    "duration": 4884,
    "year": 6,
    "teams": [
-    42,
+    43,
     10
    ],
    "tournament": 4,
@@ -37063,7 +37065,7 @@
    "duration": 959,
    "year": 5,
    "teams": [
-    46,
+    47,
     12
    ],
    "tournament": 4,
@@ -37116,8 +37118,8 @@
    "duration": 923,
    "year": 6,
    "teams": [
-    61,
-    46
+    63,
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -37169,7 +37171,7 @@
    "duration": 916,
    "year": 6,
    "teams": [
-    61,
+    63,
     12
    ],
    "tournament": 4,
@@ -37222,7 +37224,7 @@
    "duration": 5311,
    "year": 3,
    "teams": [
-    46,
+    47,
     18
    ],
    "tournament": 4,
@@ -37275,7 +37277,7 @@
    "duration": 5044,
    "year": 4,
    "teams": [
-    46,
+    47,
     18
    ],
    "tournament": 4,
@@ -37329,7 +37331,7 @@
    "year": 6,
    "teams": [
     24,
-    61
+    63
    ],
    "tournament": 4,
    "category": 2,
@@ -37381,7 +37383,7 @@
    "duration": 5692,
    "year": 6,
    "teams": [
-    46,
+    47,
     24
    ],
    "tournament": 4,
@@ -37434,7 +37436,7 @@
    "duration": 5144,
    "year": 4,
    "teams": [
-    46,
+    47,
     18
    ],
    "tournament": 4,
@@ -37487,7 +37489,7 @@
    "duration": 889,
    "year": 6,
    "teams": [
-    46,
+    47,
     12
    ],
    "tournament": 4,
@@ -37593,7 +37595,7 @@
    "duration": 1200,
    "year": 4,
    "teams": [
-    46,
+    47,
     26
    ],
    "tournament": 4,
@@ -37646,7 +37648,7 @@
    "duration": 931,
    "year": 6,
    "teams": [
-    46,
+    47,
     14
    ],
    "tournament": 4,
@@ -37859,7 +37861,7 @@
    "year": 4,
    "teams": [
     18,
-    46
+    47
    ],
    "tournament": 4,
    "category": 1,
@@ -38176,7 +38178,7 @@
    "duration": 4726,
    "year": 6,
    "teams": [
-    46,
+    47,
     33
    ],
    "tournament": 4,
@@ -38287,6 +38289,324 @@
    ],
    "tournament": 4,
    "category": 2,
+   "modality": 4,
+   "events": [
+    {
+     "scrums": [],
+     "lineouts": [],
+     "ruck": [],
+     "amonestaciones": {
+      "fouls": [],
+      "tarjetas": {
+       "roja": [],
+       "amarilla": []
+      }
+     },
+     "anotaciones": {
+      "try": [],
+      "conversion": [],
+      "drop": [],
+      "penal": []
+     }
+    },
+    {
+     "scrums": [],
+     "lineouts": [],
+     "ruck": [],
+     "amonestaciones": {
+      "fouls": [],
+      "tarjetas": {
+       "roja": [],
+       "amarilla": []
+      }
+     },
+     "anotaciones": {
+      "try": [],
+      "conversion": [],
+      "drop": [],
+      "penal": []
+     }
+    }
+   ]
+  },
+  {
+   "videoId": "hXNaYQLF1Q4",
+   "title": "Fem 12's - Minotauros vs Barbarians - TRCB 2022 - Fecha 2",
+   "publishedAt": 1647305100,
+   "addedAt": 1730965301,
+   "duration": 1699,
+   "year": 9,
+   "teams": [
+    47,
+    12
+   ],
+   "tournament": 4,
+   "category": 1,
+   "modality": 3,
+   "events": [
+    {
+     "scrums": [],
+     "lineouts": [],
+     "ruck": [],
+     "amonestaciones": {
+      "fouls": [],
+      "tarjetas": {
+       "roja": [],
+       "amarilla": []
+      }
+     },
+     "anotaciones": {
+      "try": [],
+      "conversion": [],
+      "drop": [],
+      "penal": []
+     }
+    },
+    {
+     "scrums": [],
+     "lineouts": [],
+     "ruck": [],
+     "amonestaciones": {
+      "fouls": [],
+      "tarjetas": {
+       "roja": [],
+       "amarilla": []
+      }
+     },
+     "anotaciones": {
+      "try": [],
+      "conversion": [],
+      "drop": [],
+      "penal": []
+     }
+    }
+   ]
+  },
+  {
+   "videoId": "ZkfmT_KW1HE",
+   "title": "15's Masculino Barbarians vs Carneros Premier Semifinales",
+   "publishedAt": 1730934419,
+   "addedAt": 1730965301,
+   "duration": 5015,
+   "year": 11,
+   "teams": [
+    12,
+    18
+   ],
+   "tournament": 4,
+   "category": 2,
+   "modality": 4,
+   "events": [
+    {
+     "scrums": [],
+     "lineouts": [],
+     "ruck": [],
+     "amonestaciones": {
+      "fouls": [],
+      "tarjetas": {
+       "roja": [],
+       "amarilla": []
+      }
+     },
+     "anotaciones": {
+      "try": [],
+      "conversion": [],
+      "drop": [],
+      "penal": []
+     }
+    },
+    {
+     "scrums": [],
+     "lineouts": [],
+     "ruck": [],
+     "amonestaciones": {
+      "fouls": [],
+      "tarjetas": {
+       "roja": [],
+       "amarilla": []
+      }
+     },
+     "anotaciones": {
+      "try": [],
+      "conversion": [],
+      "drop": [],
+      "penal": []
+     }
+    }
+   ]
+  },
+  {
+   "videoId": "Qoa8Pl5m8nw",
+   "title": "15's Masculino Minotauros vs Carneros Desarrollo Semifinales",
+   "publishedAt": 1730934317,
+   "addedAt": 1730965301,
+   "duration": 3733,
+   "year": 11,
+   "teams": [
+    47,
+    18
+   ],
+   "tournament": 4,
+   "category": 2,
+   "modality": 4,
+   "events": [
+    {
+     "scrums": [],
+     "lineouts": [],
+     "ruck": [],
+     "amonestaciones": {
+      "fouls": [],
+      "tarjetas": {
+       "roja": [],
+       "amarilla": []
+      }
+     },
+     "anotaciones": {
+      "try": [],
+      "conversion": [],
+      "drop": [],
+      "penal": []
+     }
+    },
+    {
+     "scrums": [],
+     "lineouts": [],
+     "ruck": [],
+     "amonestaciones": {
+      "fouls": [],
+      "tarjetas": {
+       "roja": [],
+       "amarilla": []
+      }
+     },
+     "anotaciones": {
+      "try": [],
+      "conversion": [],
+      "drop": [],
+      "penal": []
+     }
+    }
+   ]
+  },
+  {
+   "videoId": "RL4sq-37ri0",
+   "title": "15's  Masculino Jaguares Vs Barbarians Desarrollo  Semifinal",
+   "publishedAt": 1730934016,
+   "addedAt": 1730965301,
+   "duration": 3922,
+   "year": 11,
+   "teams": [
+    33,
+    12
+   ],
+   "tournament": 4,
+   "category": 2,
+   "modality": 4,
+   "events": [
+    {
+     "scrums": [],
+     "lineouts": [],
+     "ruck": [],
+     "amonestaciones": {
+      "fouls": [],
+      "tarjetas": {
+       "roja": [],
+       "amarilla": []
+      }
+     },
+     "anotaciones": {
+      "try": [],
+      "conversion": [],
+      "drop": [],
+      "penal": []
+     }
+    },
+    {
+     "scrums": [],
+     "lineouts": [],
+     "ruck": [],
+     "amonestaciones": {
+      "fouls": [],
+      "tarjetas": {
+       "roja": [],
+       "amarilla": []
+      }
+     },
+     "anotaciones": {
+      "try": [],
+      "conversion": [],
+      "drop": [],
+      "penal": []
+     }
+    }
+   ]
+  },
+  {
+   "videoId": "zN6OfdZWPc4",
+   "title": "15's Femenino Cachacas vs Jaguares Semifinal",
+   "publishedAt": 1730934395,
+   "addedAt": 1730965301,
+   "duration": 4011,
+   "year": 11,
+   "teams": [
+    14,
+    33
+   ],
+   "tournament": 4,
+   "category": 1,
+   "modality": 4,
+   "events": [
+    {
+     "scrums": [],
+     "lineouts": [],
+     "ruck": [],
+     "amonestaciones": {
+      "fouls": [],
+      "tarjetas": {
+       "roja": [],
+       "amarilla": []
+      }
+     },
+     "anotaciones": {
+      "try": [],
+      "conversion": [],
+      "drop": [],
+      "penal": []
+     }
+    },
+    {
+     "scrums": [],
+     "lineouts": [],
+     "ruck": [],
+     "amonestaciones": {
+      "fouls": [],
+      "tarjetas": {
+       "roja": [],
+       "amarilla": []
+      }
+     },
+     "anotaciones": {
+      "try": [],
+      "conversion": [],
+      "drop": [],
+      "penal": []
+     }
+    }
+   ]
+  },
+  {
+   "videoId": "V30V8Gv2Rw8",
+   "title": "15's Femenino Minotauros vs Carneros Semifinal",
+   "publishedAt": 1730934225,
+   "addedAt": 1730965301,
+   "duration": 4017,
+   "year": 11,
+   "teams": [
+    47,
+    18
+   ],
+   "tournament": 4,
+   "category": 1,
    "modality": 4,
    "events": [
     {

@@ -1,6 +1,5 @@
 import json
 from datetime import datetime
-from sre_constants import CATEGORY
 
 
 def load_data(json_filename):
@@ -30,8 +29,7 @@ def generate_readme():
     return str
 
 
-with open("data/partidos.json", "r", encoding="utf-8") as file:
-    data = json.load(file)
+data = load_data("optimized_partidos")
 
 print(
     len(
@@ -47,7 +45,7 @@ print(
 EQUIPO = "CHULOS"
 CATEGORIA = "M"
 MODALIDAD = "7"
-AÑO = "2019"
+AÑO = "2020"
 
 
 data = load_data("partidos")

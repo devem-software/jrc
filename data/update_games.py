@@ -158,6 +158,7 @@ videos = get_youtube_videos(YOUTUBE_API_KEY, YOUTUBE_CHANNEL_ID)
 
 save_videos_to_json(
     clean_by_id(videos, sponsors),
+    # videos,
     f"{filename}_new",
 )
 add_games(filename)

@@ -1,6 +1,6 @@
 {
     "title": "teams",
-    "count": 62,
+    "count": 64,
     "data": [
         "ALBORADA",
         "ALIANZA",
@@ -39,6 +39,7 @@
         "LA PAZ",
         "LECHUZAS",
         "LIONS",
+        "LOCAL",
         "LRB",
         "LRC",
         "LRG",
@@ -62,6 +63,7 @@
         "UIS",
         "VALLE",
         "VIKINGGOS",
+        "VISITANTE",
         "ZEPPELIN",
         "ZEPPELIN ROSAS"
     ]

@@ -102,12 +102,6 @@
         "duration": "PT52M12S"
     },
     {
-        "videoId": "LN6O_ySiGpM",
-        "title": "15\u00b4s Masculino Barbarians vs Alianza Premier",
-        "publishedAt": "2024-10-29T22:00:23Z",
-        "duration": "PT1H18M34S"
-    },
-    {
         "videoId": "i-xZDt-KM3M",
         "title": "Mas 15\u00b4s - Lycans vs Zeppelin - TRCB 2022 - Fecha 3",
         "publishedAt": "2022-03-28T00:46:16Z",
@@ -136,12 +130,6 @@
         "title": "Fem 7\u00b4s - Barbarians vs Carneros - TRCB 2021 - Fecha 6 FINAL",
         "publishedAt": "2021-09-06T17:00:11Z",
         "duration": "PT23M39S"
-    },
-    {
-        "videoId": "PKX0bByAdV4",
-        "title": "Torneo Bogot@ Copa de Clubes 2017 SEXTA Fecha JAGUARES M17 M.R.C. vs CGB LIONS M17 M.R.C.",
-        "publishedAt": "2017-10-10T22:44:29Z",
-        "duration": "PT18M55S"
     },
     {
         "videoId": "yBmk8Yf2pH8",
@@ -180,6 +168,12 @@
         "duration": "PT1H21M14S"
     },
     {
+        "videoId": "d-dALNrLlNk",
+        "title": "10\u00b4s Masculino Alianza vs Minotauros TRCB 2023 F2",
+        "publishedAt": "2023-08-29T13:30:29Z",
+        "duration": "PT30M5S"
+    },
+    {
         "videoId": "QZ3pE0pNQL4",
         "title": "Mas 15\u00b4s   Jaguares vs C Garrote   TRCB 2022   Fecha 4",
         "publishedAt": "2022-04-05T06:43:48Z",
@@ -196,12 +190,6 @@
         "title": "7\u00b4s FEMENINO BOGOTA VS CESAR Interligas seven 2024",
         "publishedAt": "2024-09-19T22:30:00Z",
         "duration": "PT17M45S"
-    },
-    {
-        "videoId": "zMR2VycCeT4",
-        "title": "15\u00b4s Masculino Barbarians vs Manoba Desarrollo",
-        "publishedAt": "2024-10-29T22:00:42Z",
-        "duration": "PT1H8M27S"
     },
     {
         "videoId": "-TbcGm2M9uk",
@@ -240,16 +228,10 @@
         "duration": "PT47M7S"
     },
     {
-        "videoId": "d-dALNrLlNk",
-        "title": "10\u00b4s Masculino Alianza vs Minotauros TRCB 2023 F2",
-        "publishedAt": "2023-08-29T13:30:29Z",
-        "duration": "PT30M5S"
-    },
-    {
-        "videoId": "DOM2PWbnTBs",
-        "title": "15\u00b4s Masculino Minotauros vs Jaguares Premier",
-        "publishedAt": "2024-10-29T22:00:13Z",
-        "duration": "PT1H22M5S"
+        "videoId": "hXNaYQLF1Q4",
+        "title": "Fem 12\u00b4s - Minotauros vs Barbarians - TRCB 2022 - Fecha 2",
+        "publishedAt": "2022-03-14T19:45:00Z",
+        "duration": "PT28M19S"
     },
     {
         "videoId": "PkihTs4GQpc",
@@ -274,6 +256,12 @@
         "title": "15\u00b4s Masculino Alianza vs Barbarians TRCB 2023 II F5",
         "publishedAt": "2023-09-18T15:11:35Z",
         "duration": "PT1H31M22S"
+    },
+    {
+        "videoId": "TndXHic1w8Q",
+        "title": "Fem 7\u00b4s - Minotauros vs Alianza B - TRCB 2021 - Fecha 4",
+        "publishedAt": "2021-08-23T17:00:15Z",
+        "duration": "PT14M20S"
     },
     {
         "videoId": "I7l-5lnmsq0",
@@ -492,6 +480,12 @@
         "duration": "PT47M59S"
     },
     {
+        "videoId": "1rEFe8tWwak",
+        "title": "Torneo Bogot@ Copa de Clubes 2017 cuarta Fecha BARBARIANS M19  vs  CARNEROS M19",
+        "publishedAt": "2017-09-26T04:38:14Z",
+        "duration": "PT22M58S"
+    },
+    {
         "videoId": "9yK4Gi9AIFs",
         "title": "Fem 7\u00b4s - Coyotes A vs Carneros - TRCB 2021 - Fecha 4",
         "publishedAt": "2021-08-23T17:00:04Z",
@@ -636,12 +630,6 @@
         "duration": "PT1H25M7S"
     },
     {
-        "videoId": "hsMFPGhIRIE",
-        "title": "12\u00b4s Femenino  Barbarians vs Carneros TRCB 2023 F6",
-        "publishedAt": "2023-05-16T10:19:58Z",
-        "duration": "PT39M12S"
-    },
-    {
         "videoId": "zla5RpKWCRw",
         "title": "Fem 7\u00b4s  Alianza  VS  Jaguares A  F9-TRCB  2019-2",
         "publishedAt": "2019-09-23T09:41:30Z",
@@ -652,12 +640,6 @@
         "title": "MB   Industriales VS Coyotes   F4 TRCB 2018 II ok",
         "publishedAt": "2018-08-27T04:15:25Z",
         "duration": "PT1H27M51S"
-    },
-    {
-        "videoId": "TjLmPeR0biU",
-        "title": "M15\u00b4s  Barbarians  VS  Zeppelin  F12 -TRCB  2019-2",
-        "publishedAt": "2019-10-21T11:12:43Z",
-        "duration": "PT1H22M14S"
     },
     {
         "videoId": "HAJ-YFoRsaI",
@@ -690,22 +672,16 @@
         "duration": "PT1H29M46S"
     },
     {
-        "videoId": "7cKOwF74P8o",
-        "title": "15\u00b4s Masculino Zeppelin vs Carneros Premier",
-        "publishedAt": "2024-10-29T22:00:07Z",
-        "duration": "PT1H8M40S"
+        "videoId": "gCsrTXssHE4",
+        "title": "Torneo Bogot@ Copa de Clubes 2017 Quinta Fecha JAGUARES M19 M.R.C. vs CANCERBEROS M19 M.R.C.",
+        "publishedAt": "2017-10-04T04:24:48Z",
+        "duration": "PT1H35M11S"
     },
     {
         "videoId": "ulRqgGUbWsY",
         "title": "Mas 15\u00b4s - Coyotes vs Barbarians - TRCB 2021 - Fecha 2",
         "publishedAt": "2021-08-02T16:15:55Z",
         "duration": "PT1H29M55S"
-    },
-    {
-        "videoId": "cos3UJjQJBo",
-        "title": "15\u00b4s Femenino Alianza vs Cachacas",
-        "publishedAt": "2024-10-29T22:00:21Z",
-        "duration": "PT1H9M12S"
     },
     {
         "videoId": "ZY9FK4Om_LM",
@@ -724,12 +700,6 @@
         "title": "15\u00b4s Masculino Coyotes vs Zepelin TRCB 2023 II F7",
         "publishedAt": "2023-10-02T14:03:06Z",
         "duration": "PT1H29M10S"
-    },
-    {
-        "videoId": "2MtQfFy6E4Q",
-        "title": "15\u00b4s Femenino Barbarians vs Minotauros",
-        "publishedAt": "2024-10-29T22:00:01Z",
-        "duration": "PT57M38S"
     },
     {
         "videoId": "TrPrk5qM0HQ",
@@ -774,6 +744,12 @@
         "duration": "PT16M33S"
     },
     {
+        "videoId": "fJIpjIQ-iHg",
+        "title": "Fem 7\u00b4s  Coyotes  VS  Jaguares  F9-TRCB  2019-2",
+        "publishedAt": "2019-09-23T09:49:50Z",
+        "duration": "PT15M36S"
+    },
+    {
         "videoId": "n0Y66Kwckpk",
         "title": "MB   Carneros B VS Funza   F8 TRCB 2018 II",
         "publishedAt": "2018-09-25T21:36:04Z",
@@ -784,12 +760,6 @@
         "title": "Mas 15\u00b4s - Coyotes vs Minotauros - TRCB 2021 - Fecha 4",
         "publishedAt": "2021-08-23T17:00:01Z",
         "duration": "PT1H28M40S"
-    },
-    {
-        "videoId": "yjrfFVeULmc",
-        "title": "15\u00b4s Maculino Salamandras vs Coyotes Premier",
-        "publishedAt": "2024-10-29T22:00:42Z",
-        "duration": "PT1H24M50S"
     },
     {
         "videoId": "tuFystIwsQ0",
@@ -828,10 +798,22 @@
         "duration": "PT1H24M44S"
     },
     {
+        "videoId": "zWLMn0_zBBw",
+        "title": "XX Festival de Verano 2016 Cachacas F R.C. vs. UIS F R.C.",
+        "publishedAt": "2016-08-12T13:55:51Z",
+        "duration": "PT17M39S"
+    },
+    {
         "videoId": "hnnhTBvqe38",
         "title": "Mas 15\u00b4s Carneros B VS Animals   TRCB 2020 1 FECHA2",
         "publishedAt": "2020-03-10T00:24:12Z",
         "duration": "PT1H18M58S"
+    },
+    {
+        "videoId": "ZkfmT_KW1HE",
+        "title": "15\u00b4s Masculino Barbarians vs Carneros Premier Semifinales",
+        "publishedAt": "2024-11-06T18:06:59Z",
+        "duration": "PT1H23M35S"
     },
     {
         "videoId": "PENAxkW7clc",
@@ -900,22 +882,22 @@
         "duration": "PT52M1S"
     },
     {
-        "videoId": "i31hwBD0TeU",
-        "title": "Torneo Capital Rugby 2016 Apertura Fecha Final Jaguares M-18 R.C. vs. Minotauros M-18 R.C.",
-        "publishedAt": "2016-06-11T13:28:29Z",
-        "duration": "PT24M3S"
+        "videoId": "dKnL5tPwj-w",
+        "title": "Mas 15\u00b4s   C Garrote vs Coyotes  TRCB 2022   Fecha 6",
+        "publishedAt": "2022-04-25T11:00:36Z",
+        "duration": "PT1H20M55S"
     },
     {
-        "videoId": "oCUNR7EhN50",
-        "title": "Mas 15\u00b4s - Salamandras vs Azules - TRCB 2021 - FECHA 2",
-        "publishedAt": "2021-08-02T16:16:43Z",
-        "duration": "PT1H26M16S"
+        "videoId": "mU8afIhNkIA",
+        "title": "Mas 15\u00b4 - Animals vs Salamandras - TRCB 2021 - Fecha 9",
+        "publishedAt": "2021-10-12T18:30:13Z",
+        "duration": "PT1H15M46S"
     },
     {
-        "videoId": "N6WUlhKwaSc",
-        "title": "Torneo Bogot@ Capital Rugby 2017 Fecha Uno  CANCERBEROS M R C   vs  CARNEROS M R C",
-        "publishedAt": "2017-02-21T02:45:08Z",
-        "duration": "PT1H25M43S"
+        "videoId": "Xvb5gl7LzJs",
+        "title": "SUPER 20   2019  Coyotes  vs  Arrieros",
+        "publishedAt": "2019-08-27T02:14:02Z",
+        "duration": "PT1H29M22S"
     },
     {
         "videoId": "CuF8_t19SlY",
@@ -958,12 +940,6 @@
         "title": "Mas 15\u00b4s - Barbarians vs Carneros - TRCB 2022 - Fecha 2",
         "publishedAt": "2022-03-14T20:40:19Z",
         "duration": "PT1H30M"
-    },
-    {
-        "videoId": "kH8h-VvCWV4",
-        "title": "MB Barbarians VS Animals F3 TRCB 2019 I",
-        "publishedAt": "2019-03-11T22:19:07Z",
-        "duration": "PT1H22M59S"
     },
     {
         "videoId": "vUtWMu2pVMk",
@@ -1086,22 +1062,16 @@
         "duration": "PT1H20M33S"
     },
     {
-        "videoId": "uYBfPqx7iIY",
-        "title": "Fem 15\u00b4s   Cachacas vs Carneros   TRCB 2022   Fecha 10",
-        "publishedAt": "2022-06-12T19:28:15Z",
-        "duration": "PT1H30M9S"
+        "videoId": "4gVbn_c-4oY",
+        "title": "15\u00b4s Masculino Coyotes vs Minotauros TRCB 2024  F1",
+        "publishedAt": "2024-02-27T19:22:38Z",
+        "duration": "PT1H24M20S"
     },
     {
         "videoId": "TlrwMBrz3Sg",
         "title": "Fem 7\u00b4s - Minotauros vs Coyotes A - TRCB 2021 - FECHA 2",
         "publishedAt": "2021-08-02T16:19:05Z",
         "duration": "PT19M51S"
-    },
-    {
-        "videoId": "4gVbn_c-4oY",
-        "title": "15\u00b4s Masculino Coyotes vs Minotauros TRCB 2024  F1",
-        "publishedAt": "2024-02-27T19:22:38Z",
-        "duration": "PT1H24M20S"
     },
     {
         "videoId": "vIyqgrk93H0",
@@ -1188,46 +1158,46 @@
         "duration": "PT41M53S"
     },
     {
-        "videoId": "M-0py7CSF44",
-        "title": "7\u00b4s FEMENINO VALLE VS TOLIMA Interligas seven 2024",
-        "publishedAt": "2024-09-19T22:45:00Z",
-        "duration": "PT17M8S"
-    },
-    {
         "videoId": "zZSios1YCOk",
         "title": "Fem 12\u00b4s - Coyotes vs Alianza - TRCB 2021 - Fecha 10",
         "publishedAt": "2021-11-01T00:34:29Z",
         "duration": "PT41M31S"
     },
     {
-        "videoId": "-dCGnL-nJuI",
-        "title": "Fem 15\u00b4s   Barbarians vs Coyotes   TRCB 2022   Fecha 9",
-        "publishedAt": "2022-06-06T11:24:36Z",
-        "duration": "PT1H18M8S"
+        "videoId": "M-0py7CSF44",
+        "title": "7\u00b4s FEMENINO VALLE VS TOLIMA Interligas seven 2024",
+        "publishedAt": "2024-09-19T22:45:00Z",
+        "duration": "PT17M8S"
     },
     {
-        "videoId": "CI9Zr-lvMb8",
-        "title": "Mas 15\u00b4s   Lycans vs Barbarians   TRCB 2022   Fecha 4",
-        "publishedAt": "2022-04-05T06:44:15Z",
-        "duration": "PT1H27M6S"
+        "videoId": "fWwPqgRIhAE",
+        "title": "Fem 7\u00b4s - Coyotes A vs Jaguares - TRCB 2021 - Fecha 3",
+        "publishedAt": "2021-08-09T17:00:34Z",
+        "duration": "PT21M36S"
     },
     {
-        "videoId": "pvwljAd6zeU",
-        "title": "F - Carneros Vs Ciudad Bolivar - F2 - TRCB 2018-II",
-        "publishedAt": "2018-08-13T02:00:11Z",
-        "duration": "PT17M34S"
+        "videoId": "g1gVYfqgmiE",
+        "title": "10\u00b4s Masculino Jaguares vs Minotauros TRCB 2023 II F4",
+        "publishedAt": "2023-09-25T12:20:47Z",
+        "duration": "PT35M2S"
     },
     {
-        "videoId": "lMeT3OI9QFE",
-        "title": "F Lechuzas VS Carneros F5 TRCB 2019 I",
-        "publishedAt": "2019-03-25T16:37:30Z",
-        "duration": "PT16M15S"
+        "videoId": "F9G73dExQfU",
+        "title": "Mas 15\u00b4s-Alianza VS Azules-TRCB 2021-FECHA1",
+        "publishedAt": "2021-07-26T12:00:06Z",
+        "duration": "PT1H26M34S"
     },
     {
-        "videoId": "UXmRFKTxjV0",
-        "title": "Mas 15\u00b4s - Carneros Garrote vs Carneros - TRCB 2021 - Fecha 2",
-        "publishedAt": "2021-08-02T16:18:41Z",
-        "duration": "PT1H28M34S"
+        "videoId": "xdXFueAglsI",
+        "title": "15\u00b4s Masculino Industriales vs Coyotes TRCB 2023 F3",
+        "publishedAt": "2023-04-25T07:37:28Z",
+        "duration": "PT1H13M12S"
+    },
+    {
+        "videoId": "_OaXcQNocWA",
+        "title": "Fem 12\u00b4s - Cachacas vs Minotauros - TRCB 2021 - Fecha 7",
+        "publishedAt": "2021-09-20T17:00:32Z",
+        "duration": "PT45M43S"
     },
     {
         "videoId": "ZvGz4HJYghA",
@@ -1272,22 +1242,10 @@
         "duration": "PT19M24S"
     },
     {
-        "videoId": "prPCMAnJE7Y",
-        "title": "Fem 7\u00b4s  Lechuzas  VS  Carneros  F6  TRCB  2019 2",
-        "publishedAt": "2019-09-03T10:33:46Z",
-        "duration": "PT18M11S"
-    },
-    {
         "videoId": "F9G73dExQfU",
         "title": "Mas 15\u00b4s-Alianza VS Azules-TRCB 2021-FECHA1",
         "publishedAt": "2021-07-26T12:00:06Z",
         "duration": "PT1H26M34S"
-    },
-    {
-        "videoId": "lA8mOURjOtk",
-        "title": "15\u00b4s Masculino Jaguares vs Carneros Desarrollo",
-        "publishedAt": "2024-10-29T22:00:26Z",
-        "duration": "PT1H6M4S"
     },
     {
         "videoId": "PUcI-uAAaHs",
@@ -1332,10 +1290,10 @@
         "duration": "PT1H27M53S"
     },
     {
-        "videoId": "fJIpjIQ-iHg",
-        "title": "Fem 7\u00b4s  Coyotes  VS  Jaguares  F9-TRCB  2019-2",
-        "publishedAt": "2019-09-23T09:49:50Z",
-        "duration": "PT15M36S"
+        "videoId": "Qoa8Pl5m8nw",
+        "title": "15\u00b4s Masculino Minotauros vs Carneros Desarrollo Semifinales",
+        "publishedAt": "2024-11-06T18:05:17Z",
+        "duration": "PT1H2M13S"
     },
     {
         "videoId": "La_jGrDPHkc",
@@ -1392,16 +1350,10 @@
         "duration": "PT1H17M44S"
     },
     {
-        "videoId": "MCAh66Ihw1U",
-        "title": "Fem 7\u00b4s - Cachacas vs Alianza A - TRCB 2021 - Fecha 6 (3\u00b0 y 4\u00b0)",
-        "publishedAt": "2021-09-06T17:00:11Z",
-        "duration": "PT21M46S"
-    },
-    {
-        "videoId": "qKkM5CLMhOM",
-        "title": "Mas 15\u00b4s - Animals vs Alianza - TRCB 2021 - Fecha 5",
-        "publishedAt": "2021-08-30T17:00:25Z",
-        "duration": "PT1H30M41S"
+        "videoId": "YyIKKgPC4Ns",
+        "title": "Fem 7\u00b4s  Jaguares A  VS  Cachacas  F14-TRCB  2019-2",
+        "publishedAt": "2019-11-05T10:14:35Z",
+        "duration": "PT15M5S"
     },
     {
         "videoId": "7Lv3KvUB55E",
@@ -1434,6 +1386,12 @@
         "duration": "PT1H27M42S"
     },
     {
+        "videoId": "gfkU-sbHtfI",
+        "title": "12\u00b4s Femenino Minotauros vs Cachacas TRCB 2023 F9 Final",
+        "publishedAt": "2023-06-13T23:15:01Z",
+        "duration": "PT57M32S"
+    },
+    {
         "videoId": "PMGznNlDtQ8",
         "title": "Mas 15\u00b4s - Azules vs Garrote - TRCB 2021 - Fecha 4",
         "publishedAt": "2021-08-23T17:00:09Z",
@@ -1462,6 +1420,12 @@
         "title": "Fem 12\u00b4s   Jaguares vs Coyotes   TRCB 2022   Fecha 5",
         "publishedAt": "2022-04-11T13:09:56Z",
         "duration": "PT42M33S"
+    },
+    {
+        "videoId": "bC7Uz3Q9tLU",
+        "title": "COLOMBIA RUGBY 2024 INTERLIGAS 7\u00b4S",
+        "publishedAt": "2024-09-17T23:10:52Z",
+        "duration": "PT31S"
     },
     {
         "videoId": "zY04DQsz6Hs",
@@ -1506,22 +1470,22 @@
         "duration": "PT43M45S"
     },
     {
-        "videoId": "bC7Uz3Q9tLU",
-        "title": "COLOMBIA RUGBY 2024 INTERLIGAS 7\u00b4S",
-        "publishedAt": "2024-09-17T23:10:52Z",
-        "duration": "PT31S"
+        "videoId": "rjALptls71A",
+        "title": "Fem 7\u00b4s - Coyotes B vs Coyotes A - TRCB 2021 - FECHA 2",
+        "publishedAt": "2021-08-02T16:16:27Z",
+        "duration": "PT16M23S"
+    },
+    {
+        "videoId": "pzaXDLG3564",
+        "title": "7\u00b4S FEMENINO RISARALDA VS BOGOT\u00c1 Interligas seven 2024",
+        "publishedAt": "2024-09-19T22:30:12Z",
+        "duration": "PT18M49S"
     },
     {
         "videoId": "bDzmvzct1N4",
         "title": "Mas 15\u00b4 - Carneros vs Azules - TRCB 2021 - Fecha 10",
         "publishedAt": "2021-11-01T02:00:15Z",
         "duration": "PT1H16M48S"
-    },
-    {
-        "videoId": "1Un98ldbmd4",
-        "title": "12\u00b4s Femenino Barbarians vs Carneros TRCB 2023 II F3",
-        "publishedAt": "2023-08-29T13:30:02Z",
-        "duration": "PT46M49S"
     },
     {
         "videoId": "MBzPZDXNBdQ",
@@ -1534,12 +1498,6 @@
         "title": "Mas 15\u00b4s - Minotauros vs Alianza - TRCB 2021 - FECHA 2",
         "publishedAt": "2021-08-02T16:17:43Z",
         "duration": "PT1H25M16S"
-    },
-    {
-        "videoId": "pzaXDLG3564",
-        "title": "7\u00b4S FEMENINO RISARALDA VS BOGOT\u00c1 Interligas seven 2024",
-        "publishedAt": "2024-09-19T22:30:12Z",
-        "duration": "PT18M49S"
     },
     {
         "videoId": "1oQ_yrKD7Lk",
@@ -1578,6 +1536,12 @@
         "duration": "PT1H23M41S"
     },
     {
+        "videoId": "QMSPQvU_1Js",
+        "title": "15\u00b4s Masculino Barbarians vs Alianza TRCB 2024 F5",
+        "publishedAt": "2024-03-25T21:33:56Z",
+        "duration": "PT1H14M5S"
+    },
+    {
         "videoId": "PfR5wssq9AU",
         "title": "Mas 15\u00b4s - Carneros Garrote vs Barbarians - TRCB 2021 - Fecha 3",
         "publishedAt": "2021-08-09T17:00:15Z",
@@ -1596,18 +1560,6 @@
         "duration": "PT1H27M30S"
     },
     {
-        "videoId": "QMSPQvU_1Js",
-        "title": "15\u00b4s Masculino Barbarians vs Alianza TRCB 2024 F5",
-        "publishedAt": "2024-03-25T21:33:56Z",
-        "duration": "PT1H14M5S"
-    },
-    {
-        "videoId": "gfkU-sbHtfI",
-        "title": "12\u00b4s Femenino Minotauros vs Cachacas TRCB 2023 F9 Final",
-        "publishedAt": "2023-06-13T23:15:01Z",
-        "duration": "PT57M32S"
-    },
-    {
         "videoId": "Qe_XTeTXyxA",
         "title": "Fem 15\u00b4s   Minotauros vs Cachacas   TRCB 2022   Fecha 8",
         "publishedAt": "2022-05-08T23:36:57Z",
@@ -1620,16 +1572,22 @@
         "duration": "PT1H36M54S"
     },
     {
+        "videoId": "prPCMAnJE7Y",
+        "title": "Fem 7\u00b4s  Lechuzas  VS  Carneros  F6  TRCB  2019 2",
+        "publishedAt": "2019-09-03T10:33:46Z",
+        "duration": "PT18M11S"
+    },
+    {
+        "videoId": "unVp6bB_7u8",
+        "title": "Fem 15\u00b4s   Jaguares vs Cachacas   TRCB 2022   Fecha 9",
+        "publishedAt": "2022-06-01T23:07:33Z",
+        "duration": "PT1H33M57S"
+    },
+    {
         "videoId": "vV-hZ7Fwszs",
         "title": "15\u00b4s Masculino Barbarians vs Coyotes TRCB 2023 II F3",
         "publishedAt": "2023-08-29T14:14:44Z",
         "duration": "PT43M50S"
-    },
-    {
-        "videoId": "MAF58rmb7Ao",
-        "title": "15\u00b4s Masculino Minotauros vs Jaguares TRCB 2023 F6",
-        "publishedAt": "2023-05-16T10:53:19Z",
-        "duration": "PT1H24M34S"
     },
     {
         "videoId": "6DSsrzGIQU4",
@@ -1644,10 +1602,22 @@
         "duration": "PT1H32M21S"
     },
     {
+        "videoId": "2MtQfFy6E4Q",
+        "title": "15\u00b4s Femenino Barbarians vs Minotauros",
+        "publishedAt": "2024-10-29T22:00:01Z",
+        "duration": "PT57M38S"
+    },
+    {
         "videoId": "tajOO5L00x8",
         "title": "Mas 15\u00b4s   Lycans vs Alianza   TRCB 2022   Fecha 5",
         "publishedAt": "2022-04-11T12:50:19Z",
         "duration": "PT1H22M57S"
+    },
+    {
+        "videoId": "-srzypPZjjg",
+        "title": "MB Alianza VS Salamandras F9 TRCB 2019 I",
+        "publishedAt": "2019-04-30T11:22:08Z",
+        "duration": "PT1H22M"
     },
     {
         "videoId": "IpEKCA-wJxA",
@@ -1662,10 +1632,10 @@
         "duration": "PT1H30M7S"
     },
     {
-        "videoId": "9mlQIE_dDo0",
-        "title": "15\u00b4s Masculino Jaguares vs Coyotes TRCB 2023 F4",
-        "publishedAt": "2023-05-03T09:39:56Z",
-        "duration": "PT1H22M17S"
+        "videoId": "hsMFPGhIRIE",
+        "title": "12\u00b4s Femenino  Barbarians vs Carneros TRCB 2023 F6",
+        "publishedAt": "2023-05-16T10:19:58Z",
+        "duration": "PT39M12S"
     },
     {
         "videoId": "Sq9fjahPw5c",
@@ -1674,16 +1644,16 @@
         "duration": "PT1H15M41S"
     },
     {
+        "videoId": "9mlQIE_dDo0",
+        "title": "15\u00b4s Masculino Jaguares vs Coyotes TRCB 2023 F4",
+        "publishedAt": "2023-05-03T09:39:56Z",
+        "duration": "PT1H22M17S"
+    },
+    {
         "videoId": "cJnFNG7SNbs",
         "title": "MB Lycans VS Animals F7 TRCB 2019 I",
         "publishedAt": "2019-04-09T11:34:43Z",
         "duration": "PT1H18M47S"
-    },
-    {
-        "videoId": "10E-3kpvfuo",
-        "title": "M 15\u00b4s  Alianza  VS  Carneros B  F10  TRCB  2019 2",
-        "publishedAt": "2019-10-01T00:16:10Z",
-        "duration": "PT1H27M38S"
     },
     {
         "videoId": "H00k2GOMZ3I",
@@ -1692,22 +1662,40 @@
         "duration": "PT1H38M50S"
     },
     {
-        "videoId": "PMKZcUSK2Ro",
-        "title": "15\u00b4s Masculino Carneros vs Salamandras TRCB 2023 II F3",
-        "publishedAt": "2023-08-29T13:30:08Z",
-        "duration": "PT1H17M36S"
-    },
-    {
         "videoId": "lVUHNuyfjrQ",
         "title": "Mas 15\u00b4s Zeppelin VS Minotauros   TRCB 2020 1",
         "publishedAt": "2020-03-03T07:33:27Z",
         "duration": "PT1H29M54S"
     },
     {
+        "videoId": "PMKZcUSK2Ro",
+        "title": "15\u00b4s Masculino Carneros vs Salamandras TRCB 2023 II F3",
+        "publishedAt": "2023-08-29T13:30:08Z",
+        "duration": "PT1H17M36S"
+    },
+    {
+        "videoId": "10E-3kpvfuo",
+        "title": "M 15\u00b4s  Alianza  VS  Carneros B  F10  TRCB  2019 2",
+        "publishedAt": "2019-10-01T00:16:10Z",
+        "duration": "PT1H27M38S"
+    },
+    {
         "videoId": "McauhvTjfIQ",
         "title": "15\u00b4s Masculino Alianza  vs Salamandras TRCB 2023 II F6",
         "publishedAt": "2023-09-25T12:41:08Z",
         "duration": "PT1H32M55S"
+    },
+    {
+        "videoId": "qE2TS0nPrSc",
+        "title": "12\u00b4s Femenino Coyotes vs Cachacas TRCB 2024 F1",
+        "publishedAt": "2024-03-05T18:36:13Z",
+        "duration": "PT52M2S"
+    },
+    {
+        "videoId": "MAF58rmb7Ao",
+        "title": "15\u00b4s Masculino Minotauros vs Jaguares TRCB 2023 F6",
+        "publishedAt": "2023-05-16T10:53:19Z",
+        "duration": "PT1H24M34S"
     },
     {
         "videoId": "Q8YdUeZFD-I",
@@ -1722,6 +1710,12 @@
         "duration": "PT47M35S"
     },
     {
+        "videoId": "8h2mYJgxCJY",
+        "title": "12\u00b4s Femenino Minotauros vs Jaguares  Copa Oro",
+        "publishedAt": "2024-05-27T23:00:03Z",
+        "duration": "PT56M2S"
+    },
+    {
         "videoId": "17Blyni_Yfc",
         "title": "10\u00b4s Masculino Coyotes vs Alianza TRCB 2023 II F4",
         "publishedAt": "2023-09-25T12:17:59Z",
@@ -1734,10 +1728,40 @@
         "duration": "PT1H15M52S"
     },
     {
+        "videoId": "m_yoKPu4ALY",
+        "title": "12\u00b4s Femenino Coyotes vs Barbarians TRCB 2024 F5",
+        "publishedAt": "2024-03-25T21:21:10Z",
+        "duration": "PT51M30S"
+    },
+    {
         "videoId": "_f1QyzZuITo",
         "title": "7\u00b4S MASCULINO ANTIOQUIA VS RISARALDA Interligas Seven 2024",
         "publishedAt": "2024-09-19T01:09:27Z",
         "duration": "PT17M20S"
+    },
+    {
+        "videoId": "RL4sq-37ri0",
+        "title": "15\u00b4s  Masculino Jaguares Vs Barbarians Desarrollo  Semifinal",
+        "publishedAt": "2024-11-06T18:00:16Z",
+        "duration": "PT1H5M22S"
+    },
+    {
+        "videoId": "zN6OfdZWPc4",
+        "title": "15\u00b4s Femenino Cachacas vs Jaguares Semifinal",
+        "publishedAt": "2024-11-06T18:06:35Z",
+        "duration": "PT1H6M51S"
+    },
+    {
+        "videoId": "V30V8Gv2Rw8",
+        "title": "15\u00b4s Femenino Minotauros vs Carneros Semifinal",
+        "publishedAt": "2024-11-06T18:03:45Z",
+        "duration": "PT1H6M57S"
+    },
+    {
+        "videoId": "Xz0HXOj_wnQ",
+        "title": "7\u00b4S FEMENINO TOLIMA VS ANTIOGUIA Interligas Seven 2024",
+        "publishedAt": "2024-09-19T02:50:30Z",
+        "duration": "PT17M46S"
     },
     {
         "videoId": "_KKS_gypKQk",
@@ -1746,22 +1770,10 @@
         "duration": "PT1H31M23S"
     },
     {
-        "videoId": "qE2TS0nPrSc",
-        "title": "12\u00b4s Femenino Coyotes vs Cachacas TRCB 2024 F1",
-        "publishedAt": "2024-03-05T18:36:13Z",
-        "duration": "PT52M2S"
-    },
-    {
         "videoId": "9IugNURYAGM",
         "title": "15\u00b4s Masculino Carneros vs Jaguares TRCB 2023 II F6",
         "publishedAt": "2023-09-25T12:47:39Z",
         "duration": "PT1H35M42S"
-    },
-    {
-        "videoId": "8h2mYJgxCJY",
-        "title": "12\u00b4s Femenino Minotauros vs Jaguares  Copa Oro",
-        "publishedAt": "2024-05-27T23:00:03Z",
-        "duration": "PT56M2S"
     },
     {
         "videoId": "OhxJWQkHvfw",
@@ -1776,28 +1788,28 @@
         "duration": "PT1H28M46S"
     },
     {
-        "videoId": "Xz0HXOj_wnQ",
-        "title": "7\u00b4S FEMENINO TOLIMA VS ANTIOGUIA Interligas Seven 2024",
-        "publishedAt": "2024-09-19T02:50:30Z",
-        "duration": "PT17M46S"
-    },
-    {
         "videoId": "qRQNUFsfn3U",
         "title": "M 15\u00b4s  Jaguraes  VS  Carneros B  F9-TRCB  20192",
         "publishedAt": "2019-09-23T15:44:32Z",
         "duration": "PT1H20M56S"
     },
     {
-        "videoId": "m_yoKPu4ALY",
-        "title": "12\u00b4s Femenino Coyotes vs Barbarians TRCB 2024 F5",
-        "publishedAt": "2024-03-25T21:21:10Z",
-        "duration": "PT51M30S"
+        "videoId": "IvNzTiG8rkE",
+        "title": "15\u00b4s Masculino Alianza vs Barbarians TRCB 2023 F5",
+        "publishedAt": "2023-05-08T11:56:43Z",
+        "duration": "PT1H37M13S"
     },
     {
-        "videoId": "-srzypPZjjg",
-        "title": "MB Alianza VS Salamandras F9 TRCB 2019 I",
-        "publishedAt": "2019-04-30T11:22:08Z",
-        "duration": "PT1H22M"
+        "videoId": "6psBy5ULjYk",
+        "title": "7\u00b4S MASCULINO  MAGDALENA VS ANTIOQUIA Interligas Seven 2024",
+        "publishedAt": "2024-09-19T01:09:39Z",
+        "duration": "PT12M18S"
+    },
+    {
+        "videoId": "af75tLq93T8",
+        "title": "15\u00b4s Masculino Barbarians vs Carneros  TRCB 2023 II F1",
+        "publishedAt": "2023-08-01T22:31:06Z",
+        "duration": "PT1H27M23S"
     },
     {
         "videoId": "oHBbErDDhkw",
@@ -1810,6 +1822,12 @@
         "title": "M 15\u00b4s  Cancerveros  VS  Coyotes  F10  TRCB  2019 2",
         "publishedAt": "2019-10-01T23:17:55Z",
         "duration": "PT1H8M5S"
+    },
+    {
+        "videoId": "ScMT-L9VnuE",
+        "title": "Torneo Capital Rugby 2016 Apertura Cuarta Fecha Cancerberos M R.C. vs. Minotauros M R.C.",
+        "publishedAt": "2016-04-27T00:25:10Z",
+        "duration": "PT1H21M46S"
     },
     {
         "videoId": "YR3T2UDDibo",
@@ -1836,10 +1854,10 @@
         "duration": "PT1H28M7S"
     },
     {
-        "videoId": "qsUK8bt7WxI",
-        "title": "MB - Funza Vs Coyotes - F1 - TRCB 2018-II",
-        "publishedAt": "2018-08-06T18:27:08Z",
-        "duration": "PT1H12M48S"
+        "videoId": "cdG2UCOoTU4",
+        "title": "15\u00b4s Masculino Premier Barbarians Vs Jaguares TRCB 2024 II",
+        "publishedAt": "2024-08-20T22:00:22Z",
+        "duration": "PT1H25M15S"
     },
     {
         "videoId": "QvuFqMa_DTs",
@@ -1848,16 +1866,22 @@
         "duration": "PT46M48S"
     },
     {
+        "videoId": "qsUK8bt7WxI",
+        "title": "MB - Funza Vs Coyotes - F1 - TRCB 2018-II",
+        "publishedAt": "2018-08-06T18:27:08Z",
+        "duration": "PT1H12M48S"
+    },
+    {
         "videoId": "gkKn2fi6Jfg",
         "title": "12\u00b4s Femenino Barbarians vs Alianza TRCB 2023 F5",
         "publishedAt": "2023-05-08T11:40:47Z",
         "duration": "PT52M26S"
     },
     {
-        "videoId": "6psBy5ULjYk",
-        "title": "7\u00b4S MASCULINO  MAGDALENA VS ANTIOQUIA Interligas Seven 2024",
-        "publishedAt": "2024-09-19T01:09:39Z",
-        "duration": "PT12M18S"
+        "videoId": "7cKOwF74P8o",
+        "title": "15\u00b4s Masculino Zeppelin vs Carneros Premier",
+        "publishedAt": "2024-10-29T22:00:07Z",
+        "duration": "PT1H8M40S"
     },
     {
         "videoId": "K5zFYxKboKw",
@@ -1878,22 +1902,16 @@
         "duration": "PT1H26M17S"
     },
     {
-        "videoId": "aSPXwLOR7iU",
-        "title": "15\u00b4s Masculino Barbarians vs Carneros TRCB 2023 F6",
-        "publishedAt": "2023-05-16T10:52:02Z",
-        "duration": "PT1H21M16S"
-    },
-    {
         "videoId": "RWA6cqlk9NQ",
         "title": "12\u00b4s Femenino Minotauros vs Cachacas TRCB 2023 F5",
         "publishedAt": "2023-05-08T11:44:52Z",
         "duration": "PT52M29S"
     },
     {
-        "videoId": "l6VZ1veRf2I",
-        "title": "MB Carneros VS Coyotes F1 TRCB 2019 I",
-        "publishedAt": "2019-02-25T22:19:35Z",
-        "duration": "PT1H25M29S"
+        "videoId": "aSPXwLOR7iU",
+        "title": "15\u00b4s Masculino Barbarians vs Carneros TRCB 2023 F6",
+        "publishedAt": "2023-05-16T10:52:02Z",
+        "duration": "PT1H21M16S"
     },
     {
         "videoId": "aLSU1qMnLoA",
@@ -1902,10 +1920,28 @@
         "duration": "PT50M53S"
     },
     {
+        "videoId": "NMTku_DqMtk",
+        "title": "15\u00b4s Masculino Jaguares vs Barbarinas TRCB 2024  F1",
+        "publishedAt": "2024-02-28T03:08:17Z",
+        "duration": "PT1H25M48S"
+    },
+    {
         "videoId": "x7ewwdxzQrQ",
         "title": "12\u00b4s Femenino Minotauros vs Alianza TRCB 2023 F8 SEMIFINALES 2",
         "publishedAt": "2023-06-07T19:44:29Z",
         "duration": "PT59M3S"
+    },
+    {
+        "videoId": "IBABxijX8CQ",
+        "title": "12\u00b4s Femenino Alianza vs Jaguares TCRB 2023 F2",
+        "publishedAt": "2023-04-18T15:44:40Z",
+        "duration": "PT44M42S"
+    },
+    {
+        "videoId": "TeFhJCeLr_g",
+        "title": "7\u00b4s MASCULINO MAGDALENA VS TOLIMA SEMIFINAL 52 Interligas seven 2024",
+        "publishedAt": "2024-09-19T22:47:34Z",
+        "duration": "PT17M48S"
     },
     {
         "videoId": "HqXa78xgKL0",
@@ -1920,12 +1956,6 @@
         "duration": "PT1H27M31S"
     },
     {
-        "videoId": "IBABxijX8CQ",
-        "title": "12\u00b4s Femenino Alianza vs Jaguares TCRB 2023 F2",
-        "publishedAt": "2023-04-18T15:44:40Z",
-        "duration": "PT44M42S"
-    },
-    {
         "videoId": "SukfFH8n9NY",
         "title": "15\u00b4s Masculino Carneros vs Minotauros TRCB 2023 F4",
         "publishedAt": "2023-05-03T09:38:55Z",
@@ -1938,28 +1968,28 @@
         "duration": "PT1H3M1S"
     },
     {
-        "videoId": "9I40AefeZGg",
-        "title": "12\u00b4s Femenino Barbarians vs Coyotes TCRB 2023 F2",
-        "publishedAt": "2023-04-18T12:01:58Z",
-        "duration": "PT55M13S"
-    },
-    {
         "videoId": "7-0nEMVwrcY",
         "title": "Final Femenina Interligas Sevens Pereira 2013",
         "publishedAt": "2013-10-16T15:39:30Z",
         "duration": "PT28M37S"
     },
     {
-        "videoId": "qX_TSAaDjK0",
-        "title": "15\u00b4s Masculino Alianza vs Ind  Salamndras TRCB 2023 F6",
-        "publishedAt": "2023-05-16T10:55:07Z",
-        "duration": "PT1H26M8S"
+        "videoId": "9I40AefeZGg",
+        "title": "12\u00b4s Femenino Barbarians vs Coyotes TCRB 2023 F2",
+        "publishedAt": "2023-04-18T12:01:58Z",
+        "duration": "PT55M13S"
     },
     {
         "videoId": "y404oXT3LbY",
         "title": "10\u00b4s Masculino Carneros  vs Minotauros TRCB 2023  F1",
         "publishedAt": "2023-08-15T22:02:36Z",
         "duration": "PT32M39S"
+    },
+    {
+        "videoId": "qX_TSAaDjK0",
+        "title": "15\u00b4s Masculino Alianza vs Ind  Salamndras TRCB 2023 F6",
+        "publishedAt": "2023-05-16T10:55:07Z",
+        "duration": "PT1H26M8S"
     },
     {
         "videoId": "mgjwKMs2fcA",
@@ -1992,6 +2022,18 @@
         "duration": "PT54M17S"
     },
     {
+        "videoId": "UF9Wf3Xjhqc",
+        "title": "10\u00b4s Masculino Alianza  vs Jaguares TRCB 2023  F1",
+        "publishedAt": "2023-08-15T21:41:30Z",
+        "duration": "PT32M17S"
+    },
+    {
+        "videoId": "qKkM5CLMhOM",
+        "title": "Mas 15\u00b4s - Animals vs Alianza - TRCB 2021 - Fecha 5",
+        "publishedAt": "2021-08-30T17:00:25Z",
+        "duration": "PT1H30M41S"
+    },
+    {
         "videoId": "24syYHXbR9o",
         "title": "15\u00b4s Masculino Alianza vs Jaguares TCRB 2023 F2",
         "publishedAt": "2023-04-18T06:24:39Z",
@@ -2004,22 +2046,10 @@
         "duration": "PT1H25M1S"
     },
     {
-        "videoId": "UF9Wf3Xjhqc",
-        "title": "10\u00b4s Masculino Alianza  vs Jaguares TRCB 2023  F1",
-        "publishedAt": "2023-08-15T21:41:30Z",
-        "duration": "PT32M17S"
-    },
-    {
         "videoId": "Is0JM7J6DO8",
         "title": "12\u00b4s Femenino Coyotes vs Minotauros  TRCB 2023 II F1",
         "publishedAt": "2023-08-01T22:00:10Z",
         "duration": "PT49M1S"
-    },
-    {
-        "videoId": "cdG2UCOoTU4",
-        "title": "15\u00b4s Masculino Premier Barbarians Vs Jaguares TRCB 2024 II",
-        "publishedAt": "2024-08-20T22:00:22Z",
-        "duration": "PT1H25M15S"
     },
     {
         "videoId": "dMsFMxTm8GY",
@@ -2028,22 +2058,28 @@
         "duration": "PT49M38S"
     },
     {
-        "videoId": "TeFhJCeLr_g",
-        "title": "7\u00b4s MASCULINO MAGDALENA VS TOLIMA SEMIFINAL 52 Interligas seven 2024",
-        "publishedAt": "2024-09-19T22:47:34Z",
-        "duration": "PT17M48S"
-    },
-    {
-        "videoId": "euITJY1WijU",
-        "title": "M 15\u00b4s  Carneros A  VS  Coyotes  F16-TRCB  2019-2",
-        "publishedAt": "2019-11-18T21:59:19Z",
-        "duration": "PT1H24M31S"
+        "videoId": "KKsg32OeIIU",
+        "title": "7\u00b4S MASCULINO MAGDALENA VS META FINAL 7 Interligas seven 2024",
+        "publishedAt": "2024-09-19T22:46:37Z",
+        "duration": "PT17M14S"
     },
     {
         "videoId": "fE3Ve9n63wc",
         "title": "10\u00b4s Masculino Barbarians vs Coyotes TRCB 2023 F1",
         "publishedAt": "2023-08-15T22:03:18Z",
         "duration": "PT35M29S"
+    },
+    {
+        "videoId": "VMFiFHdWpHQ",
+        "title": "15\u00b4S MASCULINO A Semifinal Oro Jaguares vs Carneros  A  TRCB 2024",
+        "publishedAt": "2024-05-20T22:00:14Z",
+        "duration": "PT1H28M19S"
+    },
+    {
+        "videoId": "euITJY1WijU",
+        "title": "M 15\u00b4s  Carneros A  VS  Coyotes  F16-TRCB  2019-2",
+        "publishedAt": "2019-11-18T21:59:19Z",
+        "duration": "PT1H24M31S"
     },
     {
         "videoId": "zqf-QYx1-j4",
@@ -2056,36 +2092,6 @@
         "title": "12\u00b4s Femenino Cachacas vs Carneros TCRB 2023 F2",
         "publishedAt": "2023-04-18T17:46:58Z",
         "duration": "PT59M38S"
-    },
-    {
-        "videoId": "bC7Uz3Q9tLU",
-        "title": "COLOMBIA RUGBY 2024 INTERLIGAS 7\u00b4S",
-        "publishedAt": "2024-09-17T23:10:52Z",
-        "duration": "PT31S"
-    },
-    {
-        "videoId": "A2k19YR5TsM",
-        "title": "15\u00b4s Masculino Alianza vs Minotauros TRCB 2023 F3",
-        "publishedAt": "2023-04-25T07:40:19Z",
-        "duration": "PT1H24M22S"
-    },
-    {
-        "videoId": "xTL-GadJqUE",
-        "title": "12\u00b4s Femenino  Minotauros vs Jaguares TRCB 2023 F6",
-        "publishedAt": "2023-05-17T03:28:55Z",
-        "duration": "PT57M"
-    },
-    {
-        "videoId": "KXbskvpinAg",
-        "title": "15\u00b4s Femenino Jaguares vs Carneros",
-        "publishedAt": "2024-10-29T22:00:11Z",
-        "duration": "PT1H8M13S"
-    },
-    {
-        "videoId": "KKsg32OeIIU",
-        "title": "7\u00b4S MASCULINO MAGDALENA VS META FINAL 7 Interligas seven 2024",
-        "publishedAt": "2024-09-19T22:46:37Z",
-        "duration": "PT17M14S"
     },
     {
         "videoId": "naGkWvia1Fo",
@@ -2106,22 +2112,16 @@
         "duration": "PT1H24M22S"
     },
     {
-        "videoId": "KBk36CH6e78",
-        "title": "15\u00b4s Masculino Premier Barbarians Vs Coyotes TRCB 2024 II",
-        "publishedAt": "2024-08-07T04:11:09Z",
-        "duration": "PT1H19M13S"
-    },
-    {
-        "videoId": "3NwU3-dyt1s",
-        "title": "12\u00b4s Femenino Carneros vs Jaguares TRCB 2024 F4",
-        "publishedAt": "2024-03-18T22:48:49Z",
-        "duration": "PT51M17S"
-    },
-    {
         "videoId": "nITHFl9UMe8",
         "title": "7\u00b4s FEMENINO ANTIOQUIA VS RISARALDA Interligas seven 2024",
         "publishedAt": "2024-09-19T22:15:02Z",
         "duration": "PT17M18S"
+    },
+    {
+        "videoId": "5o9Lw2D_aXk",
+        "title": "15\u00b4s Masculino Salamandras  vs Carneros TRCB 2024 F6",
+        "publishedAt": "2024-04-09T04:09:27Z",
+        "duration": "PT1H24M19S"
     },
     {
         "videoId": "1x4VClbuE1U",
@@ -2136,16 +2136,10 @@
         "duration": "PT57M"
     },
     {
-        "videoId": "5o9Lw2D_aXk",
-        "title": "15\u00b4s Masculino Salamandras  vs Carneros TRCB 2024 F6",
-        "publishedAt": "2024-04-09T04:09:27Z",
-        "duration": "PT1H24M19S"
-    },
-    {
-        "videoId": "KXbskvpinAg",
-        "title": "15\u00b4s Femenino Jaguares vs Carneros",
-        "publishedAt": "2024-10-29T22:00:11Z",
-        "duration": "PT1H8M13S"
+        "videoId": "PbGIjkE8EIo",
+        "title": "15\u00b4s Femenino Barbarians vs Jagaures F4",
+        "publishedAt": "2024-10-01T22:00:14Z",
+        "duration": "PT1H40S"
     },
     {
         "videoId": "aZU3qaSmoHA",
@@ -2160,16 +2154,22 @@
         "duration": "PT1H5M20S"
     },
     {
-        "videoId": "5FqEXS7_9IA",
-        "title": "12\u00b4s Femenino Cachacas vs Minotauros TRCB 2024 F6",
-        "publishedAt": "2024-04-09T03:58:31Z",
-        "duration": "PT50M34S"
-    },
-    {
         "videoId": "Qqaa-sYt19U",
         "title": "7\u00b4S MASCULINO  BOGOTA VS MAGDALENA Interligas Seven 2024",
         "publishedAt": "2024-09-19T01:30:11Z",
         "duration": "PT15M44S"
+    },
+    {
+        "videoId": "3NwU3-dyt1s",
+        "title": "12\u00b4s Femenino Carneros vs Jaguares TRCB 2024 F4",
+        "publishedAt": "2024-03-18T22:48:49Z",
+        "duration": "PT51M17S"
+    },
+    {
+        "videoId": "5FqEXS7_9IA",
+        "title": "12\u00b4s Femenino Cachacas vs Minotauros TRCB 2024 F6",
+        "publishedAt": "2024-04-09T03:58:31Z",
+        "duration": "PT50M34S"
     },
     {
         "videoId": "exDCkcxPqBo",
@@ -2220,16 +2220,16 @@
         "duration": "PT1H1M8S"
     },
     {
-        "videoId": "qLrJ2AsapJQ",
-        "title": "12\u00b4s Femenino Coyotes vs Carneros TRCB 2024 FECHA 9",
-        "publishedAt": "2024-04-30T01:00:20Z",
-        "duration": "PT52M21S"
-    },
-    {
         "videoId": "xlG33hxs-3o",
         "title": "12\u00b4s Masculino B Carneros vs Minotauros TRCB 2024 F6",
         "publishedAt": "2024-04-09T03:59:46Z",
         "duration": "PT59M59S"
+    },
+    {
+        "videoId": "qLrJ2AsapJQ",
+        "title": "12\u00b4s Femenino Coyotes vs Carneros TRCB 2024 FECHA 9",
+        "publishedAt": "2024-04-30T01:00:20Z",
+        "duration": "PT52M21S"
     },
     {
         "videoId": "IbBnERlcJo0",
@@ -2238,22 +2238,22 @@
         "duration": "PT54M47S"
     },
     {
-        "videoId": "PbGIjkE8EIo",
-        "title": "15\u00b4s Femenino Barbarians vs Jagaures F4",
-        "publishedAt": "2024-10-01T22:00:14Z",
-        "duration": "PT1H40S"
-    },
-    {
-        "videoId": "3kRyxlzPdyk",
-        "title": "15\u00b4s Masculino Desarrollo Jaguares Vs Manoba TRCB 2024 II",
-        "publishedAt": "2024-08-20T22:00:05Z",
-        "duration": "PT1H8M32S"
+        "videoId": "lA8mOURjOtk",
+        "title": "15\u00b4s Masculino Jaguares vs Carneros Desarrollo",
+        "publishedAt": "2024-10-29T22:00:26Z",
+        "duration": "PT1H6M4S"
     },
     {
         "videoId": "UkJh8EVGoUw",
         "title": "12\u00b4s Femenino Barbarians vs Minotauros TRCB 2024 FECHA 9",
         "publishedAt": "2024-04-30T01:00:10Z",
         "duration": "PT50M30S"
+    },
+    {
+        "videoId": "3kRyxlzPdyk",
+        "title": "15\u00b4s Masculino Desarrollo Jaguares Vs Manoba TRCB 2024 II",
+        "publishedAt": "2024-08-20T22:00:05Z",
+        "duration": "PT1H8M32S"
     },
     {
         "videoId": "oyabqPd9a9g",
@@ -2274,28 +2274,10 @@
         "duration": "PT1H29M11S"
     },
     {
-        "videoId": "-g_7yxbIZqU",
-        "title": "15\u00b4s Masculino Coyotes Vs Minotauros F5 2024",
-        "publishedAt": "2024-10-08T22:00:00Z",
-        "duration": "PT1H25M12S"
-    },
-    {
         "videoId": "y_TGQzpJ8c8",
         "title": "15\u00b4s Masculino Coyotes vs Jaguares TRCB 2024",
         "publishedAt": "2024-05-06T23:00:28Z",
         "duration": "PT1H31M59S"
-    },
-    {
-        "videoId": "nXo9v2nNzjw",
-        "title": "15\u00b4s Femenino Carneros Vs Alianza TRCB 2024 II",
-        "publishedAt": "2024-08-26T22:00:47Z",
-        "duration": "PT1H6M31S"
-    },
-    {
-        "videoId": "jyWqar0Su44",
-        "title": "15\u00b4s Femenino Minotauros vs Cachacas F4",
-        "publishedAt": "2024-10-01T22:00:26Z",
-        "duration": "PT1H3M22S"
     },
     {
         "videoId": "zEF6diLw9po",
@@ -2304,16 +2286,10 @@
         "duration": "PT54M39S"
     },
     {
-        "videoId": "cvzPFb_xPhs",
-        "title": "15\u00b4s Masculino Coyotes vs Barbarians TRCB 2024 F6",
-        "publishedAt": "2024-04-09T04:08:44Z",
-        "duration": "PT1H22M31S"
-    },
-    {
-        "videoId": "AzmhKqUJ1-w",
-        "title": "12\u00b4s Masculino B Jaguares vs Minotauros TRCB 2024 F2",
-        "publishedAt": "2024-03-05T18:33:22Z",
-        "duration": "PT58M57S"
+        "videoId": "jyWqar0Su44",
+        "title": "15\u00b4s Femenino Minotauros vs Cachacas F4",
+        "publishedAt": "2024-10-01T22:00:26Z",
+        "duration": "PT1H3M22S"
     },
     {
         "videoId": "4nkqpNp8mT0",
@@ -2322,16 +2298,34 @@
         "duration": "PT1H56S"
     },
     {
+        "videoId": "AzmhKqUJ1-w",
+        "title": "12\u00b4s Masculino B Jaguares vs Minotauros TRCB 2024 F2",
+        "publishedAt": "2024-03-05T18:33:22Z",
+        "duration": "PT58M57S"
+    },
+    {
+        "videoId": "cvzPFb_xPhs",
+        "title": "15\u00b4s Masculino Coyotes vs Barbarians TRCB 2024 F6",
+        "publishedAt": "2024-04-09T04:08:44Z",
+        "duration": "PT1H22M31S"
+    },
+    {
+        "videoId": "nXo9v2nNzjw",
+        "title": "15\u00b4s Femenino Carneros Vs Alianza TRCB 2024 II",
+        "publishedAt": "2024-08-26T22:00:47Z",
+        "duration": "PT1H6M31S"
+    },
+    {
+        "videoId": "uxb-6EMdSbM",
+        "title": "12\u00b4s Masculino Barbarians vs Carneros TRCB 2024",
+        "publishedAt": "2024-05-06T23:00:33Z",
+        "duration": "PT54M36S"
+    },
+    {
         "videoId": "HriKLqbtGog",
         "title": "12\u00b4s Masculino B Carneros vs Barbarians TRCB 2024 F5",
         "publishedAt": "2024-03-25T21:19:29Z",
         "duration": "PT52M8S"
-    },
-    {
-        "videoId": "3GDQ9X_a-v4",
-        "title": "12\u00b4s Masculino B Jaguares vs Manoba TRCB 2024 F4",
-        "publishedAt": "2024-03-18T22:51:31Z",
-        "duration": "PT1H45S"
     },
     {
         "videoId": "3mKzNiNtEXk",
@@ -2346,12 +2340,6 @@
         "duration": "PT1H26M50S"
     },
     {
-        "videoId": "9xMnAgv7PQY",
-        "title": "12\u00b4s Femenino Cachacas vs Jaguares TRCB 2023 II F8 SEMIFINAL COPA ORO",
-        "publishedAt": "2023-10-30T18:56:09Z",
-        "duration": "PT44M40S"
-    },
-    {
         "videoId": "xYBcY1JUe6A",
         "title": "12\u00b4s Masculino B Carneros vs Manoba TRCB 2024 F7",
         "publishedAt": "2024-04-15T21:00:38Z",
@@ -2362,12 +2350,6 @@
         "title": "15\u00b4s Masculino  Carneros vs Zepelin TRCB 2024  F1",
         "publishedAt": "2024-02-27T19:08:26Z",
         "duration": "PT1H25M51S"
-    },
-    {
-        "videoId": "uxb-6EMdSbM",
-        "title": "12\u00b4s Masculino Barbarians vs Carneros TRCB 2024",
-        "publishedAt": "2024-05-06T23:00:33Z",
-        "duration": "PT54M36S"
     },
     {
         "videoId": "lWQm68-YGcY",
@@ -2382,6 +2364,12 @@
         "duration": "PT55M33S"
     },
     {
+        "videoId": "7ZqHgbZmwIM",
+        "title": "12\u00b4s Femenino Alianza vs Jaguares TRCB 2023 II F7",
+        "publishedAt": "2023-10-23T22:00:55Z",
+        "duration": "PT56M52S"
+    },
+    {
         "videoId": "uYC2RRPuQhg",
         "title": "12\u00b4s Masculino Minotaruos vs Manoba TRCB 2024",
         "publishedAt": "2024-05-06T23:00:33Z",
@@ -2394,16 +2382,52 @@
         "duration": "PT59M16S"
     },
     {
+        "videoId": "-g_7yxbIZqU",
+        "title": "15\u00b4s Masculino Coyotes Vs Minotauros F5 2024",
+        "publishedAt": "2024-10-08T22:00:00Z",
+        "duration": "PT1H25M12S"
+    },
+    {
         "videoId": "3uw2G2SE9-o",
         "title": "7\u00b4S FEMENINO RISARALDA VS CESAR Interligas Seven 2024",
         "publishedAt": "2024-09-19T02:23:06Z",
         "duration": "PT16M21S"
     },
     {
-        "videoId": "7AYRNHXbgrQ",
-        "title": "15\u00b4s Femenino Premier Minotauros Vs Coyotes TRCB 2024 II",
-        "publishedAt": "2024-08-07T14:00:06Z",
-        "duration": "PT57M37S"
+        "videoId": "agF62dWsliA",
+        "title": "15\u00b4s Femenino Carneros vs Coyotes F4",
+        "publishedAt": "2024-10-01T22:00:01Z",
+        "duration": "PT45M44S"
+    },
+    {
+        "videoId": "3j8sYFJfMyM",
+        "title": "15\u00b4s Masculino Salamandras vs Zeppelin PREMIER F4",
+        "publishedAt": "2024-10-01T22:00:06Z",
+        "duration": "PT1H26M23S"
+    },
+    {
+        "videoId": "pyTWnFgBPUk",
+        "title": "12\u00b4s Masculino B Carneros vs Jaguares TRCB 2024 F3",
+        "publishedAt": "2024-03-11T21:08:39Z",
+        "duration": "PT54M55S"
+    },
+    {
+        "videoId": "mJ6kg_TgD0U",
+        "title": "12\u00b4S MASCULINO B Semifinal Manoba vs Jaguares TRCB 2024",
+        "publishedAt": "2024-05-20T22:00:23Z",
+        "duration": "PT55M21S"
+    },
+    {
+        "videoId": "GuJPh5ohTo8",
+        "title": "15\u00b4s Femenino Minotauros Vs Jaguares Nacional de clubes",
+        "publishedAt": "2024-08-20T22:00:23Z",
+        "duration": "PT1H14M35S"
+    },
+    {
+        "videoId": "GOGvpcuhKyI",
+        "title": "12\u00b4S FEMENINO Semifinal Oro Cachacas VS Jaguares TRCB 2024",
+        "publishedAt": "2024-05-20T22:00:15Z",
+        "duration": "PT1H1M30S"
     },
     {
         "videoId": "GsP_MbNWBH8",
@@ -2412,16 +2436,16 @@
         "duration": "PT1H29M47S"
     },
     {
-        "videoId": "KVek6MChaM8",
-        "title": "15\u00b4s Masculino Premier Minotauros Vs Carneros TRCB 2024 II",
-        "publishedAt": "2024-08-07T14:00:16Z",
-        "duration": "PT1H24M17S"
+        "videoId": "Osre2VS_W6g",
+        "title": "15\u00b4s Masculino Zepelin vs Alianza TRCB 2023 II F10 SEMIFINAL RANKING",
+        "publishedAt": "2023-10-30T19:06:16Z",
+        "duration": "PT1H26M14S"
     },
     {
-        "videoId": "5VNWKfiD-xQ",
-        "title": "12\u00b4s Femenino Cachacas vs Carneros TRCB 2023 II F9 FINAL BRONCE",
-        "publishedAt": "2023-11-08T03:06:51Z",
-        "duration": "PT1H22M51S"
+        "videoId": "7AYRNHXbgrQ",
+        "title": "15\u00b4s Femenino Premier Minotauros Vs Coyotes TRCB 2024 II",
+        "publishedAt": "2024-08-07T14:00:06Z",
+        "duration": "PT57M37S"
     },
     {
         "videoId": "uXxP3AIgmHs",
@@ -2430,16 +2454,52 @@
         "duration": "PT50M27S"
     },
     {
+        "videoId": "nW-wEPNm4SA",
+        "title": "7\u00b4s Masculino Bogot\u00e1 Vs Antioquia Final Oro Interligas seven 2024",
+        "publishedAt": "2024-09-20T00:30:24Z",
+        "duration": "PT18M45S"
+    },
+    {
+        "videoId": "KVek6MChaM8",
+        "title": "15\u00b4s Masculino Premier Minotauros Vs Carneros TRCB 2024 II",
+        "publishedAt": "2024-08-07T14:00:16Z",
+        "duration": "PT1H24M17S"
+    },
+    {
+        "videoId": "umTKrnRYJVE",
+        "title": "15\u00b4s Femenino Jacguares vs Coyotes F5 2024",
+        "publishedAt": "2024-10-08T22:00:41Z",
+        "duration": "PT57M33S"
+    },
+    {
+        "videoId": "5VNWKfiD-xQ",
+        "title": "12\u00b4s Femenino Cachacas vs Carneros TRCB 2023 II F9 FINAL BRONCE",
+        "publishedAt": "2023-11-08T03:06:51Z",
+        "duration": "PT1H22M51S"
+    },
+    {
+        "videoId": "9xMnAgv7PQY",
+        "title": "12\u00b4s Femenino Cachacas vs Jaguares TRCB 2023 II F8 SEMIFINAL COPA ORO",
+        "publishedAt": "2023-10-30T18:56:09Z",
+        "duration": "PT44M40S"
+    },
+    {
         "videoId": "BtHMudShOXc",
         "title": "15\u00b4s Masculino Minotauro vs Barbarinas TRCB 2023 II F10 SEMIFIANLES COPA ORO",
         "publishedAt": "2023-10-30T19:06:20Z",
         "duration": "PT1H27M26S"
     },
     {
-        "videoId": "Y2dCjDMlpmc",
-        "title": "15\u00b4s Masculino Premier Alianza Vs Zepelin TRCB 2024 II",
-        "publishedAt": "2024-08-07T14:00:27Z",
-        "duration": "PT1H26M42S"
+        "videoId": "-fTZQS8O7_s",
+        "title": "15\u00b4s Masculino Barbarians vs Zeppelin F5 2024",
+        "publishedAt": "2024-10-08T22:00:00Z",
+        "duration": "PT1H19M30S"
+    },
+    {
+        "videoId": "cVF9d9CTLiQ",
+        "title": "15\u00b4s Masculino Zeppelin vs Minotauros Premier",
+        "publishedAt": "2024-09-24T22:00:21Z",
+        "duration": "PT1H21M31S"
     },
     {
         "videoId": "Fw_a8g28XUA",
@@ -2448,28 +2508,16 @@
         "duration": "PT51M17S"
     },
     {
+        "videoId": "Y2dCjDMlpmc",
+        "title": "15\u00b4s Masculino Premier Alianza Vs Zepelin TRCB 2024 II",
+        "publishedAt": "2024-08-07T14:00:27Z",
+        "duration": "PT1H26M42S"
+    },
+    {
         "videoId": "qAzqFpYiLTI",
         "title": "15\u00b4s Masculino Jaguares  vs Salamandras TRCB 2023 II  F2",
         "publishedAt": "2023-08-15T22:30:09Z",
         "duration": "PT1H29M20S"
-    },
-    {
-        "videoId": "joVqPEH3HI4",
-        "title": "15\u00b4s Femenino Premier  Jaguares Vs Alianza TRCB 2024 II",
-        "publishedAt": "2024-08-07T14:00:41Z",
-        "duration": "PT1H6M54S"
-    },
-    {
-        "videoId": "7ZqHgbZmwIM",
-        "title": "12\u00b4s Femenino Alianza vs Jaguares TRCB 2023 II F7",
-        "publishedAt": "2023-10-23T22:00:55Z",
-        "duration": "PT56M52S"
-    },
-    {
-        "videoId": "qnQRuM02rQ0",
-        "title": "15\u00b4s Masculino Carneros  vs Minotauros TRCB 2023 II F2",
-        "publishedAt": "2023-08-15T22:29:23Z",
-        "duration": "PT1H26M20S"
     },
     {
         "videoId": "HSnf3COZdF0",
@@ -2478,16 +2526,46 @@
         "duration": "PT1H5M52S"
     },
     {
-        "videoId": "128LVCKTWAg",
-        "title": "15\u00b4s Femenino Cachacas vs Carneros F5 2024",
-        "publishedAt": "2024-10-08T22:00:02Z",
-        "duration": "PT1H2M5S"
+        "videoId": "ClmLIClrRdY",
+        "title": "15\u00b4s Masculino Carneros vs Barbarians Premier",
+        "publishedAt": "2024-09-24T22:00:08Z",
+        "duration": "PT1H31M53S"
+    },
+    {
+        "videoId": "qnQRuM02rQ0",
+        "title": "15\u00b4s Masculino Carneros  vs Minotauros TRCB 2023 II F2",
+        "publishedAt": "2023-08-15T22:29:23Z",
+        "duration": "PT1H26M20S"
+    },
+    {
+        "videoId": "3aMeeksNMzI",
+        "title": "15\u00b4s Masculino Alianza vs Coyotes PREMIER F4",
+        "publishedAt": "2024-10-01T22:00:02Z",
+        "duration": "PT1H21M51S"
+    },
+    {
+        "videoId": "joVqPEH3HI4",
+        "title": "15\u00b4s Femenino Premier  Jaguares Vs Alianza TRCB 2024 II",
+        "publishedAt": "2024-08-07T14:00:41Z",
+        "duration": "PT1H6M54S"
     },
     {
         "videoId": "JATFxxwoKHk",
         "title": "12\u00b4s Femenino Alianza vs Minotauros TRCB 2024 F1",
         "publishedAt": "2024-03-05T18:22:26Z",
         "duration": "PT56M6S"
+    },
+    {
+        "videoId": "-TeicCARgmw",
+        "title": "12\u00b4s Femenino Barbarians vs Coyotes TRCB 2024 F7",
+        "publishedAt": "2024-04-15T21:00:00Z",
+        "duration": "PT56M38S"
+    },
+    {
+        "videoId": "esx_bWkwku8",
+        "title": "15\u00b4s Masculino Zepelin vs Minotauros TRCB 2024 F6",
+        "publishedAt": "2024-04-09T04:16:57Z",
+        "duration": "PT1H20M50S"
     },
     {
         "videoId": "N7tsqoXFRJA",
@@ -2508,10 +2586,10 @@
         "duration": "PT1H28M57S"
     },
     {
-        "videoId": "xvYLWd9Rejc",
-        "title": "12\u00b4s Femenino Alianza vs Minotauros TRCB 2023 II F6",
-        "publishedAt": "2023-10-09T19:26:59Z",
-        "duration": "PT57M15S"
+        "videoId": "72I2jpaZu3w",
+        "title": "12\u00b4s Femenino Barbarians Vs Carneros TRCB 2024",
+        "publishedAt": "2024-05-06T23:00:06Z",
+        "duration": "PT54M29S"
     },
     {
         "videoId": "hSTTuMXpAu4",
@@ -2520,28 +2598,16 @@
         "duration": "PT56M31S"
     },
     {
-        "videoId": "PbGIjkE8EIo",
-        "title": "15\u00b4s Femenino Barbarians vs Jagaures F4",
-        "publishedAt": "2024-10-01T22:00:14Z",
-        "duration": "PT1H40S"
+        "videoId": "E6xDB3gQCUA",
+        "title": "15\u00b4s Femenino Jaguares vs Minotauros F2 2024 II",
+        "publishedAt": "2024-10-11T14:25:10Z",
+        "duration": "PT1H8M29S"
     },
     {
-        "videoId": "CFsVnW2h5gE",
-        "title": "12\u00b4s Femenino Alianza vs Carneros TRCB 2024 F6",
-        "publishedAt": "2024-04-09T03:49:59Z",
-        "duration": "PT50M48S"
-    },
-    {
-        "videoId": "uW2mZscUZr4",
-        "title": "15\u00b4s  Masculino Carneros vs Minotauros TRCB 2024 FECHA 9",
-        "publishedAt": "2024-04-30T01:00:32Z",
-        "duration": "PT1H28M47S"
-    },
-    {
-        "videoId": "UxuTjLe_Ypg",
-        "title": "15\u00b4s Masculino Premier Jaguares Vs Salamandras TRCB 2024 II",
-        "publishedAt": "2024-08-07T14:00:39Z",
-        "duration": "PT1H17M34S"
+        "videoId": "xvYLWd9Rejc",
+        "title": "12\u00b4s Femenino Alianza vs Minotauros TRCB 2023 II F6",
+        "publishedAt": "2023-10-09T19:26:59Z",
+        "duration": "PT57M15S"
     },
     {
         "videoId": "LGyRISC0pn8",
@@ -2550,10 +2616,22 @@
         "duration": "PT15M27S"
     },
     {
-        "videoId": "uoItUAn-hHY",
-        "title": "15\u00b4s Masculino Jaguares vs Alianza TRCB 2024 F6",
-        "publishedAt": "2024-04-09T04:23:34Z",
-        "duration": "PT1H32M55S"
+        "videoId": "CFsVnW2h5gE",
+        "title": "12\u00b4s Femenino Alianza vs Carneros TRCB 2024 F6",
+        "publishedAt": "2024-04-09T03:49:59Z",
+        "duration": "PT50M48S"
+    },
+    {
+        "videoId": "UxuTjLe_Ypg",
+        "title": "15\u00b4s Masculino Premier Jaguares Vs Salamandras TRCB 2024 II",
+        "publishedAt": "2024-08-07T14:00:39Z",
+        "duration": "PT1H17M34S"
+    },
+    {
+        "videoId": "oJfufQUqlic",
+        "title": "15\u00b4s Masculino Coyotes vs Jaguares Premier",
+        "publishedAt": "2024-09-24T22:00:36Z",
+        "duration": "PT1H17M1S"
     },
     {
         "videoId": "KXbskvpinAg",
@@ -2562,10 +2640,16 @@
         "duration": "PT1H8M13S"
     },
     {
-        "videoId": "72I2jpaZu3w",
-        "title": "12\u00b4s Femenino Barbarians Vs Carneros TRCB 2024",
-        "publishedAt": "2024-05-06T23:00:06Z",
-        "duration": "PT54M29S"
+        "videoId": "R2YFltkdjw8",
+        "title": "12\u00b4S FEMENINO 5 y 6 Carneros vs Alianza TRCB 2024",
+        "publishedAt": "2024-05-20T22:00:22Z",
+        "duration": "PT55M6S"
+    },
+    {
+        "videoId": "uoItUAn-hHY",
+        "title": "15\u00b4s Masculino Jaguares vs Alianza TRCB 2024 F6",
+        "publishedAt": "2024-04-09T04:23:34Z",
+        "duration": "PT1H32M55S"
     },
     {
         "videoId": "CHvbCvn6AZk",
@@ -2574,16 +2658,34 @@
         "duration": "PT1H24M11S"
     },
     {
-        "videoId": "R2YFltkdjw8",
-        "title": "12\u00b4S FEMENINO 5 y 6 Carneros vs Alianza TRCB 2024",
-        "publishedAt": "2024-05-20T22:00:22Z",
-        "duration": "PT55M6S"
-    },
-    {
         "videoId": "yBgGmL0WQeQ",
         "title": "15\u00b4s Masculino Desarrollo Jaguares Vs MinotaurosTRCB 2024 II",
         "publishedAt": "2024-08-07T14:01:01Z",
         "duration": "PT1H4M40S"
+    },
+    {
+        "videoId": "iqTEdlzPXOQ",
+        "title": "7\u00b4S MASCULINO  META VS CESAR Interligas Seven 2024",
+        "publishedAt": "2024-09-19T01:09:31Z",
+        "duration": "PT18M45S"
+    },
+    {
+        "videoId": "WocBgKSm1Ak",
+        "title": "15\u00b4s Femenino Minotauros vs Alianza 2024 II",
+        "publishedAt": "2024-10-22T22:34:36Z",
+        "duration": "PT1H2M52S"
+    },
+    {
+        "videoId": "uW2mZscUZr4",
+        "title": "15\u00b4s  Masculino Carneros vs Minotauros TRCB 2024 FECHA 9",
+        "publishedAt": "2024-04-30T01:00:32Z",
+        "duration": "PT1H28M47S"
+    },
+    {
+        "videoId": "d1k-PYe3qeg",
+        "title": "15\u00b4s Femenino Minotauros vs Carneros",
+        "publishedAt": "2024-09-24T22:00:21Z",
+        "duration": "PT1H6M39S"
     },
     {
         "videoId": "6Hmnx06ZiMM",
@@ -2598,16 +2700,10 @@
         "duration": "PT1H31M56S"
     },
     {
-        "videoId": "iqTEdlzPXOQ",
-        "title": "7\u00b4S MASCULINO  META VS CESAR Interligas Seven 2024",
-        "publishedAt": "2024-09-19T01:09:31Z",
-        "duration": "PT18M45S"
-    },
-    {
-        "videoId": "jyWqar0Su44",
-        "title": "15\u00b4s Femenino Minotauros vs Cachacas F4",
-        "publishedAt": "2024-10-01T22:00:26Z",
-        "duration": "PT1H3M22S"
+        "videoId": "vpmisqalryU",
+        "title": "15\u00b4s Femenino  Barbarians vs Alianza F5 2024",
+        "publishedAt": "2024-10-08T22:00:44Z",
+        "duration": "PT1H2M6S"
     },
     {
         "videoId": "gHkTL2FPZBQ",
@@ -2622,106 +2718,22 @@
         "duration": "PT59M34S"
     },
     {
-        "videoId": "o5fczbpAeSw",
-        "title": "15\u00b4s Masculino Salamandras vs Jaguares TRCB 2024  FECHA 9",
-        "publishedAt": "2024-04-30T01:00:30Z",
-        "duration": "PT1H21M23S"
+        "videoId": "rKqFZTJr8is",
+        "title": "15\u00b4s Femenino Cachacas vs Coyotes 2024 II",
+        "publishedAt": "2024-10-22T22:30:18Z",
+        "duration": "PT59M37S"
     },
     {
-        "videoId": "esx_bWkwku8",
-        "title": "15\u00b4s Masculino Zepelin vs Minotauros TRCB 2024 F6",
-        "publishedAt": "2024-04-09T04:16:57Z",
-        "duration": "PT1H20M50S"
-    },
-    {
-        "videoId": "dUhRqlvCol4",
-        "title": "15\u00b4S MASCULINO A Semifinal Oro Barbarians vs Minotauros  TRCB 2024",
-        "publishedAt": "2024-05-20T22:00:30Z",
-        "duration": "PT1H21M4S"
-    },
-    {
-        "videoId": "_Ut4CWjuHSk",
-        "title": "12\u00b4s Femenino Coyotes vs Jaguares TRCB 2024 F6",
-        "publishedAt": "2024-04-09T03:51:22Z",
-        "duration": "PT53M14S"
-    },
-    {
-        "videoId": "51S3qj5Vs3g",
-        "title": "15\u00b4s Masculino Coyotes  vs Carneros TRCB 2024 F5",
-        "publishedAt": "2024-03-25T21:53:41Z",
-        "duration": "PT1H24M53S"
-    },
-    {
-        "videoId": "gz1g4AQ7V-8",
-        "title": "15\u00b4s Masculino Barbarians vs Minotauro TRCB 2024 F2",
-        "publishedAt": "2024-03-11T21:45:43Z",
-        "duration": "PT1H32M26S"
-    },
-    {
-        "videoId": "xQXtz662ThU",
-        "title": "12\u00b4s Masculino B Carneros vs Minotauros TRCB 2024  F1",
-        "publishedAt": "2024-02-27T18:49:45Z",
-        "duration": "PT56M17S"
-    },
-    {
-        "videoId": "G0zbqqJHFko",
-        "title": "15\u00b4s Masculino Salamandras vs Zeppelin Ranking",
-        "publishedAt": "2024-05-27T23:00:06Z",
-        "duration": "PT1H24M42S"
-    },
-    {
-        "videoId": "Y5_xpru9YQ4",
-        "title": "7\u00b4S MASCULINO RISARALDA VS BOGOTA Interligas Seven 2024",
-        "publishedAt": "2024-09-19T01:09:20Z",
-        "duration": "PT18M38S"
-    },
-    {
-        "videoId": "-g_7yxbIZqU",
-        "title": "15\u00b4s Masculino Coyotes Vs Minotauros F5 2024",
-        "publishedAt": "2024-10-08T22:00:00Z",
-        "duration": "PT1H25M12S"
-    },
-    {
-        "videoId": "Ae9FXCxID7I",
-        "title": "15\u00b4s Masculino Carneros vs Zepelin TRCB 2023 II F9",
-        "publishedAt": "2023-10-23T22:12:11Z",
-        "duration": "PT1H21M24S"
-    },
-    {
-        "videoId": "QvF2aPrHrBg",
-        "title": "7\u00b4S MASCULINO RISARALDA VS MAGDALENA Interligas Seven 2024",
-        "publishedAt": "2024-09-19T01:09:15Z",
-        "duration": "PT14M52S"
-    },
-    {
-        "videoId": "umTKrnRYJVE",
-        "title": "15\u00b4s Femenino Jacguares vs Coyotes F5 2024",
-        "publishedAt": "2024-10-08T22:00:41Z",
-        "duration": "PT57M33S"
-    },
-    {
-        "videoId": "KnvhgrO_cho",
-        "title": "12\u00b4s Masculino B Barbarians vs Manoba TRCB 2024 F8",
-        "publishedAt": "2024-04-22T20:23:19Z",
-        "duration": "PT59M34S"
+        "videoId": "LN6O_ySiGpM",
+        "title": "15\u00b4s Masculino Barbarians vs Alianza Premier",
+        "publishedAt": "2024-10-29T22:00:23Z",
+        "duration": "PT1H18M34S"
     },
     {
         "videoId": "o5fczbpAeSw",
         "title": "15\u00b4s Masculino Salamandras vs Jaguares TRCB 2024  FECHA 9",
         "publishedAt": "2024-04-30T01:00:30Z",
         "duration": "PT1H21M23S"
-    },
-    {
-        "videoId": "49htCt5zSc4",
-        "title": "15\u00b4s Masculino Desarrollo Minotauros vs Barbarians 2024 II",
-        "publishedAt": "2024-10-23T02:12:15Z",
-        "duration": "PT59M16S"
-    },
-    {
-        "videoId": "esx_bWkwku8",
-        "title": "15\u00b4s Masculino Zepelin vs Minotauros TRCB 2024 F6",
-        "publishedAt": "2024-04-09T04:16:57Z",
-        "duration": "PT1H20M50S"
     },
     {
         "videoId": "dUhRqlvCol4",
@@ -2766,6 +2778,12 @@
         "duration": "PT1H16M37S"
     },
     {
+        "videoId": "49htCt5zSc4",
+        "title": "15\u00b4s Masculino Desarrollo Minotauros vs Barbarians 2024 II",
+        "publishedAt": "2024-10-23T02:12:15Z",
+        "duration": "PT59M16S"
+    },
+    {
         "videoId": "G0zbqqJHFko",
         "title": "15\u00b4s Masculino Salamandras vs Zeppelin Ranking",
         "publishedAt": "2024-05-27T23:00:06Z",
@@ -2778,6 +2796,12 @@
         "duration": "PT18M38S"
     },
     {
+        "videoId": "QvF2aPrHrBg",
+        "title": "7\u00b4S MASCULINO RISARALDA VS MAGDALENA Interligas Seven 2024",
+        "publishedAt": "2024-09-19T01:09:15Z",
+        "duration": "PT14M52S"
+    },
+    {
         "videoId": "Ae9FXCxID7I",
         "title": "15\u00b4s Masculino Carneros vs Zepelin TRCB 2023 II F9",
         "publishedAt": "2023-10-23T22:12:11Z",
@@ -2788,18 +2812,6 @@
         "title": "15\u00b4s Masculino Jaguares vs Barbarians Desarrollo",
         "publishedAt": "2024-09-24T22:00:37Z",
         "duration": "PT1H3M"
-    },
-    {
-        "videoId": "QMJ2p8V0SP4",
-        "title": "15\u00b4s Femenino Barbarians vs Carneros 2024 II",
-        "publishedAt": "2024-10-22T22:12:58Z",
-        "duration": "PT1H9M22S"
-    },
-    {
-        "videoId": "QvF2aPrHrBg",
-        "title": "7\u00b4S MASCULINO RISARALDA VS MAGDALENA Interligas Seven 2024",
-        "publishedAt": "2024-09-19T01:09:15Z",
-        "duration": "PT14M52S"
     },
     {
         "videoId": "YzgrDT9PQ-0",
@@ -2820,10 +2832,16 @@
         "duration": "PT49M1S"
     },
     {
-        "videoId": "3j8sYFJfMyM",
-        "title": "15\u00b4s Masculino Salamandras vs Zeppelin PREMIER F4",
-        "publishedAt": "2024-10-01T22:00:06Z",
-        "duration": "PT1H26M23S"
+        "videoId": "QMJ2p8V0SP4",
+        "title": "15\u00b4s Femenino Barbarians vs Carneros 2024 II",
+        "publishedAt": "2024-10-22T22:12:58Z",
+        "duration": "PT1H9M22S"
+    },
+    {
+        "videoId": "BKL62yhkiiM",
+        "title": "15\u00b4s Masculino Minotauros vs Barbarians PREMIER F4",
+        "publishedAt": "2024-10-01T22:00:08Z",
+        "duration": "PT1H8M28S"
     },
     {
         "videoId": "-Z2Cu3FBrVk",
@@ -2832,28 +2850,28 @@
         "duration": "PT1H7M20S"
     },
     {
-        "videoId": "6Ta7feSxU1w",
-        "title": "15\u00b4s Masculino Carneros vs Salamandras F5 2024",
-        "publishedAt": "2024-10-08T22:00:04Z",
-        "duration": "PT1H26M21S"
-    },
-    {
         "videoId": "mJSne7IxhwE",
         "title": "15\u00b4s Masculino Premier Zepelin vs Jaguares 2024 II",
         "publishedAt": "2024-10-23T12:48:58Z",
         "duration": "PT1H19M36S"
     },
     {
-        "videoId": "rkvNwuYXYSI",
-        "title": "15\u00b4s Femenino Coyotes vs Alianza",
-        "publishedAt": "2024-09-24T22:00:37Z",
-        "duration": "PT1H46S"
+        "videoId": "6Ta7feSxU1w",
+        "title": "15\u00b4s Masculino Carneros vs Salamandras F5 2024",
+        "publishedAt": "2024-10-08T22:00:04Z",
+        "duration": "PT1H26M21S"
     },
     {
         "videoId": "sweY51gfqyo",
         "title": "15\u00b4s Masculino Minotauro vs Alianza TRCB 2024",
         "publishedAt": "2024-05-06T23:00:24Z",
         "duration": "PT1H26M59S"
+    },
+    {
+        "videoId": "rkvNwuYXYSI",
+        "title": "15\u00b4s Femenino Coyotes vs Alianza",
+        "publishedAt": "2024-09-24T22:00:37Z",
+        "duration": "PT1H46S"
     },
     {
         "videoId": "hIIP_sK4W7I",
@@ -2868,10 +2886,10 @@
         "duration": "PT1H10M8S"
     },
     {
-        "videoId": "BKL62yhkiiM",
-        "title": "15\u00b4s Masculino Minotauros vs Barbarians PREMIER F4",
-        "publishedAt": "2024-10-01T22:00:08Z",
-        "duration": "PT1H8M28S"
+        "videoId": "LqByQRAgLks",
+        "title": "15\u00b4s Masculino Jaguares vs Carneros PREMIER F4",
+        "publishedAt": "2024-10-01T22:00:26Z",
+        "duration": "PT1H4M23S"
     },
     {
         "videoId": "-YoEusWr0AI",
@@ -2886,16 +2904,16 @@
         "duration": "PT57M42S"
     },
     {
-        "videoId": "sqSw1OjXeDs",
-        "title": "12\u00b4s Masculino Desarrollo Jaguares vs Minotauros Copa Oro",
-        "publishedAt": "2024-05-27T23:00:33Z",
-        "duration": "PT1H5M22S"
-    },
-    {
         "videoId": "kJ2_AkS0zII",
         "title": "15\u00b4s Masculino Jaguares vs Alianza F5 2024",
         "publishedAt": "2024-10-08T22:00:36Z",
         "duration": "PT1H27M52S"
+    },
+    {
+        "videoId": "sqSw1OjXeDs",
+        "title": "12\u00b4s Masculino Desarrollo Jaguares vs Minotauros Copa Oro",
+        "publishedAt": "2024-05-27T23:00:33Z",
+        "duration": "PT1H5M22S"
     },
     {
         "videoId": "YRkJ3YuN1Fs",
@@ -2922,10 +2940,22 @@
         "duration": "PT55M35S"
     },
     {
+        "videoId": "zMR2VycCeT4",
+        "title": "15\u00b4s Masculino Barbarians vs Manoba Desarrollo",
+        "publishedAt": "2024-10-29T22:00:42Z",
+        "duration": "PT1H8M27S"
+    },
+    {
         "videoId": "X3OQ112T5AQ",
         "title": "15\u00b4s Masculino Premier Coyotes Vs Zeppelin TRCB 2024 II",
         "publishedAt": "2024-08-20T22:00:18Z",
         "duration": "PT1H28M12S"
+    },
+    {
+        "videoId": "DOM2PWbnTBs",
+        "title": "15\u00b4s Masculino Minotauros vs Jaguares Premier",
+        "publishedAt": "2024-10-29T22:00:13Z",
+        "duration": "PT1H22M5S"
     },
     {
         "videoId": "xPWJstEm0cg",
@@ -2952,10 +2982,10 @@
         "duration": "PT1H24M38S"
     },
     {
-        "videoId": "LqByQRAgLks",
-        "title": "15\u00b4s Masculino Jaguares vs Carneros PREMIER F4",
-        "publishedAt": "2024-10-01T22:00:26Z",
-        "duration": "PT1H4M23S"
+        "videoId": "yjrfFVeULmc",
+        "title": "15\u00b4s Maculino Salamandras vs Coyotes Premier",
+        "publishedAt": "2024-10-29T22:00:42Z",
+        "duration": "PT1H24M50S"
     },
     {
         "videoId": "MYYybaxp6bg",
@@ -2970,10 +3000,10 @@
         "duration": "PT20M44S"
     },
     {
-        "videoId": "DzBLCYZhdKk",
-        "title": "15\u00b4s Masculino Premier Salamandras Vs Barbarians 2024 II",
-        "publishedAt": "2024-10-23T12:49:14Z",
-        "duration": "PT1H25M4S"
+        "videoId": "HRAvAhehU9g",
+        "title": "COSTA RICA Vs MAGNIFICOS BOGOTA  2024 AMISTOSO",
+        "publishedAt": "2024-08-28T22:00:24Z",
+        "duration": "PT1H30M37S"
     },
     {
         "videoId": "BWUK_hShSZc",
@@ -2982,16 +3012,16 @@
         "duration": "PT1H27M8S"
     },
     {
+        "videoId": "DzBLCYZhdKk",
+        "title": "15\u00b4s Masculino Premier Salamandras Vs Barbarians 2024 II",
+        "publishedAt": "2024-10-23T12:49:14Z",
+        "duration": "PT1H25M4S"
+    },
+    {
         "videoId": "HGZ_pV4Csbg",
         "title": "Bogota vs Costa Rica",
         "publishedAt": "2024-08-25T09:49:23Z",
         "duration": "PT29M55S"
-    },
-    {
-        "videoId": "HRAvAhehU9g",
-        "title": "COSTA RICA Vs MAGNIFICOS BOGOTA  2024 AMISTOSO",
-        "publishedAt": "2024-08-28T22:00:24Z",
-        "duration": "PT1H30M37S"
     },
     {
         "videoId": "NwAZdGDebvY",
