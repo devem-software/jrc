@@ -5,15 +5,10 @@ const dg = new ClassDataGames()
 const render = new ClassRender()
 
 // dg.set_path('../data/partidos.json')
-<<<<<<< Updated upstream
-await dg.set_path("https://raw.githubusercontent.com/devem-software/jrc/refs/heads/main/data/optimized_partidos.json");
-await dg.load_data();
-=======
 await dg.set_path(
     'https://raw.githubusercontent.com/devem-software/jrc/refs/heads/main/data/partidos.json'
 )
 await dg.load_data()
->>>>>>> Stashed changes
 
 // const data = await dg.get_data()
 const games = dg.get_games()
