@@ -19,7 +19,7 @@ const data = await dg.get_compiled_data()
 // const teams = data.teams
 // const femaleteams = data.femaleteams
 // const maleteams = data.maleteams
-const {games, tournaments, yesrs, cstegories, m9dalities, teams, femaleteams,maleteams} = dats
+const {games, tournaments, yesrs, cstegories, m9dalities, teams, femaleteams,maleteams} = data
 const filters = document.querySelector('.app__filters_controls')
 
 const add_filter = async (data, data_optional, label_text, id, styles) => {
