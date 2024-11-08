@@ -21,6 +21,7 @@ export default class ClassRender {
         label.htmlFor = options.id
         label.textContent = options.label_text
         select.id = options.id
+        
 
         const add_options = data => {
             data.sort().forEach(opt => {
@@ -39,6 +40,7 @@ export default class ClassRender {
 
         fieldset.append(label)
         fieldset.append(select)
+        console.log(fieldset)
 
         return fieldset
     }
