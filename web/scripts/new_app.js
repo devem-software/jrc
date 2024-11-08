@@ -48,16 +48,6 @@ const add_filter = async (data, data_optional, label_text, id, styles) => {
 
 const class_selector = "app__filters_controls--control";
 
-add_filter(years, ["TODOS"], "AÑOS", "years", class_selector);
-
-add_filter(
-    tournaments,
-    ["TODOS"],
-    "COMPETENCIAS",
-    "tournaments",
-    class_selector
-);
-
 // llamada de los filtros en paralelo
 await Promise.all([
   add_filter(years, ['TODOS'], 'AÑOS', 'years'),
