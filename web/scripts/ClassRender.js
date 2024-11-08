@@ -1,3 +1,6 @@
+import ClassUtils from './ClassUtils.js'
+
+const utils = new ClassUtils()
 export default class ClassRender {
     constructor() {}
     selector(
@@ -24,6 +27,9 @@ export default class ClassRender {
                 const option = document.createElement('option')
                 option.value = opt.toString().toLowerCase()
                 option.text = opt.toString().toUpperCase()
+                // console.log(opt)
+                // option.value = utils.returnKeyFor(opt, data)
+                // option.text = utils.returnKeyFor(opt, data)
                 select.append(option)
             })
         }

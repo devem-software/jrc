@@ -47,6 +47,8 @@ def optimize_partidos(origin, categories, modalities, teams, tournaments, years)
 
     categories_data = load_file(categories)
     teams_data = load_file(teams)
+    femaleteams_data = load_file(f"female{teams}")
+    maleteams_data = load_file(f"male{teams}")
     tournaments_data = load_file(tournaments)
     years_data = load_file(years)
     modalities_data = load_file(modalities)
@@ -73,6 +75,8 @@ def optimize_partidos(origin, categories, modalities, teams, tournaments, years)
     data["info"]["categories"] = categories_data
     data["info"]["tournaments"] = tournaments_data
     data["info"]["teams"] = teams_data
+    data["info"]["femaleteams"] = femaleteams_data
+    data["info"]["maleteams"] = maleteams_data
 
     with open(
         set_path(f"optimized_{origin}.json"), "w", encoding="utf-8"

@@ -41,25 +41,45 @@ def save_items(item, origin, destiny):
         )
 
 
-def save_teams(origin, destiny):
+def save_teams(origin, destiny, category=0):
     with open(origin) as origin_file:
         data = json.load(origin_file)["games"]
 
     unique_teams = set()
-    for video in data:
-        unique_teams.update(video.get("teams", []))
+    category_title = ""
+    if category == 0:
+        for video in data:
+            unique_teams.update(video.get("teams", []))
+
+    if category == 1:
+        category_title = "female"
+        for video in data:
+            if video.get("category") == "F":
+                unique_teams.update(video.get("teams", []))
+
+    if category == 2:
+        category_title = "male"
+        for video in data:
+            if video.get("category") == "M":
+                unique_teams.update(video.get("teams", []))
 
     order_list = sorted(list(unique_teams))
 
     with open(destiny, "w", encoding="utf-8") as destiny_file:
         json.dump(
-            {"title": "teams", "count": len(order_list), "data": order_list},
+            {
+                "title": f"{category_title}teams",
+                "count": len(order_list),
+                "data": order_list,
+            },
             destiny_file,
             indent=4,
         )
 
 
 save_teams("data/partidos.json", "data/teams.json")
+save_teams("data/partidos.json", "data/femaleteams.json", 1)
+save_teams("data/partidos.json", "data/maleteams.json", 2)
 save_items("category", "data/partidos.json", "data/category.json")
 save_items("modality", "data/partidos.json", "data/modality.json")
 save_items("tournament", "data/partidos.json", "data/tournament.json")
