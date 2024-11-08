@@ -58,24 +58,13 @@ add_filter(
     class_selector
 );
 
-add_filter(categories, ["TODAS"], "CATEGORIAS", "categories", class_selector);
-
-add_filter(modalities, ["TODAS"], "MODALIDADES", "modalities", class_selector);
-
-add_filter(teams, ["TODOS"], "EQUIPOS", "teams", class_selector);
-
-add_filter(
-    maleteams,
-    ["TODOS"],
-    "EQUIPOS MASCULINOS",
-    "maleteams",
-    class_selector
-);
-
-add_filter(
-    femaleteams,
-    ["TODOS"],
-    "EQUIPOS FEMENINOS",
-    "femaleteams",
-    class_selector
-);
+// llamada de los filtros en paralelo
+await Promise.all([
+  add_filter(years, ['TODOS'], 'AÑOS', 'years'),
+  add_filter(tournaments, ['TODOS'], 'COMPETENCIAS', 'tournaments'),
+  add_filter(categories, ['TODAS'], 'CATEGORIAS', 'categories'),
+  add_filter(modalities, ['TODAS'], 'MODALIDADES', 'modalities'),
+  add_filter(teams, ['TODOS'], 'EQUIPOS', 'teams'),
+  add_filter(maleteams, ['TODOS'], 'EQUIPOS MASCULINOS', 'maleteams'),
+  add_filter(femaleteams, ['TODOS'], 'EQUIPOS FEMENINOS', 'femaleteams')
+])
