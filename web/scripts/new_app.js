@@ -23,8 +23,8 @@ const femaleteams = dg.femaleteams
 const maleteams = dg.maleteams
 const filters = document.querySelector('.app__filters_controls')
 
-const add_filter = (data, data_optional, label_text, id, styles) => {
-    data = Object.keys(data)
+const add_filter = async (data, data_optional, label_text, id, styles) => {
+    data = await Object.keys(data)
     filters.append(
         render.selector({
             data,
