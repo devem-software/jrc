@@ -50,7 +50,7 @@ const class_selector = "app__filters_controls--control";
 
 // llamada de los filtros en paralelo
 await Promise.all([
-  add_filter(years, ['TODOS'], 'AÑOS', 'years'),
+  add_filter(years, ['TODOS'], 'AÑOS', 'years', class_selector),
   add_filter(tournaments, ['TODOS'], 'COMPETENCIAS', 'tournaments'),
   add_filter(categories, ['TODAS'], 'CATEGORIAS', 'categories'),
   add_filter(modalities, ['TODAS'], 'MODALIDADES', 'modalities'),
