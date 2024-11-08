@@ -21,7 +21,6 @@ const modalities = data.modalities
 const teams = data.teams
 const femaleteams = dg.femaleteams
 const maleteams = dg.maleteams
-console.log(maleteams)
 const filters = document.querySelector('.app__filters_controls')
 
 const add_filter = (data, data_optional, label_text, id, styles) => {
