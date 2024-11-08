@@ -1,10 +1,8 @@
 import ClassDataGames from './ClassDataGames.js'
 import ClassRender from './ClassRender.js'
-import ClassUtils from './ClassUtils.js'
 
 const dg = new ClassDataGames()
 const render = new ClassRender()
-const utils = new ClassUtils()
 
 // dg.set_path('../data/partidos.json')
 await dg.set_path(
@@ -13,23 +11,24 @@ await dg.set_path(
 await dg.load_data()
 
 const data = await dg.get_compiled_data()
-const games = data.games
-const tournaments = data.tournaments
-const years = data.years
-const categories = data.categories
-const modalities = data.modalities
-const teams = data.teams
-const femaleteams = data.femaleteams
-const maleteams = data.maleteams
+// const games = data.games
+// const tournaments = data.tournaments
+// const years = data.years
+// const categories = data.categories
+// const modalities = data.modalities
+// const teams = data.teams
+// const femaleteams = data.femaleteams
+// const maleteams = data.maleteams
+const {games, tournaments, yesrs, cstegories, m9dalities, teams, femaleteams,maleteams} = dats
 const filters = document.querySelector('.app__filters_controls')
 
 const add_filter = async (data, data_optional, label_text, id, styles) => {
   console.log(data)
-    data = await Object.keys(data)
-    console.log(data)
+//     data = await Object.keys(data)
+//     console.log(data)
     filters.append(
         render.selector({
-            data,
+            Object.keys(data),
             data_optional,
             label_text,
             id,
