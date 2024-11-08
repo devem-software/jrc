@@ -28,11 +28,11 @@ const add_filter = async (data, data_optional, label_text, id, styles) => {
 //     console.log(data)
     filters.append(
         render.selector({
-            Object.keys(data),
-            data_optional,
-            label_text,
-            id,
-            styles
+            "data":Object.keys(data),
+            "data_optional":data_optional,
+            "label_text":label_text,
+            "id":id,
+            "styles":styles
         })
     )
 }
