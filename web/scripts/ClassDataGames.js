@@ -31,8 +31,10 @@ export default class ClassDataGames {
                 categories: this.data.info.categories,
                 years: this.data.info.years,
                 modalities: this.data.info.modalities,
-                femaleteams: await this.get_teams('F'),
-                maleteams: await this.get_teams('M')
+                femaleteams: this.data.info.femaleteams,
+                maleteams: this.data.info.maleteams
+//                 femaleteams: await this.get_teams('F'),
+//                 maleteams: await this.get_teams('M')
             }
             console.log(this.compiled)
             localStorage.setItem(
