@@ -19,8 +19,8 @@ const years = data.years
 const categories = data.categories
 const modalities = data.modalities
 const teams = data.teams
-const femaleteams = dg.femaleteams
-const maleteams = dg.maleteams
+const femaleteams = data.femaleteams
+const maleteams = data.maleteams
 const filters = document.querySelector('.app__filters_controls')
 
 const add_filter = async (data, data_optional, label_text, id, styles) => {
