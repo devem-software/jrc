@@ -48,3 +48,7 @@ await Promise.all([
   add_filter(femaleteams, ['TODOS'], 'EQUIPOS FEMENINOS', 'femaleteams', class_selector)
 ])
 
+const $ = (el)=> document.querySelector(el)
+
+let selector_team =  $("#selector_team")
+console.log(selector_team)
