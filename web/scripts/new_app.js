@@ -80,7 +80,7 @@ await Promise.all([
 const $ = el => document.querySelector(el);
 
 let selector_teams = $("#selector_teams");
-let selector_maleteams = $("#seoector_maleteams");
-let selector_femaleteams = $("#seoector_femaleteams");
+let selector_maleteams = $("#selector_maleteams");
+let selector_femaleteams = $("#selector_femaleteams");
 
 console.log([selector_teams, selector_femaleteams, selector_maleteams]);
