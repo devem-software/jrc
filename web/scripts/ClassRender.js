@@ -40,7 +40,6 @@ export default class ClassRender {
 
         fieldset.append(label)
         fieldset.append(select)
-        console.log(fieldset)
 
         return fieldset
     }
