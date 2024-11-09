@@ -11,14 +11,6 @@ await dg.set_path(
 await dg.load_data();
 
 const data = await dg.get_compiled_data();
-// const games = data.games
-// const tournaments = data.tournaments
-// const years = data.years
-// const categories = data.categories
-// const modalities = data.modalities
-// const teams = data.teams
-// const femaleteams = data.femaleteams
-// const maleteams = data.maleteams
 const {
     games,
     tournaments,
@@ -33,8 +25,6 @@ const filters = document.querySelector(".app__filters_controls");
 
 const add_filter = async (data, data_optional, label_text, id, styles) => {
     console.log(data);
-    //     data = await Object.keys(data)
-    //     console.log(data)
     filters.append(
         render.selector({
             data: Object.keys(data),
@@ -48,7 +38,6 @@ const add_filter = async (data, data_optional, label_text, id, styles) => {
 
 const class_selector = "app__filters_controls--control";
 
-// llamada de los filtros en paralelo
 await Promise.all([
   add_filter(years, ['TODOS'], 'AÑOS', 'years', class_selector),
   add_filter(tournaments, ['TODOS'], 'COMPETENCIAS', 'tournaments', class_selector),
@@ -58,3 +47,4 @@ await Promise.all([
   add_filter(maleteams, ['TODOS'], 'EQUIPOS MASCULINOS', 'maleteams', class_selector),
   add_filter(femaleteams, ['TODOS'], 'EQUIPOS FEMENINOS', 'femaleteams', class_selector)
 ])
+
