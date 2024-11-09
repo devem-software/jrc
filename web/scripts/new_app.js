@@ -83,4 +83,4 @@ let selector_teams = $("#selector_teams");
 let selector_maleteams = $("#seoector_maleteams");
 let selector_femaleteams = $("#seoector_femaleteams");
 
-console.log(selector_teams, selector_femaleteams, selector_maleteams);
+console.log([selector_teams, selector_femaleteams, selector_maleteams]);
