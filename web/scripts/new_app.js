@@ -50,5 +50,8 @@ await Promise.all([
 
 const $ = (el)=> document.querySelector(el)
 
-let selector_team =  $("#selector_team")
-console.log(selector_team)
+let selector_teams =  $("#selector_teams")
+let selector_maleteams = $("#seoector_maleteams")
+let selector_femaleteams = $("#seoector_femaleteams")
+
+console.log(selector_teams, selector_femaleteams,selector_maleteams)
