@@ -38,19 +38,49 @@ const add_filter = async (data, data_optional, label_text, id, styles) => {
 const class_selector = "app__filters_controls--control";
 
 await Promise.all([
-  add_filter(years, ['TODOS'], 'AÑOS', 'years', class_selector),
-  add_filter(tournaments, ['TODOS'], 'COMPETENCIAS', 'tournaments', class_selector),
-  add_filter(categories, ['TODAS'], 'CATEGORIAS', 'categories', class_selector),
-  add_filter(modalities, ['TODAS'], 'MODALIDADES', 'modalities', class_selector),
-  add_filter(teams, ['TODOS'], 'EQUIPOS', 'teams', class_selector),
-  add_filter(maleteams, ['TODOS'], 'EQUIPOS MASCULINOS', 'maleteams', class_selector),
-  add_filter(femaleteams, ['TODOS'], 'EQUIPOS FEMENINOS', 'femaleteams', class_selector)
-])
+    add_filter(years, ["TODOS"], "AÑOS", "years", class_selector),
+    add_filter(
+        tournaments,
+        ["TODOS"],
+        "COMPETENCIAS",
+        "tournaments",
+        class_selector
+    ),
+    add_filter(
+        categories,
+        ["TODAS"],
+        "CATEGORIAS",
+        "categories",
+        class_selector
+    ),
+    add_filter(
+        modalities,
+        ["TODAS"],
+        "MODALIDADES",
+        "modalities",
+        class_selector
+    ),
+    add_filter(teams, ["TODOS"], "EQUIPOS", "teams", class_selector),
+    add_filter(
+        maleteams,
+        ["TODOS"],
+        "EQUIPOS MASCULINOS",
+        "maleteams",
+        class_selector
+    ),
+    add_filter(
+        femaleteams,
+        ["TODOS"],
+        "EQUIPOS FEMENINOS",
+        "femaleteams",
+        class_selector
+    )
+]);
 
-const $ = (el)=> document.querySelector(el)
+const $ = el => document.querySelector(el);
 
-let selector_teams =  $("#selector_teams")
-let selector_maleteams = $("#seoector_maleteams")
-let selector_femaleteams = $("#seoector_femaleteams")
+let selector_teams = $("#selector_teams");
+let selector_maleteams = $("#seoector_maleteams");
+let selector_femaleteams = $("#seoector_femaleteams");
 
-console.log(selector_teams, selector_femaleteams,selector_maleteams)
+console.log(selector_teams, selector_femaleteams, selector_maleteams);
