@@ -84,3 +84,6 @@ let selector_maleteams = $("#selector_maleteams");
 let selector_femaleteams = $("#selector_femaleteams");
 
 console.log([selector_teams, selector_femaleteams, selector_maleteams]);
+
+selector_femaleteams.remove
+selector_maleteams.remove
