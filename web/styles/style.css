@@ -30,7 +30,7 @@ a{
 }
 
 .app__filters {
-    width: 20rem;
+    width: 40rem;
     display: flex;
     flex: 1;
     flex-direction: column;
