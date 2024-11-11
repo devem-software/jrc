@@ -65,3 +65,15 @@ a{
     width: calc(100% - 2rem);
     overflow: hidden;
 }
+
+.app__filters_results--result {
+  display:; flex;
+  margin:.5rem;
+  padding:.25rem;
+  border:1px solid $ffffff;
+  border-radius: .25rem;
+}
+.app__filters_results--result-item{
+  color:#ffffff;
+  text-decoration: none;
+}
