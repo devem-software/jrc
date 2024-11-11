@@ -111,6 +111,9 @@ selector_categories.addEventListener('change', e => {
 games.forEach(el => {
     let container = document.createElement('p')
     let link = document.createElement('a')
+    
+    container.classList.add('app__filters_results--result')
+    link.classList.add('app__filters_results--result-link')
     link.href = `https://www.youtube.com/watch?v=${el.videoId}`
     link.target = 'blank'
     link.innerHTML = `[${utils.getByValue(el.year, years)}] (${utils.getByValue(
