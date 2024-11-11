@@ -34,4 +34,10 @@ export default class ClassUtils {
         const result = Object.keys(array).find(result => array[result] === id)
         return result || 'Dato no encontrado'
     }
+    filterBy(data, item, value, json) {
+        return data.filter(el => el[item] === json[value])
+    }
+    getUniqueValues(data, item) {
+        return Array.from(new Set(data.map(el => el[item])))
+    }
 }

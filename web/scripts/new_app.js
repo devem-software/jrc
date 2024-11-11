@@ -16,18 +16,18 @@ await dg.set_path(remotepath)
 await dg.load_data()
 
 const data = await dg.get_compiled_data()
-console.log(data)
-console.log(dg.get_years())
-const {
-    games,
-    tournaments,
-    years,
-    categories,
-    modalities,
-    teams,
-    femaleteams,
-    maleteams
-} = data
+
+let data_games = data.games
+let data_tournaments = data.tournaments
+let data_years = data.years
+let data_categories = data.categories
+let data_modalities = data.modalities
+let data_teams = data.teams
+let data_femaleteams = data.femaleteams
+let data_maleteams = data.maleteams
+
+console.log(data_games, data_years)
+
 const filters = $('.app__filters_controls')
 const results = $('.app__filters_results')
 
@@ -46,38 +46,44 @@ const add_filter = async (data, data_optional, label_text, id, styles) => {
 const class_selector = 'app__filters_controls--control'
 
 await Promise.all([
-    add_filter(years, ['TODO'], 'AÑOS', 'years', class_selector),
+    add_filter(data_years, ['TODO'], 'AÑOS', 'years', class_selector),
     add_filter(
-        tournaments,
+        data_tournaments,
         ['TODO'],
         'COMPETENCIAS',
         'tournaments',
         class_selector
     ),
     add_filter(
-        categories,
+        data_categories,
         ['TODO'],
         'CATEGORIAS',
         'categories',
         class_selector
     ),
     add_filter(
-        modalities,
+        data_modalities,
         ['TODO'],
         'MODALIDADES',
         'modalities',
         class_selector
     ),
-    add_filter(teams, ['TODOS'], 'TODOS LOS EQUIPOS', 'teams', class_selector),
     add_filter(
-        maleteams,
+        data_teams,
+        ['TODOS'],
+        'TODOS LOS EQUIPOS',
+        'teams',
+        class_selector
+    ),
+    add_filter(
+        data_maleteams,
         ['TODO'],
         'EQUIPOS MASCULINOS',
         'maleteams',
         class_selector
     ),
     add_filter(
-        femaleteams,
+        data_femaleteams,
         ['TODO'],
         'EQUIPOS FEMENINOS',
         'femaleteams',
@@ -108,21 +114,52 @@ selector_categories.addEventListener('change', e => {
     filters.append(eval(`selector_${selector}`))
 })
 
-games.forEach(el => {
-    let container = document.createElement('p')
-    let link = document.createElement('a')
-    
-    container.classList.add('app__filters_results--result')
-    link.classList.add('app__filters_results--result-link')
-    link.href = `https://www.youtube.com/watch?v=${el.videoId}`
-    link.target = 'blank'
-    link.innerHTML = `[${utils.getByValue(el.year, years)}] (${utils.getByValue(
-        el.category,
-        categories
-    )} - ${utils.getByValue(el.modality, modalities)}'s) \t ${utils.getByValue(
-        el.teams[0],
-        teams
-    )} vs ${utils.getByValue(el.teams[1], teams)}`
-    container.append(link)
-    results.append(container)
-})
+let y2015 = utils.filterBy(data_games, 'year', 2015, data_years)
+
+console.log(data_tournaments)
+console.log(
+    utils.getNames(data_tournaments, utils.getUniqueValues(y2015, 'tournament'))
+)
+console.log(utils.getUniqueValues(y2015, 'modality'))
+
+const renderlinks = (container, data) => {
+    data.forEach(el => {
+        let table = ''
+        let body = document.createElement('p')
+        let link = document.createElement('div')
+
+        let year = utils.getByValue(el.year, data_years)
+        let category =
+            utils.getByValue(el.category, data_categories) == 'F'
+                ? 'FEM'
+                : 'MAS'
+        let tournament = utils.getByValue(el.tournament, data_tournaments)
+        let modality = utils.getByValue(el.modality, data_modalities)
+        let team_a = utils.getByValue(el.teams[0], data_teams)
+        let team_b = utils.getByValue(el.teams[1], data_teams)
+
+        table = `<div style="display:flex;margin-bottom:.5rem">`
+        table += `<span style="width:2rem">${year}</span>`
+        table += `<span style="width:1.75rem; text-align:center">${modality}'s</span>`
+        table += `<span style="width:2.5rem; text-align:center">${category}</span>`
+        table += `<span style="flex:1;text-align:right">${tournament}</span>`
+        table += `</div>`
+        table += `<div style="width: 100%;display:flex; justify-content:space-around; font-weight: bold">`
+        table += `<span style="flex:1;">${team_a}</span>`
+        table += `<span style="flex:0;width: 1.5rem; text-aling:center">${0}</span>`
+        table += `<span style="width: 1rem;margin:0 .25rem; text-align:center">vs</span>`
+        table += `<span style="flex:0;width: 1.5rem; text-aling:center">${0}</span>`
+        table += `<span style="flex:1;text-align:right">${team_b}</span>`
+        table += `</div>`
+
+        body.classList.add('app__filters_results--result')
+        link.classList.add('app__filters_results--result-link')
+        link.id = `${el.videoId}`
+        link.target = 'blank'
+        link.innerHTML = table
+        body.append(link)
+        container.append(body)
+    })
+}
+
+renderlinks(results, data_games)

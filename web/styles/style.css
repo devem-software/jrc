@@ -16,10 +16,6 @@ body {
     max-height: 100vh;
 }
 
-a{
-  color:#ffffff;
-}
-
 .app {
     flex: 1;
     display: flex;
@@ -30,7 +26,9 @@ a{
 }
 
 .app__filters {
-    width: 40rem;
+    width: 22rem;
+    max-width: 22rem;
+    min-width: 22rem;
     display: flex;
     flex: 1;
     flex-direction: column;
@@ -66,14 +64,31 @@ a{
     overflow: hidden;
 }
 
-.app__filters_results--result {
-  display:; flex;
-  margin:.5rem;
-  padding:.25rem;
-  border:1px solid $ffffff;
-  border-radius: .25rem;
+.app__filters_results {
+    height: 100%;
+    overflow: hidden;
+    overflow-y: auto;
 }
-.app__filters_results--result-item{
-  color:#ffffff;
-  text-decoration: none;
+
+.app__filters_results--result {
+    margin: 0.5rem;
+    border: 1px solid #ffffff;
+    border-radius: 0.25rem;
+    font-size: 0.8rem;
+    display: flex;
+}
+.app__filters_results--result-link {
+    flex: 1;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.app__filters_results--result-link > div {
+    color: red;
+}
+.app__filters_results--result-link > div + div {
+    color: yellow;
 }
