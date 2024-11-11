@@ -1,4 +1,8 @@
 export default class ClassUtils {
+    arrayToObject(array) {
+        return Object.fromEntries(array.map((k, v) => [k, v]))
+    }
+
     returnKeyFor(val, json) {
         for (let key in json) {
             if (json[key] === val) {
@@ -7,6 +11,7 @@ export default class ClassUtils {
         }
         return null
     }
+
     getNames(set, array) {
         // Invertimos el objeto teams para que las claves sean los valores y viceversa
         const idToName = Object.fromEntries(
@@ -24,5 +29,9 @@ export default class ClassUtils {
         })
 
         return result
+    }
+    getByValue(id, array) {
+        const result = Object.keys(array).find(result => array[result] === id)
+        return result || 'Dato no encontrado'
     }
 }

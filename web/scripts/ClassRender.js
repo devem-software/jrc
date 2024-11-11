@@ -21,16 +21,18 @@ export default class ClassRender {
         label.htmlFor = options.id
         label.textContent = options.label_text
         select.id = options.id
-        
 
         const add_options = data => {
             data.sort().forEach(opt => {
                 const option = document.createElement('option')
+                option.text =
+                    opt.toString().toUpperCase() == 'F'
+                        ? 'FEMENINO'
+                        : opt.toString().toUpperCase() === 'M'
+                        ? 'MASCULINO'
+                        : opt.toString().toUpperCase()
+
                 option.value = opt.toString().toLowerCase()
-                option.text = opt.toString().toUpperCase()
-                // console.log(opt)
-                // option.value = utils.returnKeyFor(opt, data)
-                // option.text = utils.returnKeyFor(opt, data)
                 select.append(option)
             })
         }

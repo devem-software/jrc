@@ -33,10 +33,7 @@ export default class ClassDataGames {
                 modalities: this.data.info.modalities,
                 femaleteams: this.data.info.femaleteams,
                 maleteams: this.data.info.maleteams
-//                 femaleteams: await this.get_teams('F'),
-//                 maleteams: await this.get_teams('M')
             }
-            console.log(this.compiled)
             localStorage.setItem(
                 this.local_storage_key,
                 JSON.stringify(this.data)
@@ -76,19 +73,6 @@ export default class ClassDataGames {
         return [...teams]
     }
 
-    // get_teams(item = '', data = []) {
-    //     const category =
-    //         item.toUpperCase() === 'M'
-    //             ? 'M'
-    //             : item.toUpperCase() === 'F'
-    //             ? 'F'
-    //             : 'ALL'
-    //     const result = this.get_array_item(
-    //         category,
-    //         data.length === 0 ? this.data['games'] : data
-    //     )
-    //     return result
-    // }
     async get_teams(item = '', data = []) {
         data = data.length === 0 ? this.data.games : data
         let teams = new Set()
