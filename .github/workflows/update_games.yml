@@ -22,7 +22,7 @@ jobs:
         python-version: "3.x"
 
     - name: Install Dependencies
-      run: pip install requests google-api-python-client
+      run: pip install dotenv requests google-api-python-client
 
     - name: Run Update Games
       run: python data/update_games.py
